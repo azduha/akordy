@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Lemon Tree</title>
+    <artist>Fools Garden</artist>
+    <url>https://pisnicky-akordy.cz/fools-garden/lemon-tree</url>
+    
+    <sections>
+        <section>
+            <chord value="Ami"/><chord value="Emi"/><chord value="Ami"/><chord value="Emi"/><chord value="Dmi"/><chord value="Emi"/><chord value="Ami"/>
+        </section>
+        <section name="1">
+            I'm <chord value="Ami"/>sitting here in a <chord value="Emi"/>boring room,
+            it's <chord value="Ami"/>just another rainy sunday <chord value="Emi"/>afternoon
+            I'm <chord value="Ami"/>wasting my time I got <chord value="Emi"/>nothing to do,
+            I'm h<chord value="Ami"/>anging around I'm <chord value="Emi"/>waiting for you
+            But <chord value="Dmi"/>nothing ever ha<chord value="Emi"/>ppens - and I <chord value="Ami"/>wonder.<chord value="Emi"/><chord value="Ami"/>
+        </section>
+        <section name="2">
+            I'm driving around in my car,
+            I'm driving too fast I'm driving too far
+            I'd like to change my point of view,
+            I feel so lonely I'm waiting for you
+            But nothing ever happens - and I wonder.
+        </section>
+        <section name="R">
+            I <chord value="C"/>wonder how I <chord value="G"/>wonder why <chord value="Ami"/>yesterday
+            you told me 'bout the <chord value="Emi"/>blue blue sky
+            and <chord value="F"/>all that I can <chord value="G"/>see is just a yellow <chord value="C"/>lemon-tre<chord value="G7"/>e.
+            I'm <chord value="C"/>turning my head <chord value="G"/>up and down
+            I'm <chord value="Ami"/>turning turning turning turning <chord value="Emi"/>turning around
+            And <chord value="F"/>all that I can see is just a yellow lemon<chord value="G"/>-tree.<chord value="G7"/>
+        </section>
+        <section>
+            <chord value="Ami"/>Dip, <chord value="Emi"/>da da di da da <chord value="Ami"/>di dap di di <chord value="Emi"/>...<chord value="Dmi"/><chord value="Ami"/>
+        </section>
+        <section name="3">
+            I'm sitting here I miss the power,
+            I'd like to go out taking a shower
+            But there's a heavy cloud inside my head,
+            I feel so tired put myself into bed
+            Where nothing ever happens - and I wonder
+        </section>
+        <section name="1">
+            <chord value="E"/>Isolation - <chord value="Ami"/>is not good for me
+            <chord value="G"/>Isolation - <chord value="C"/>I don't want to
+            <chord value="E"/>sit on a lemon-tree
+        </section>
+        <section name="2">
+            I'm <chord value="Ami"/>steppin' around in a <chord value="Emi"/>desert of joy,
+            <chord value="Ami"/>baby anyhow I'll get <chord value="Emi"/>another toy
+            and <chord value="Dmi"/>everything will<chord value="Emi"/> happen - and <chord value="Ami"/>I will wond<chord value="Emi"/>er<chord value="Ami"/>
+        </section>
+        <section name="R">
+            I <chord value="C"/>wonder how, I <chord value="G"/>wonder why
+            <chord value="Ami"/>Yesterday you told me 'bout the <chord value="Emi"/>blue blue sky
+            And <chord value="F"/>all that I can <chord value="G"/>see is just a yellow <chord value="C"/>lemon tree.
+            <chord value="C"/>I'm turning my head <chord value="G"/>up and down,
+            <chord value="Ami"/>I'm turning turning turning turning <chord value="Emi"/>turning around
+            And <chord value="F"/>all that I can see is just a yellow lemon <chord value="G"/>tree.
+        </section>
+        <section name="3">
+            I <chord value="C"/>wonder how, I <chord value="G"/>wonder why
+            <chord value="Ami"/>Yesterday you told me 'bout the <chord value="Emi"/>blue blue sky
+            And <chord value="F"/>all that I can <chord value="G"/>see, And <chord value="F"/>all that I can <chord value="G"/>see,
+            And <chord value="F"/>all that I can <chord value="G"/>see is just a yellow <chord value="C"/>lemon tree.
+        </section>
+    </sections>
+</song>

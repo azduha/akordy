@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Když náš táta hrál</title>
+    <artist>Greenhorns</artist>
+    <url>https://pisnicky-akordy.cz/greenhorns/kdyz-nas-tata-hral</url>
+    
+    <sections>
+        <section name="1">
+            Když js<chord value="D"/>em byl chlapec malej, tak metr nad zemí,
+            sch<chord value="G"/>ázeli se farmáři tam <chord value="D"/>u nás v přízemí,
+            mezi nima můj táta u piva sedával
+            <chord value="A7"/>a tu svoji nejmilejší hr<chord value="D"/>ál.
+        </section>
+        <section name="R">
+            <chord value="G"/> <chord value="D"/> <chord value="A7"/> <chord value="D"/> <chord value="G"/> <chord value="D"/> <chord value="A7"/> <chord value="D"/>
+        </section>
+        <section name="2">
+            Teď <chord value="D"/>už jsem chlap jak hora, šest stop a palců pět,
+            už<chord value="G"/> jsem prošel celý Státy a<chord value="D"/> teď táhnu zpět,
+            kdybych si ale ve světě moh' ještě něco přát,
+            <chord value="A7"/>tak zase slyšet svýho tátu hrá<chord value="D"/>t.
+        </section>
+        <section name="R">
+            <chord value="G"/> <chord value="D"/> <chord value="A7"/> <chord value="D"/> <chord value="G"/> <chord value="D"/> <chord value="A7"/> <chord value="D"/>
+        </section>
+        <section name="3">
+            Ta <chord value="D"/>písnička mě vedla mým celým životem,
+            kd<chord value="G"/>yž jsem se toulal po kolejích, <chord value="D"/>žebral za plotem,
+            a když mi bylo nejhůř, tak přece jsem se smál,
+            <chord value="A7"/>když jsem si vzpomněl, jak náš táta hrá<chord value="D"/>l.
+        </section>
+        <section name="R">
+            <chord value="G"/> <chord value="D"/> <chord value="A7"/> <chord value="D"/> <chord value="G"/> <chord value="D"/> <chord value="A7"/> <chord value="D"/>
+        </section>
+        <section name="4">
+            To <chord value="D"/>už je všechno dávno, táta je pod zemí,
+            kd<chord value="G"/>yž je noc a měsíc, p<chord value="D"/>otom zdá se mi,
+            jako bych od hřbitova, kam tátu dali spát,
+            <chord value="A7"/>zase jeho píseň slyšel h<chord value="D"/>rát.
+        </section>
+        <section name="R">
+            <chord value="G"/> <chord value="D"/> <chord value="A7"/> <chord value="D"/> <chord value="G"/> <chord value="D"/> <chord value="A7"/> <chord value="D"/>
+        </section>
+    </sections>
+</song>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Čert na koze jel</title>
+    <artist>Kabát</artist>
+    <url>https://pisnicky-akordy.cz/kabat/cert-na-koze-jel</url>
+    
+    <sections>
+        <section>
+            <chord value="C"/><chord value="G"/><chord value="D"/><chord value="C"/><chord value="G"/><chord value="D"/>
+        </section>
+        <section name="1">
+            <chord value="D"/>Tenkrát bylo veselo a dost málo se <chord value="G"/>brečelo
+            kdo nás znal ten se smál prstem si klepal <chord value="D"/>na čelo
+            <chord value="D"/>život bežel pozpátku a všechno bylo v<chord value="G"/> pořádku
+            holky se nebály a já je kousal do<chord value="D"/> zadku.
+        </section>
+        <section name="R">
+            To <chord value="C"/>čert na koze <chord value="G"/>jel a <chord value="D"/>táta režnou popíjel
+            To <chord value="C"/>čert na koze <chord value="G"/>jel b<chord value="D"/>ejky pěstí zabíjel
+            To <chord value="C"/>čert na koze <chord value="G"/>jel my h<chord value="D"/>onili jsme mamuti
+            to <chord value="C"/>čert na koze <chord value="G"/>jel a já byl ješte při chut<chord value="D"/>i.
+        </section>
+        <section name="2">
+            <chord value="D"/>Jó tenkrát slovo platilo a za lhaní<chord value="G"/> se mlátilo
+            Do hlavy kamenem no špatne se nám než<chord value="D"/>ilo
+            <chord value="D"/>My pro samou legraci jsme neměli čas <chord value="G"/>na práci
+            a pro ty nezvaný tu stály mosty p<chord value="D"/>adací
+        </section>
+        <section name="R">
+            <chord value="C"/>To čert na koze j<chord value="G"/>el a <chord value="D"/>táta režnou popíjel...
+        </section>
+        <section name="3">
+            <chord value="D"/>Řada starších sedících když nebylo <chord value="G"/>co na lžíci
+            Dostali do řepy my hnali jsme je pali<chord value="D"/>cí
+            <chord value="D"/>Tak proto nám to klapalo, že na kec<chord value="G"/>y se nedalo
+            Krávy pivo dávaly a prase v chlívě vě<chord value="D"/>tralo
+        </section>
+        <section name="R">
+            <chord value="C"/>To čert na koze j<chord value="G"/>el a t<chord value="D"/>áta režnou popíjel...
+            + to čert na koze jel
+        </section>
+        <section name="R">
+            <chord value="C"/>To čert na koze j<chord value="G"/>el a <chord value="D"/>táta režnou popíjel...
+            + to čert na koze jel.
+        </section>
+    </sections>
+</song>

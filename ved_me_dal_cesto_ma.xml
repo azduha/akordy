@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Veď mě dál, cesto má</title>
+    <artist>Pavel Bobek</artist>
+    <url>https://pisnicky-akordy.cz/pavel-bobek/ved-me-dal-cesto-ma</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="G"/>Někde v dálce c<chord value="Emi"/>esty končí,
+            <chord value="D"/>každá prý však <chord value="C"/>cíl svůj sk<chord value="G"/>rývá,
+            <chord value="G"/>někde v dálce <chord value="Emi"/>každá má svůj cíl,
+            <chord value="D"/>ať je pár mil dlouhá, <chord value="C"/>nebo tisíc <chord value="G"/>mil.
+        </section>
+        <section name="R">
+            Veď mě d<chord value="G"/>ál, cesto m<chord value="D"/>á, veď mě<chord value="Emi"/> dál, vždyť i <chord value="C"/>já
+            tam, kde kon<chord value="G"/>číš, chtěl bych do<chord value="D"/>jít, veď mě d<chord value="C"/>ál, cesto <chord value="G"/>má.
+        </section>
+        <section name="2">
+            <chord value="G"/>Chodím dlouho <chord value="Emi"/>po všech cestách,
+            <chord value="D"/>všechny znám je, j<chord value="C"/>en ta má mi z<chord value="G"/>bývá,
+            <chord value="G"/>je jak dívky, co <chord value="Emi"/>jsem měl tak rád,
+            <chord value="D"/>plná žáru bývá, h<chord value="C"/>ned zas samý ch<chord value="G"/>lad.
+        </section>
+        <section name="R">
+            <chord value="G"/>Veď mě dál, cesto <chord value="D"/>má, veď mě <chord value="Emi"/>dál, vždyť i <chord value="C"/>já
+            tam, kde kon<chord value="G"/>číš, chtěl bych doj<chord value="D"/>ít, veď mě dá<chord value="C"/>l, cesto m<chord value="G"/>á.
+        </section>
+        <section name="*">
+            <chord value="Emi"/>Pak na patn<chord value="D"/>ík posled<chord value="G"/>ní napíšu křídou
+            j<chord value="C"/>méno své, a <chord value="G"/>pod něj, že jsem ž<chord value="D"/>il hrozně rád,
+            <chord value="Emi"/><chord value="F"/>
+            <chord value="C"/>dám si bandou <chord value="G"/>cvrčků hrát a <chord value="D"/>půjdu spát, půjdu <chord value="D7"/>spát.
+        </section>
+        <section name="1">
+            R V<chord value="G"/>eď mě dál, cesto m<chord value="D"/>á, veď mě d<chord value="Emi"/>ál, vždyť i j<chord value="C"/>á
+            tam, kde kon<chord value="G"/>číš, chtěl bych doj<chord value="D"/>ít, veď mě dá<chord value="C"/>l, cesto m<chord value="G"/>á.
+        </section>
+        <section>
+            |: Veď mě <chord value="E"/>dál cesto <chord value="A"/>má. :|
+        </section>
+    </sections>
+</song>

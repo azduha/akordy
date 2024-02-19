@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Sametová</title>
+    <artist>Žlutý pes</artist>
+    <url>https://pisnicky-akordy.cz/zluty-pes/sametova</url>
+    
+    <sections>
+        <section>
+            Začne jen kytara
+        </section>
+        <section name="1">
+            <chord value="G"/> Vzpomínám, když tehdá<chord value="C"/> před léty<chord value="G"/> začaly lítat<chord value="C"/> rakety,
+            <chord value="G"/>zdál se to bejt <chord value="C"/>docela dobrej <chord value="D"/>nápad,
+            <chord value="G"/>saxofony hrály <chord value="C"/>unyle, <chord value="G"/>frčely švédský <chord value="C"/>košile
+            a <chord value="G"/>někdo se moh' <chord value="Emi"/>docela dobře <chord value="C"/>flákat.<chord value="D"/>
+        </section>
+        <section name="2">
+            <chord value="G"/>Když tam stál rohatej <chord value="C"/>u školy, my <chord value="G"/>neměli podepsaný <chord value="C"/>úkoly,
+            <chord value="G"/>už tenkrát <chord value="C"/>rozhazoval svoje <chord value="D"/>sítě,
+            <chord value="G"/>poučen z předchozích <chord value="C"/>nezdarů s<chord value="G"/>estrojil elektrickou <chord value="C"/>kytaru
+            <chord value="G"/>a rock'n'roll byl <chord value="Emi"/>zrovna narozený dít<chord value="C"/>ě.<chord value="D"/>
+        </section>
+        <section name="R1">
+            <chord value="G"/>Vzpomínáš, takys' tu <chord value="D"/>žila, a <chord value="Emi"/>nedělej, že si ji<chord value="C"/>ná,
+            taková <chord value="G"/>malá pilná <chord value="D"/>včela, taková <chord value="C"/>celá <chord value="D"/> sametov<chord value="G"/>á. - (na sametová se rozjedou bící a hrají všichni)
+        </section>
+        <section name="3">
+            <chord value="G"/>Přišel čas a jako <chord value="C"/>náhoda <chord value="G"/>byla tu bigbítová p<chord value="C"/>ohoda,
+            <chord value="G"/>kytičky a <chord value="C"/>úsměvy sekretáro<chord value="D"/>k,
+            <chord value="G"/>sousedovic bejby M<chord value="C"/>ilena je <chord value="G"/>celá blbá z Boba <chord value="C"/>Dylana,
+            <chord value="G"/>ale to nevadí<chord value="Emi"/>, já mám taky nár<chord value="C"/>ok.<chord value="D"/>
+        </section>
+        <section name="4">
+            <chord value="G"/>Starý, mladý nebo <chord value="C"/>pitomí <chord value="G"/>mlátili do toho j<chord value="C"/>ako my,
+            <chord value="G"/>hlavu plnou <chord value="C"/>Londýna nad <chord value="D"/>Temží,
+            <chord value="G"/>a starej dobrej s<chord value="C"/>atanáš hraje <chord value="G"/>u nás v hospodě <chord value="C"/>mariáš
+            <chord value="G"/>a pazoura se mu <chord value="Emi"/>trumfama jenom <chord value="C"/>hemží.<chord value="D"/>
+        </section>
+        <section name="R2">
+            <chord value="G"/>Vzpomínáš, už je to j<chord value="D"/>inak, a <chord value="Emi"/>jde z toho na mě <chord value="C"/>zima,
+            ty jsi, <chord value="G"/>holka, tehdá <chord value="D"/>byla taková c<chord value="C"/>elá <chord value="D"/> sametov<chord value="G"/>á.
+        </section>
+        <section name="5">
+            <chord value="G"/>A do toho tenhle <chord value="C"/>Gorbačov, <chord value="G"/>co ho znal celej Dlabačov,<chord value="C"/>
+            <chord value="G"/>kopyta měl j<chord value="C"/>ako z Ari<chord value="D"/>zony,
+            <chord value="G"/>přišel a zase <chord value="C"/>odešel a <chord value="G"/>nikdo se kvůli tomu n<chord value="C"/>evěšel
+            <chord value="G"/>a po něm tu zbyly<chord value="Emi"/> samý volný zón<chord value="C"/>y.<chord value="D"/>
+        </section>
+        <section name="R3">
+            [: <chord value="G"/>Vzpomínáš, jak jsi se <chord value="D"/>měla, <chord value="Emi"/>když jsi nic nevěděl<chord value="C"/>a,
+            byla to <chord value="G"/>taková krásná <chord value="D"/>cela a byla <chord value="C"/>celá <chord value="D"/> (sametová<chord value="G"/>) :]
+        </section>
+    </sections>
+</song>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Velrybářská výprava</title>
+    <artist>Pacifik</artist>
+    <url>https://pisnicky-akordy.cz/pacifik/velrybarska-vyprava</url>
+    
+    <sections>
+        <section>
+            <chord value="G"/><chord value="D7"/><chord value="Gsus2"/><chord value="D"/><chord value="Em"/><chord value="C"/><chord value="Am"/><chord value="D7"/><chord value="G"/>
+        </section>
+        <section name="1">
+            <chord value="G"/>Jednou plác' mě p<chord value="C"/>řes rameno <chord value="D7"/>Johny zvanej K<chord value="G"/>necht:
+            "<chord value="Emi"/>Mám pro tebe, <chord value="Ami"/>hochu, v pácu <chord value="D7"/>moc fajnovej <chord value="G"/>kšeft!"
+            Objednal hned l<chord value="C"/>itr rumu <chord value="D7"/>a pak něžně <chord value="G"/>řval:
+            "S<chord value="Emi"/>bal se, jedem<chord value="Ami"/> na velryby, <chord value="D7"/>prej až za po<chord value="G"/>lár."
+        </section>
+        <section name="R">
+            [: Výprava v<chord value="G"/>elrybářská <chord value="C"/>kolem Grónska n<chord value="D7"/>ezdařila <chord value="G"/>se,
+            protože <chord value="Emi"/>nejeli jsme <chord value="Ami"/>na velryby, <chord value="D7"/>ale na mr<chord value="G"/>ože. :]
+        </section>
+        <section name="2">
+            <chord value="G"/>Briga zvaná Malá <chord value="C"/>Kitty kotví<chord value="D7"/> v zátoce,<chord value="G"/>
+            <chord value="Emi"/>nakládaj' se s<chord value="Ami"/>udy s rumem, m<chord value="D7"/>aso, ovoce,<chord value="G"/>
+            vypluli jsme č<chord value="C"/>asně zrán<chord value="D7"/>a, směr seve<chord value="G"/>rní pól,
+            <chord value="Emi"/>dřív, než pří<chord value="Ami"/>stav zmizel z<chord value="D7"/> očí, každej <chord value="G"/>byl namol.
+        </section>
+        <section name="R">
+        </section>
+        <section name="3">
+            <chord value="G"/>Na loď padla jino<chord value="C"/>vatka, s ní<chord value="D7"/> třeskutej mrá<chord value="G"/>z,
+            <chord value="Emi"/>hoň velryby v <chord value="Ami"/>kupách ledu, t<chord value="D7"/>o ti zlomí va<chord value="G"/>z,
+            na pobřeží mís<chord value="C"/>to ženske<chord value="D7"/>jch mávaj' t<chord value="G"/>učňáci,
+            <chord value="Emi"/>v tomhle kraj<chord value="Ami"/>i beztak nemá<chord value="D7"/>š jinou legra<chord value="G"/>ci.
+        </section>
+        <section name="R">
+        </section>
+        <section name="4">
+            <chord value="G"/>Když jsme domů př<chord value="C"/>ipluli, už <chord value="D7"/>psal se příští<chord value="G"/> rok,
+            <chord value="Emi"/>starej rejdař <chord value="Ami"/>povídá, že ned<chord value="D7"/>á ani flok:<chord value="G"/>
+            "Místo velryb <chord value="C"/>v Grónský<chord value="D7"/>m moři zajím<chord value="G"/>al vás grog,
+            <chord value="Emi"/>tuhle práci z<chord value="Ami"/>aplatil by as<chord value="D7"/>i jenom cvok.<chord value="G"/>"
+        </section>
+        <section name="R">
+        </section>
+        <section name="5">
+            <chord value="G"/>Tohleto nám neměl<chord value="C"/> říkat, teď<chord value="D7"/> to dobře ví,<chord value="G"/>
+            <chord value="Emi"/>stáhli jsme mu<chord value="Ami"/> kůži z těla, <chord value="D7"/>tomu hadovi,<chord value="G"/>
+        </section>
+        <section name="1">
+            z paluby pak slanej vítr jeho tělo smet', chachacha,
+            <chord value="Emi"/>máme velryb p<chord value="Ami"/>lný zuby, na <chord value="D7"/>to vezmi jed.<chord value="G"/>
+        </section>
+        <section name="R">
+        </section>
+    </sections>
+</song>

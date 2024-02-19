@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Všech vandráků múza</title>
+    <artist>Žalman</artist>
+    <url>https://pisnicky-akordy.cz/zalman/vsech-vandraku-muza</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="G"/>Přišla k nám znenadání, <chord value="F"/>hubená až <chord value="G"/>hrůza,
+            a <chord value="F"/>řekla, že je <chord value="G"/>múza <chord value="F"/>všech vandráků z <chord value="G"/>Čech,
+            to nebyl hřích po nocích, než <chord value="F"/>po kytaře <chord value="G"/>sáhla,
+            <chord value="F"/>tak nám chleba <chord value="G"/>kradla a <chord value="F"/>čmárala po<chord value="Emi"/> zdech.
+        </section>
+        <section name="R">
+            <chord value="Emi"/>Ha-l<chord value="D"/>e-<chord value="G"/>luja, <chord value="C"/>zavírá se <chord value="G"/>brána,
+            my <chord value="C"/>zpívat chcem do <chord value="G"/>rána,
+            <chord value="C"/>než napadá <chord value="G"/>sníh.
+            <chord value="Emi"/>Ha-l<chord value="D"/>e-<chord value="G"/>luja, <chord value="C"/>kteroupak si <chord value="G"/>dáme,
+            <chord value="C"/>než skončíme s <chord value="G"/>pánem
+            na hřbi<chord value="C"/>tově obu<chord value="G"/>tých.
+        </section>
+        <section name="2">
+            Na Moravě z demižónu dobré víno pila,
+            pak mezi námi žila spoustu hezkejch dní,
+            až jeden pán v limuzíně začal po ní toužit,
+            budeš mi, holka, sloužit, a oženil se s ní.
+        </section>
+        <section name="R">
+        </section>
+        <section name="3">
+            Každou noc po milování skládala mu hity
+            a kašlala na city, na obyčejnej lid,
+            za pár let tahle můza, dneska služka Mici
+            skončila na ulici a pod mostem má byt.
+        </section>
+        <section name="R">
+        </section>
+        <section name="*">
+            Vraťte n<chord value="G"/>ám, vraťte nám tu vš<chord value="F"/>ech vandráků <chord value="G"/>múzu,
+            má r<chord value="F"/>oztrhanou b<chord value="G"/>lůzu, <chord value="F"/>hm hm h<chord value="G"/>m ...
+        </section>
+    </sections>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>L.A.G. song</title>
+    <artist>Horkýže slíže</artist>
+    <url>https://pisnicky-akordy.cz/horkyze-slize/l-a-g-song</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="A"/>Poď sem, nech sa s tebou zblížim, <chord value="E"/>poď sem, ja ti neublížim,
+            <chord value="Hmi"/>poď sem, ja ťa nezbijem, <chord value="D"/>I'm sorry, I'm Lesbian.
+            <chord value="A"/>Poď sem, som tvoj dvorný básnik, <chord value="E"/>mám energiu za dvanástich,
+            <chord value="Hmi"/>a k tomu lubrikačný gel, <chord value="D"/>I'm sorry, I'm really Gay.
+        </section>
+        <section name="R">
+            //: <chord value="A"/>Lesbian's and Gay's <chord value="E"/>song <chord value="G"/>Lesbian's and Gay's <chord value="D"/>song ://
+        </section>
+        <section name="2">
+            <chord value="A"/>Poď sem, pustím Iron Maiden, <chord value="E"/>poď sem, nalejem ti Zajden,
+            <chord value="Hmi"/>poď sem, s bárským nepijem, <chord value="D"/>I'm sorry, I'm Lesbian.
+            <chord value="A"/>Poď sem, tu si ku mne hačaj, <chord value="E"/>keď som ťa pozval na rum a čaj.
+            <chord value="Hmi"/>Stoj! Nechoď nikam! Čo je? Hej! <chord value="D"/>I'm sorry, I'm really Gay.
+        </section>
+        <section name="R">
+            2x
+        </section>
+        <section name="Recitativ">
+            (akordy sloka)
+            Ok, that's enough for now. Thanks very much, you been a great audience. Hey, you come sick... Sorry, I had a curry last night... Those of you in the front might want to move back a bit and those of you in the back open a few windows a little bit so we can get some air in here... Ok, well, I have to tell you the next one is gonna be: Lesbian's and Gay's song.
+        </section>
+        <section>
+            <chord value="Sólo"/><chord value="A"/><chord value="E"/><chord value="G"/><chord value="D"/><chord value="A"/><chord value="E"/><chord value="G"/><chord value="D"/>
+        </section>
+        <section name="3">
+            <chord value="A"/>Poď sem, spolu máme v pláne, <chord value="E"/>že ťa okúpem vo fontáne, (Zásek)
+            <chord value="Hmi"/>tak otvor bránu, lebo ju rozbijem! <chord value="D"/>I'm sorry baby, I'm Lesbian
+            <chord value="A"/>Viem, neopakuj mi to stále, <chord value="E"/>ja som vyrástol na Death Metale
+            <chord value="Hmi"/>Ja takýmto veciam rozumiem. <chord value="D"/>I'm sorry baby... ale veď ja viem!
+        </section>
+        <section name="R">
+            3x ...do ztracena...
+        </section>
+    </sections>
+</song>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Svaz českých bohémů</title>
+    <artist>Wohnout</artist>
+    <url>https://pisnicky-akordy.cz/wohnout/svaz-ceskych-bohemu</url>
+    
+    <sections>
+        <section>
+            <chord value="G"/><chord value="Dmi"/><chord value="Ami"/><chord value="F"/><chord value="C"/>
+        </section>
+        <section name="Ref">
+            <chord value="G"/>Vracím se domů nad rá<chord value="Dmi"/>nem,
+            kvalitním vínem omá<chord value="Ami"/>men,
+            z přímek se stávaj zatáč<chord value="F"/>ky,
+            točí se <chord value="C"/>svět, jsem na srač<chord value="G"/>ky.
+            <chord value="G"/>Vedle mě zvrací princez<chord value="Dmi"/>na,
+            nastavím dlaň a požeh<chord value="Ami"/>nám,
+            pro všechny jasný poselst<chord value="F"/>ví
+            - tomu se <chord value="C"/>říká přátelst<chord value="G"/>ví.
+        </section>
+        <section name="1">
+            <chord value="G"/>wow, mám tisíc otá<chord value="Dmi"/>zek
+            na žádnou vzpomín<chord value="Ami"/>ku,
+            skládám si obrá<chord value="F"/>zek
+            ká<chord value="C"/>men po kamín<chord value="G"/>ku.
+            <chord value="G"/>Včerejší produk<chord value="Dmi"/>ce
+            šla do bezvědo<chord value="Ami"/>mí,
+            nastává deduk<chord value="F"/>ce, co <chord value="C"/>na to svědo<chord value="G"/>mí.
+        </section>
+        <section name="2">
+            A už si vzpomí<chord value="Dmi"/>nám, já byl jsem na sra<chord value="Ami"/>zu,
+            s kumpány který <chord value="F"/>mám, <chord value="C"/>patříme do <chord value="G"/>svazu,
+            <chord value="G"/>vlastníme domé<chord value="Dmi"/>nu, tak si nás rozklik<chord value="Ami"/>ni,
+            svaz českejch bohé<chord value="F"/>mů...
+        </section>
+        <section name="Ref">
+            :
+        </section>
+        <section name="3">
+            Ou, stačí pár večírků, společně s bohémy,
+            za kterými se táhnou od školy problémy.
+            V partě je Blekota, Jekota, Mekota,
+            dost často hovoříme o smyslu života.
+        </section>
+        <section name="4">
+            Jako je třeba teď, mám tisíc otázek,
+            na žádnou vzpomínku, si skládám obrázek.
+            Z těžkejch ran lížu se, včera jsme slavili,
+            svatýho Vyšuse.
+        </section>
+        <section name="Ref">
+        </section>
+        <section name="5">
+            Svět zrychluje svý otáčky,
+            sousedka peče koláčky.
+            Hlášen stav nouze nejvyšší,
+            Hapkové volaj Horáčky.
+            Zástupy českejch bohému,
+            vyráží ven do terénů
+            šavlí z kvalitního vína
+            bojovat proti systému.
+        </section>
+        <section name="6">
+            3x
+            <chord value="G"/>Tak jsme se tu všichni sešli, <chord value="Dmi"/>co myslíš, osobo?
+            <chord value="Ami"/>Na to nelze říci než <chord value="F"/>"Co je ti do to<chord value="C"/>ho?"
+            <chord value="G"/>Tak jsme se tu všichni sešli, <chord value="Dmi"/>co myslíš, osude?
+            <chord value="Ami"/>Na to nelze říci než <chord value="F"/>"Jinak to nebu<chord value="C"/>de."
+        </section>
+    </sections>
+</song>

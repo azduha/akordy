@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Zachraňte koně</title>
+    <artist>Kamelot</artist>
+    <url>https://pisnicky-akordy.cz/kamelot/zachrante-kone</url>
+    
+    <sections>
+        <section>
+            /Emi/ - / Ami7/ - /
+        </section>
+        <section name="instrumental">
+            / D / - / G / C7 H7/
+        </section>
+        <section name="1">
+            <chord value="Emi"/>Peklo byl ráj, když hořela stáj, p<chord value="Ami7"/>říteli,
+            v<chord value="C"/>ěř mi, koně pl<chord value="D"/>áčou, povíd<chord value="G"/>ám,<chord value="C7"/><chord value="H7"/>
+            t<chord value="Emi"/>o byla půlnoc, v tom křik o pomoc, už l<chord value="Ami7"/>etěly
+            h<chord value="C"/>ejna kohout<chord value="H7"/>ů, a bůhví k<chord value="Emi"/>am
+        </section>
+        <section name="R1">
+            Z<chord value="G"/>achraňte koně, kř<chord value="Hmi"/>ičel jsem tisíckr<chord value="C"/>át,
+            ž<chord value="G"/>il jsem jen pro ně, <chord value="Hmi"/>bránil je nejvíck<chord value="C"/>rát,
+            než přišla chv<chord value="Ami"/>íle, kdy hřívy b<chord value="C"/>ílé
+            pročesal pl<chord value="Ami"/>amen, spálil na tr<chord value="H7"/>oud
+        </section>
+        <section>
+            /Emi/ - / Ami7/ - /
+        </section>
+        <section name="instrumental">
+            / D / - / G / C7 H7/
+        </section>
+        <section name="2">
+            O<chord value="Emi"/>hrady a stáj, a v plamenech kraj už <chord value="Ami7"/>nedýchal,
+            já <chord value="C"/>viděl, jak to <chord value="D"/>hříbě um<chord value="G"/>írá,<chord value="C7"/><chord value="H7"/>
+            kl<chord value="Emi"/>isna u něj a smuteční děj se o<chord value="Ami7"/>dbývá,
+            j<chord value="C"/>ak tiše pláče, <chord value="H7"/>oči přiv<chord value="Emi"/>írá
+        </section>
+        <section name="R2">
+            Z<chord value="G"/>achraňte koně, kř<chord value="Hmi"/>ičel jsem tisíckr<chord value="C"/>át,
+            ž<chord value="G"/>il jsem jen pro ně, <chord value="Hmi"/>bránil je nejvíck<chord value="C"/>rát,
+            než přišla chv<chord value="Ami"/>íle, kdy hřívy b<chord value="C"/>ílé
+            pročesal pl<chord value="Ami"/>amen, spálil na tr<chord value="H7"/>oud<chord value="D7"/>
+            Zachraňte <chord value="G"/>koně, k<chord value="Hmi"/>řičel jsem tisíck<chord value="C"/>rát,
+            žil jsem j<chord value="G"/>en pro ně, <chord value="Hmi"/>bránil je nejví<chord value="C"/>ckrát,
+            Zachraňte k<chord value="G"/>oně, kř<chord value="Hmi"/>ičel jsem tisíckr<chord value="C"/>át, Zachraňte <chord value="Emi"/>koně...
+        </section>
+    </sections>
+</song>

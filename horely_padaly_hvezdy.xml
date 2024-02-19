@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Hořely, padaly hvězdy</title>
+    <artist>Michal Šindelář</artist>
+    <url>https://pisnicky-akordy.cz/michal-sindelar/horely-padaly-hvezdy</url>
+    
+    <sections>
+        <section name="Předehra">
+            <chord value="|D|G|A|A|"/><chord value="2x"/>
+        </section>
+        <section name="1">
+            <chord value="D"/>Andělům o<chord value="G"/>trhalo ráno <chord value="A"/>křídla,
+            <chord value="D"/>a v koutech us<chord value="G"/>ínají moje s<chord value="A"/>ny.
+            <chord value="D"/>Za oknem dé<chord value="G"/>šť tiše zp<chord value="A"/>ívá,
+            <chord value="D"/>naše srdce j<chord value="G"/>sou vyh<chord value="A"/>aslý, zavírám oči
+        </section>
+        <section name="R">
+            <chord value="D"/>Tu noc ho<chord value="G"/>řely padaly <chord value="A"/>hvězdy,
+            <chord value="D"/>Ty si se bála,<chord value="G"/> že nepřijde<chord value="A"/> den,
+            <chord value="D"/>já věděl, ž<chord value="G"/>e je to na<chord value="A"/>vždy, a Ty...
+            <chord value="D"/>...že <chord value="G"/>vedle Tebe <chord value="A"/>jsem.
+        </section>
+        <section name="2">
+            Slova jsou naděje i zklamání z pravdy
+            města jsou jen ozvěny našich jmen
+            Jenže ty cesty nejsou vůbec snadný
+            klesají, stoupají s pohledem
+        </section>
+        <section name="3">
+            Tak tady ležím a loučím se s vinou
+            kterou nemá nikdo z nás
+            A věřím, že ty stíny v sebe splynou
+            a všechno začne znovu zas, přicházím do tmy
+        </section>
+        <section name="R">
+        </section>
+        <section name="Solo">
+            <chord value="|D|G|A|A|"/><chord value="4x"/>
+        </section>
+        <section name="R">
+            2x fade out
+        </section>
+    </sections>
+</song>

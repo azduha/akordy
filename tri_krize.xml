@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Tři kříže</title>
+    <artist>Hop Trop</artist>
+    <url>https://pisnicky-akordy.cz/hop-trop/tri-krize</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="Am"/>Dávám sbohem <chord value="G"/>břehům prokla<chord value="Em"/>tejm,
+            který v <chord value="Am"/>drápech má <chord value="G"/>ďáb<chord value="Em"/>el <chord value="Am"/>sám.
+            <chord value="Am"/>Bílou přídí š<chord value="G"/>alupa “My g<chord value="Em"/>rave” míří
+            k <chord value="Am"/>útesům kt<chord value="G"/>er<chord value="Em"/>ý zn<chord value="Am"/>ám.
+        </section>
+        <section name="R">
+            Jen <chord value="C"/>tři kříže
+            z bí<chord value="G"/>lýho kame<chord value="Em"/>ní někdo <chord value="Am"/>do písku <chord value="G"/>posk<chord value="Em"/>láda<chord value="Am"/>l.
+            Slzy v<chord value="C"/> očích měl a<chord value="G"/> v ruce znave<chord value="Em"/>ný lodní
+            <chord value="Am"/>deník, co <chord value="G"/>sám <chord value="Em"/>do něj <chord value="Am"/>psal.
+        </section>
+        <section name="2">
+            <chord value="Am"/>První kříž <chord value="G"/>má pod sebou jen <chord value="Em"/>hřích,
+            samý pit<chord value="Am"/>í a rva<chord value="G"/>čky<chord value="Em"/> je<chord value="Am"/>n.
+            Chřestot nožů, <chord value="G"/>při kterým přejde <chord value="Em"/>smích,
+            srdce <chord value="Am"/>kámen a <chord value="G"/>jméno<chord value="Em"/> “Ste<chord value="Am"/>n.”
+        </section>
+        <section name="R">
+            <chord value="C"/>
+        </section>
+        <section name="3">
+            <chord value="Am"/>Já, Bob Green, <chord value="G"/>mám tváře zjizv<chord value="Em"/>ený,
+            štěkot <chord value="Am"/>psa zněl, <chord value="G"/>když j<chord value="Em"/>sem se sm<chord value="Am"/>ál.
+            Druhej kříž <chord value="G"/>mám a spím pod <chord value="Em"/>zemí,
+            <chord value="Am"/>že jsem falešný <chord value="G"/>kar<chord value="Em"/>ty hr<chord value="Am"/>ál.
+        </section>
+        <section name="R">
+            <chord value="C"/>
+        </section>
+        <section name="4">
+            <chord value="Am"/>Třetí kříž <chord value="G"/>snad vyvolá jen <chord value="Em"/>vztek,
+            Fatty <chord value="Am"/>Rodgers <chord value="G"/>těm dvoum <chord value="Em"/>život vz<chord value="Am"/>al.
+            Svědomí měl, <chord value="G"/>vedle nich si <chord value="Em"/>klek…
+        </section>
+        <section name="Rec">
+            <chord value="C"/>Snad se chtěl modlit <chord value="G"/>vím, trestat je lidské,
+            <chord value="Emi"/>ale odpouštět božské. <chord value="Ami"/>snad mi tedy <chord value="Emi"/>Bůh <chord value="Ami"/>odpustí.
+            Jen <chord value="C"/>tři kříže
+            z bí<chord value="G"/>lýho kame<chord value="Em"/>ní jsem j<chord value="Am"/>im do pís<chord value="G"/>ku p<chord value="Em"/>oskl<chord value="Am"/>ádal.
+            Slzy v <chord value="C"/>očích měl a <chord value="G"/>v ruce znave<chord value="Em"/>ný lodní
+            <chord value="Am"/>deník a v <chord value="G"/>něm <chord value="Em"/>co jsem<chord value="Am"/> psal.
+        </section>
+    </sections>
+</song>

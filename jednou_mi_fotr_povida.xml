@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Jednou mi fotr povídá</title>
+    <artist>Ivan Hlas</artist>
+    <url>https://pisnicky-akordy.cz/ivan-hlas/jednou-mi-fotr-povida</url>
+    
+    <sections>
+        <section>
+            bicí 4 takty
+        </section>
+        <section>
+            <chord value="|A7|A7|"/><chord value="4x"/>
+        </section>
+        <section name="1">
+            <chord value="A7"/> Jednou mi fotr povídá:<chord value="D7"/> zůstali jsme už sami dva,
+            že <chord value="E7"/>si chce začít taky trochu <chord value="A7"/>žít,
+            nech si to projít palicí a nevracej se s vopicí,
+            snaž se mě hochu trochu pochopit.
+        </section>
+        <section name="R">
+            Já <chord value="E7"/>šel, šel dál, baby, <chord value="A7"/>kam mě Pánbůh zval,
+            já <chord value="E7"/>šel, šel dál, baby, a <chord value="D7"/>furt jen tancoval,
+            na <chord value="A7"/>každý divný hranici, na <chord value="D7"/>policejní stanici
+            <chord value="E7"/>hrál jsem jenom rock'n'roll for <chord value="A7"/>you.
+        </section>
+        <section name="Sólo">
+            <chord value="|A7|A7|D7|D7|E7|E7|"/><chord value="2x"/>
+        </section>
+        <section name="2">
+            Přiletěl se mnou černej čáp, zobákem dělal rockin' klap
+            a nad kolíbkou Elvis Presley stál,
+            obrovskej bourák v ulici, po boku krásnou slepici
+            a lidi šeptaj: přijel ňákej král.
+        </section>
+        <section name="R">
+        </section>
+        <section name="Sólo">
+        </section>
+        <section name="3">
+            Pořád tak ňák nemohu, chytit štěstí za nohu
+            a nemůžu si najít klidnej kout,
+            bláznivý ptáci začnou řvát a nový ráno šacovat
+            a do mě vždycky pustí silnej proud.
+        </section>
+        <section>
+            zpěv + basa
+        </section>
+        <section name="R">
+            A ty si šel, šel dál, baby, kam tě Pánbůh zval,
+            já šel, šel dál, baby, a furt jen tancoval,
+        </section>
+        <section>
+            ó... 2 takty
+        </section>
+        <section name="1">
+            Na každý divný hranici, na policejní stanici
+            hrál jsem jenom rock'n'roll for you...
+        </section>
+        <section name="2">
+            ...hrál jsem jenom rock'n'roll for you 2x
+            (a c# d d# e f# g# a)
+            <chord value="|A7|"/>
+        </section>
+    </sections>
+</song>

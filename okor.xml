@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Okoř</title>
+    <artist>táborové písně</artist>
+    <url>https://pisnicky-akordy.cz/taborove-pisne/okor</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="D"/>Na Okoř je cesta, jako žádná ze sta,
+            <chord value="A"/>roubená je stroma<chord value="D"/>ma.
+            <chord value="D"/>Když jdu po ní v létě, samoten na světě,
+            <chord value="A"/>sotva pletu noha<chord value="D"/>ma.
+            <chord value="G"/>Na konci té cesty <chord value="D"/>trnité,
+            <chord value="E"/>stojí krčma jako hrad, jako <chord value="A"/>hrad.
+            <chord value="D"/>Tam zapadli trampi, hladoví a sešlí ,
+            <chord value="A"/>začli sobě noto<chord value="D"/>vat.
+        </section>
+        <section name="R">
+            <chord value="D"/>Na hradě Okoři <chord value="A"/>světla už nehoří,
+            <chord value="D"/>bílá paní <chord value="A"/>šla už dávno <chord value="D"/>spát.
+            Ta měla ve zvyku, <chord value="A"/>podle svého budíku,
+            <chord value="D"/>o půlnoci <chord value="A"/>chodit straší<chord value="D"/>vat.
+            <chord value="G"/>Od těch dob, co jsou tam <chord value="D"/>trampové,
+            <chord value="E"/>nesmí z hradu <chord value="A"/>pryč, z hradu pryč.
+            <chord value="D"/>A tak dole v podhradí <chord value="A"/>se šerifem dovádí,
+            <chord value="D"/>on jí sebral <chord value="A"/>od komnaty <chord value="D"/>klíč.
+        </section>
+        <section name="2">
+            Jednoho dne z rána roznesla se zpráva,
+            že byl Okoř vykraden.
+            Nikdo neví dodnes, kdo to tenkrát odnes,
+            nikdo nebyl dopaden.
+            Šerif hrál celou noc mariáš
+            s bílou paní v kostinci, v kostinci.
+            Místo aby hlídal, zuřivě ji líbal,
+            dostal z toho zimnici.
+        </section>
+        <section name="R">
+        </section>
+    </sections>
+</song>

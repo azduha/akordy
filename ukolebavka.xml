@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Ukolébavka</title>
+    <artist>Jaromír Nohavica</artist>
+    <url>https://pisnicky-akordy.cz/jarek-nohavica/ukolebavka</url>
+    
+    <sections>
+        <section name="1">
+            D<chord value="G"/>en už se seše<chord value="G/F"/>řil, <chord value="Emi7"/>už jste si dost u-<chord value="D/F#"/>ži - <chord value="G"/>li,
+            tak <chord value="Ami"/>hajdy do pe<chord value="C/G"/>řin, a <chord value="D7/F#"/>ne, abyste tam moc řá-<chord value="Ami/G"/>di - <chord value="D7/A"/>li,
+            z<chord value="G"/>ítra je taky <chord value="G/F"/>den, <chord value="Emi7"/>slunko mi to dneska slí-<chord value="D/F#"/>bi - <chord value="G"/>lo,
+            p<chord value="Ami7"/>řejte si hezký <chord value="C/G"/>sen, a <chord value="D7/F#"/>kéž by se nám to spl-<chord value="Ami/G"/>ni - <chord value="D7/A"/>lo,
+            n<chord value="G"/>a na na<chord value="Emi"/> ...<chord value="Hmi"/>, ab<chord value="Emi"/>y hůř n<chord value="Ami"/>ebylo, to by nám st<chord value="D7"/>ačilo.
+        </section>
+        <section name="R">
+            H<chord value="G"/>ajduly, d<chord value="C"/>ajdul<chord value="G"/>y, aby víčka s<chord value="D"/>klapnu<chord value="G"/>ly,
+            hajduly d<chord value="C"/>ajd<chord value="G"/>y, každý svou peřinu n<chord value="D"/>ajd<chord value="G"/>i,
+            hajajajajajaj<chord value="D"/>aj<chord value="G"/>a, Kuba, Lenka, máma <chord value="D"/>a j<chord value="G"/>á,
+            zítra, dřív než slunce z<chord value="C"/>ačne hř<chord value="G"/>át ...,
+            dobrou noc <chord value="D"/>a s<chord value="G"/>pát.
+        </section>
+        <section name="2">
+            V noci někdy chodí strach, srdce náhle dělá buch-buchy,
+            nebojte, já spím na dosah, když mě zavoláte, zbiju zlé duchy,
+            zítra je taky den, slunko mi to dneska slíbilo,
+            přejme si hezký sen, a kéž by se nám to splnilo,
+            na na na ..., aby hůř nebylo, to by nám stačilo.
+        </section>
+        <section name="R">
+            + <chord value="D"/>a s<chord value="G"/>pát, <chord value="D"/>a s<chord value="G"/>pát ...
+        </section>
+    </sections>
+</song>

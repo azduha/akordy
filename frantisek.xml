@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>František</title>
+    <artist>Buty</artist>
+    <url>https://pisnicky-akordy.cz/buty/frantisek</url>
+    
+    <sections>
+        <section>
+            / G / C / G / C /
+        </section>
+        <section name="instrumental">
+        </section>
+        <section name="1">
+            <chord value="G"/>Na hladinu rybníka svítí sluníč<chord value="C"/>ko
+            <chord value="Emi7"/> a kolem stojí v hustém kruhu <chord value="G"/>topoly,
+            <chord value="Ami7"/> které tam zasadil jeden hodný <chord value="Hmi7"/>člověk,
+            <chord value="Ami7"/> jmenoval se František <chord value="D"/>Dobrota.
+        </section>
+        <section name="2">
+            <chord value="G"/>František Dobrota, rodák z blízké <chord value="C"/>vesnice,
+            <chord value="Emi7"/> měl hodně dětí a jednu starou <chord value="G"/>babičku,
+            <chord value="Ami7"/> která když umírala, tak mu řekla: <chord value="Hmi7"/>Františku,
+            <chord value="Ami7"/> teď dobře poslouchej, co máš všechno <chord value="D"/>udělat.
+        </section>
+        <section name="R">
+            <chord value="C"/> Balabambam, balabambam.<chord value="/"/>..<chord value="C"/>...<chord value="/"/>..<chord value="C"/><chord value="D"/><chord value="C"/><chord value="/"/>
+            <chord value="C"/> balabambam, balabambam.<chord value="/"/>..<chord value="C"/>...<chord value="/"/>.<chord value="C"/><chord value="D"/><chord value="C"/><chord value="/"/>
+            <chord value="C"/> balabambam, balabambam.<chord value="/"/>..<chord value="C"/>...<chord value="/"/>.<chord value="C"/><chord value="D"/><chord value="C"/><chord value="/"/>
+            <chord value="Ami7"/> a kolem rybníka nahusto nasázet <chord value="D"/>topoly.
+        </section>
+        <section name="3">
+            <chord value="G"/>František udělal všechno, co mu řek<chord value="C"/>la
+            <chord value="Emi7"/> a po snídani poslal děti <chord value="G"/>do školy,
+            <chord value="Ami7"/> žebřiňák s nářadím dotáhl od chalupy <chord value="Hmi7"/>k rybníku,
+            <chord value="Ami7"/> vykopal díry a zasadil <chord value="D"/>topoly.
+        </section>
+        <section name="4">
+            <chord value="G"/>Od té doby vítr na hladinu nefou<chord value="C"/>ká,
+            <chord value="Emi7"/> takže je klidná jako velké <chord value="G"/>zrcadlo,
+            <chord value="Ami7"/> sluníčko tam svítí vždycky rá<chord value="Hmi7"/>do
+            <chord value="Ami7"/> protože v něm vidí Františkovu <chord value="D"/>babičku.
+        </section>
+        <section>
+            / G / C / Emi7 / G / Ami7 / Hmi7 / Ami7/ D / G /
+        </section>
+    </sections>
+</song>

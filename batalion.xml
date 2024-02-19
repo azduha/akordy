@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Batalion</title>
+    <artist>Spirituál kvintet</artist>
+    <url>https://pisnicky-akordy.cz/spiritual-kvintet/batalion</url>
+    
+    <sections>
+        <section name="*">
+            <chord value="Ami"/>Víno <chord value="C"/>máš a <chord value="G"/>marky<chord value="Ami"/>tánku, dlouhá <chord value="C"/>noc se <chord value="G"/>pro<chord value="Emi"/>-hý-<chord value="Ami"/>ří,
+            <chord value="Ami"/>víno <chord value="C"/>máš a <chord value="G"/>chvilku <chord value="Ami"/>spánku, díky, <chord value="C"/>díky, <chord value="G"/>ver<chord value="Emi"/>-bí-<chord value="Ami"/>ři.
+        </section>
+        <section name="1">
+            <chord value="Ami"/><chord value="C"/><chord value="G"/><chord value="Ami"/><chord value="Emi"/>
+            <chord value="Ami"/>ostruhami do slabin ko<chord value="G"/>ně <chord value="Ami"/>po- <chord value="Emi"/>há- <chord value="Ami"/>ní.
+            <chord value="Ami"/>Tam na straně polední, čekají <chord value="C"/>ženy, zlaťá<chord value="G"/>ky a <chord value="Ami"/>slá-<chord value="Emi"/>va,
+            <chord value="Ami"/>do výstřelů z karabin zvon <chord value="G"/>už <chord value="Ami"/>vy- <chord value="Emi"/>zvá-<chord value="Ami"/>ní.
+        </section>
+        <section name="R">
+            <chord value="Ami"/>Víno na ku<chord value="C"/>ráž, a <chord value="G"/>pomilovat marky<chord value="Ami"/>tánku,
+            zítra do Bur<chord value="C"/>gund, bata<chord value="G"/>lion <chord value="Ami"/>za-m<chord value="Emi"/>í-ří<chord value="Ami"/>.
+            <chord value="Ami"/>Víno na ku<chord value="C"/>ráž a <chord value="G"/>k ránu dvě hodiny <chord value="Ami"/>spá-<chord value="Emi"/>nku,
+            <chord value="Ami"/>díky, díky <chord value="C"/>vám králov<chord value="G"/>ští <chord value="Ami"/>ver-<chord value="Emi"/>bí-ř<chord value="Ami"/>i.
+        </section>
+        <section name="2">
+            <chord value="Ami"/>Rozprášen je batalion, poslední <chord value="C"/>vojáci se <chord value="G"/>k zemi <chord value="Ami"/>hro-<chord value="Emi"/>utí,
+            <chord value="Ami"/>na polštáři z kopretin bu<chord value="G"/>dou <chord value="Ami"/>vě -<chord value="Emi"/>čně <chord value="Ami"/>spát.
+            <chord value="Ami"/>Neplač sladká Marion, verbíři <chord value="C"/>nové chlapce <chord value="G"/>přive<chord value="Ami"/>dou <chord value="Emi"/>ti,
+            <chord value="Ami"/>za královský hermelín, pad<chord value="G"/>ne <chord value="Ami"/>kaž-<chord value="Emi"/>dý <chord value="Ami"/>rád.
+        </section>
+        <section name="R">
+            <chord value="Ami"/>Víno na ku<chord value="C"/>ráž, a <chord value="G"/>pomilovat marky<chord value="Ami"/>tánku,
+            zítra do Burg<chord value="C"/>und, bata<chord value="G"/>lion <chord value="Ami"/>za-m<chord value="Emi"/>í-ří<chord value="Ami"/>.
+            <chord value="Ami"/>Víno na ku<chord value="C"/>ráž a <chord value="G"/>k ránu dvě hodiny <chord value="Ami"/>spá-<chord value="Emi"/>nku,
+            <chord value="Ami"/>díky, díky <chord value="C"/>vám králov<chord value="G"/>ští <chord value="Ami"/>ver-<chord value="Emi"/>bí-ř<chord value="Ami"/>i.
+        </section>
+        <section name="*">
+            <chord value="Ami"/>Víno <chord value="C"/>máš a <chord value="G"/>marky<chord value="Ami"/>tánku, dlouhá <chord value="C"/>noc se <chord value="G"/>pro<chord value="Emi"/>-hý-<chord value="Ami"/>ří,
+            <chord value="Ami"/>víno <chord value="C"/>máš a <chord value="G"/>chvilku <chord value="Ami"/>spánku, díky, <chord value="C"/>díky, <chord value="G"/>ver<chord value="Emi"/>-bí-<chord value="Ami"/>ři.
+        </section>
+    </sections>
+</song>

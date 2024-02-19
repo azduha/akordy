@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Po schodoch</title>
+    <artist>Richard Müller</artist>
+    <url>https://pisnicky-akordy.cz/richard-muller/po-schodoch</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="Dmi"/>Výťah opäť nechodí, tak <chord value="C"/>zdolať trinásť poschodí
+            <chord value="B"/>zostáva mi <chord value="C"/>znovu po sv<chord value="Dmi"/>ojich,
+        </section>
+        <section>
+            na schodoch čosi šramotí a neón kde tu nesvieti,
+        </section>
+        <section>
+            ešte že sa po tme nebojím.
+        </section>
+        <section name="2">
+            Á... Počuť hlasné stereo, aj výstrahy pred neverou,
+        </section>
+        <section>
+            ktosi čosi vŕta v paneloch,
+        </section>
+        <section>
+            tatramatky ródeo zas mieša sa tu s operou,
+        </section>
+        <section>
+            všetko počuť cestou po schodoch.
+        </section>
+        <section name="3">
+            Štekot smutnej kólie, za premárnené prémie
+        </section>
+        <section>
+            vyhráža sa manžel rozvodom,
+        </section>
+        <section name="1">
+            Disko, tenis, árie, kritika televízie,
+            <chord value="B"/>od dnes chodím <chord value="C"/>iba po <chord value="Dmi"/>schodoch.
+        </section>
+        <section>
+            <chord value="|Ami|Dmi|Ami|Gmi|"/>
+        </section>
+        <section name="R">
+            Cestou <chord value="Dmi"/>po schodoch, <chord value="Ami"/>po schodoch,
+            <chord value="Dmi"/>poznávam <chord value="C"/>poschodia,
+            poznám <chord value="Dmi"/>po schodoch, <chord value="Ami"/>po zvukoch,
+            <chord value="B"/>čo sme kto<chord value="A"/> za <chord value="Dmi"/>ľudia
+        </section>
+        <section name="R">
+            4x
+        </section>
+    </sections>
+</song>

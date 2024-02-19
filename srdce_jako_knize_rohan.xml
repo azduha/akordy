@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Srdce jako kníže Rohan</title>
+    <artist>Richard Müller</artist>
+    <url>https://pisnicky-akordy.cz/richard-muller/srdce-jako-knize-rohan</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="F"/>Měsíc je jak Zlatá bula <chord value="C"/>Sicilská
+            <chord value="Ami"/>stvrzuje, že, kdo chce, ten se <chord value="G"/>dopíská
+            <chord value="F"/>pod lampou jen krátce, v přítmí <chord value="C"/>dlouze zas
+            <chord value="Ami"/>otevře ti Kobera<chord value="G"/> a můžeš mezi nás
+        </section>
+        <section>
+            <chord value="|F|C|Ami|G|"/><chord value="2x"/>
+        </section>
+        <section name="2">
+            Moje teta, tvoje teta, parole
+            dvaatřicet karet křepčí na stole
+            měsíc svítí sám a chleba nežere
+            Ty to ale koukej trefit frajere, protože
+        </section>
+        <section name="R1">
+            <chord value="F"/>Dnes je valcha u starýho <chord value="C"/>Růžičky
+            <chord value="Ami"/>dej si prachy do pořádný<chord value="G"/> roličky
+            <chord value="F"/>Co je na tom, že to není <chord value="C"/>extra nóbl byt,
+            <chord value="Ami"/>srdce jako kníže Rohan <chord value="G"/>musíš mít.
+        </section>
+        <section>
+            <chord value="|F|C|Ami|G|"/><chord value="2x"/>
+        </section>
+        <section name="3">
+            Ať jsi přes den docent nebo tunelář
+            herold svatý pravdy nebo jinej lhář
+            tady na to každej kašle zvysoka
+            pravda je jen jedna - slova proroka říkaj, že:
+        </section>
+        <section name="R2">
+            Když je valcha u starýho Růžičky
+            budou v celku nanic všechny řečičky
+            buď to trefa nebo kufr, smůla nebo šnit
+            jen to srdce jako Rohan musíš mít.
+        </section>
+        <section name="4">
+            Kdo se bojí má jen hnědý kaliko
+            možná občas nebudeš mít na mlíko
+            jistě ale poznáš, co jsi vlastně zač,
+            svět nepatřil nikomu, kdo nebyl hráč a proto
+        </section>
+        <section name="R3">
+            Ať je valcha u starýho Růžičky
+            nebo pouť až k tváři Boží rodičky
+            ať je válka, červen, mlha, bouřka nebo klid,
+            srdce jako kníže Rohan musíš mít.
+        </section>
+        <section name="R4">
+            Dnes je valcha u starýho Růžičky
+            když jsi malej tak si stoupni na špičky
+            malej nebo nachlapenej, cikán, brňák, žid
+            srdce jako kníže Rohan musíš mít.
+        </section>
+        <section name="Sólo">
+            <chord value="|F|C|Ami|G|"/><chord value="2x"/>
+        </section>
+        <section name="R1">
+            2x
+        </section>
+        <section name="R3">
+            +|C|
+        </section>
+    </sections>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Kdyby tady byla taková panenka</title>
+    <artist>Žalman</artist>
+    <url>https://pisnicky-akordy.cz/zalman/kdyby-tady-byla-takova-panenka</url>
+    
+    <sections>
+        <section name="1">
+            /: Kdy<chord value="C"/>by tady byla taková panenka,
+            kt<chord value="G7"/>erá by mě chtěl<chord value="C"/>a :/
+            /: kt<chord value="F"/>erá by mě chtěla s<chord value="C"/>yna vychovala
+            př<chord value="G7"/>itom pannou by<chord value="C"/>la :/
+        </section>
+        <section name="2">
+            /: Kdybych já ti měla syna vychovati
+            přitom pannou býti :/
+            /: ty by si mi musel kolíbku dělati
+            do dřeva netíti :/
+        </section>
+        <section name="3">
+            /: Kdybych já ti musel kolíbku dělati
+            do dřeva netíti :/
+            /: ty bys mi musela košiličku šíti
+            bez jehel a nití :/
+        </section>
+        <section name="4">
+            /: Kdybych já ti měla košiličku šíti
+            bez jehel a nití :/
+            /: ty by si mně musel žebřík udělati
+            až k nebeské výši :/
+        </section>
+        <section name="5">
+            /: Kdybych já ti musel žebřík udělati
+            až k nebeské výši :/
+            /: lezli bysme spolu, spadli bysme dolů
+            byl by konec všemu :/
+        </section>
+    </sections>
+</song>

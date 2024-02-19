@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Mlýny</title>
+    <artist>Spirituál kvintet</artist>
+    <url>https://pisnicky-akordy.cz/spiritual-kvintet/mlyny</url>
+    
+    <sections>
+        <section name="R">
+            Já <chord value="G7"/>slyším mlýnský kámen, jak se otáčí
+            já <chord value="C7"/>slyším mlýnský kámen, jak se o<chord value="G7"/>táčí,
+            já <chord value="G7"/>slyším mlýnský káme<chord value="H7"/>n, jak se <chord value="Emi"/>otáčí,
+            <chord value="C"/>ot<chord value="D"/>áč<chord value="G"/>í, otá<chord value="D"/>čí, otá<chord value="C"/>čí...
+        </section>
+        <section name="1">
+            Ty mlýny m<chord value="G"/>elou celou <chord value="C"/>noc a melou <chord value="G"/>celý den,
+            melou b<chord value="C7"/>ez výhod a melou st<chord value="G"/>ejně všem,
+            melou <chord value="G"/>doleva <chord value="C"/>a melou d<chord value="G"/>oprava,
+            melou pr<chord value="A7"/>avdu i lež, když zrovna vy<chord value="D"/>hrává,
+            melou <chord value="G"/>otrok<chord value="C"/>áře, melou <chord value="G"/>otroky,
+            melou n<chord value="C"/>a minuty, na hodiny, n<chord value="G"/>a roky,
+            melou p<chord value="H7"/>omalu a jistě, ale m<chord value="Emi"/>elou vč<chord value="C"/>as,
+            já už sl<chord value="G"/>yším j<chord value="D7"/>ejich hl<chord value="G"/>as
+        </section>
+        <section name="R">
+            Já <chord value="G7"/>slyším mlýnský kámen, jak se otáčí...
+        </section>
+        <section name="2">
+            Ó, já c<chord value="G"/>htěl bych aspoň <chord value="C"/>na chvíli být <chord value="G"/>mlynářem,
+            pane, j<chord value="C7"/>á bych mlel, až by se <chord value="G"/>chvěla zem,
+            to mi v<chord value="G"/>ěřte,<chord value="C"/> uměl bych <chord value="G"/>dobře mlít,
+            já bych <chord value="A7"/>věděl komu ubrat, komu p<chord value="D"/>řitlačit,
+            ty mlýny <chord value="G"/>čekají<chord value="C"/> někde <chord value="G"/>za námi,
+            až z<chord value="C"/>dola zazní naše <chord value="G"/>volání,
+            až zazní j<chord value="H7"/>eden lidský <chord value="Emi"/>hlas <chord value="C"/>
+            "no tak už <chord value="G"/>melte, <chord value="D7"/>je čas<chord value="G"/>"
+        </section>
+        <section name="R">
+            /:Já <chord value="G7"/>slyším mlýnský kámen, jak se otáčí
+            já s<chord value="C7"/>lyším mlýnský kámen, jak se ot<chord value="G7"/>áčí,
+            já s<chord value="G7"/>lyším mlýnský káme<chord value="H7"/>n, jak se <chord value="Emi"/>otáčí,
+            <chord value="C"/>ot<chord value="D"/>áč<chord value="G"/>í, otá<chord value="D"/>čí, otá<chord value="C"/>čí:/
+        </section>
+    </sections>
+</song>

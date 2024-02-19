@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Zafúkané</title>
+    <artist>Fleret</artist>
+    <url>https://pisnicky-akordy.cz/fleret/zafukane</url>
+    
+    <sections>
+        <section name="Intro">
+            <chord value="Ami"/> <chord value="A2"/> <chord value="Ami"/> <chord value="A2"/> <chord value="Ami"/> <chord value="A2"/> <chord value="Ami"/> <chord value="A2"/>
+            <chord value="Ami"/><chord value="A2"/><chord value="Ami"/><chord value="A2"/><chord value="Ami"/><chord value="A2"/><chord value="Ami"/><chord value="A2"/>
+            <chord value="F"/><chord value="F"/><chord value="F"/><chord value="F"/><chord value="Ami"/><chord value="A2"/><chord value="Ami"/><chord value="A2"/>
+        </section>
+        <section name="1">
+            <chord value="Ami"/>Větr sněh <chord value="A2"/>zanésl z<chord value="Ami"/> hor do po<chord value="A2"/>lí,
+            <chord value="Ami"/>já idu p<chord value="C"/>řes kopce, <chord value="G"/>přes údo<chord value="Ami"/>lí,
+            <chord value="C"/>idu k tvej d<chord value="G"/>ědině <chord value="G"/>zatúlan<chord value="C"/>ej,
+            <chord value="F"/>cestičky s<chord value="C"/>něhem sú <chord value="E"/>zafúk<chord value="Ami"/>ané. <chord value="A2"/><chord value="Ami"/><chord value="A2"/>
+        </section>
+        <section name="R">
+            Z<chord value="Ami"/>afúkan<chord value="C"/>é, z<chord value="G"/>afúkan<chord value="C"/>é, <chord value="F"/>kolem mňa <chord value="C"/>všecko je <chord value="Dmi"/>zafúkan<chord value="E"/>é.
+            Z<chord value="Ami"/>afúkan<chord value="C"/>é, z<chord value="G"/>afúkan<chord value="C"/>é, <chord value="F"/>kolem mňa <chord value="Dmi"/>všecko je <chord value="E"/>zafúka<chord value="Ami"/>né.
+        </section>
+        <section name="MEZIHRA">
+            <chord value="Emi"/> <chord value="D"/> <chord value="G"/> <chord value="H7"/> <chord value="Emi"/> <chord value="D"/> <chord value="G"/> <chord value="H7"/> <chord value="Emi"/>
+        </section>
+        <section name="2">
+            <chord value="Ami"/>Už vašu <chord value="A2"/>chalupu z<chord value="Ami"/> dálky vid<chord value="A2"/>ím,
+            <chord value="Ami"/>srdce sa <chord value="C"/>ozvalo, <chord value="G"/>bit ho sly<chord value="Ami"/>ším,
+            <chord value="C"/>snáď enom <chord value="G"/>pár kroků m<chord value="G"/>i zostáv<chord value="C"/>á,
+            a<chord value="F"/> budu u <chord value="C"/>tvého <chord value="E"/>okénka st<chord value="Ami"/>át.<chord value="A2"/><chord value="Ami"/><chord value="A2"/>
+        </section>
+        <section name="R">
+            ... okénko k tobě je zafúkané
+        </section>
+        <section>
+            MEZIHRA 2x
+        </section>
+        <section name="3">
+            <chord value="Ami"/>Od tvého <chord value="A2"/>okna sa <chord value="Ami"/>smutný vra<chord value="A2"/>cám,
+            <chord value="Ami"/>v závějoch <chord value="C"/>zpátky dom <chord value="G"/>cestu hle<chord value="Ami"/>dám,
+            s<chord value="C"/>padl sněh <chord value="G"/>na srdce <chord value="G"/>zatúlan<chord value="C"/>é,
+            a<chord value="F"/>j na mé <chord value="C"/>stopy - sú <chord value="E"/>zafúka<chord value="Ami"/>né.<chord value="A2"/><chord value="Ami"/><chord value="A2"/>
+        </section>
+        <section name="R">
+            ... mé stopy k tobě sú zafúkané
+            MEZIHRA
+        </section>
+    </sections>
+</song>

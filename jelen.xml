@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Jelen</title>
+    <artist>Jehnědy</artist>
+    <url>https://supermusic.cz/skupina.php?action=piesen&idpiesne=1118090</url>
+    
+    <sections>
+        <section name="Předehra">
+            <chord value="D, G, A, G, A, D, G, A, G, A, D, G, A, G, A, Hmi, A,  G"/>
+        </section>
+        <section name="1">
+            <chord value="D"/>Bejval jsem temnej, jak <chord value="G"/>bouřkovej <chord value="D"/>mrak,rouhal se, válčil a <chord value="A"/>pil,
+            <chord value="Hmi"/>v dešti a vánici <chord value="G"/>klopil jsem zrak, abych <chord value="D"/>cestu neztra<chord value="A"/>til.
+        </section>
+        <section name="1">
+            Pak <chord value="D"/>jednou jsem svý oči <chord value="G"/>od země <chord value="D"/>zved a zjistil, že křídla <chord value="A"/>mám,
+            teď <chord value="Hmi"/>přes všechny úsměvy <chord value="G"/>křivý jak šavle, se <chord value="D"/>vracím domů <chord value="A"/>k vám.
+        </section>
+        <section name="R">
+            <chord value="D"/>Slunce je vzhůru a <chord value="G"/>tajou le<chord value="D"/>dy, vítr sníh prohání <chord value="G"/>nad jehně<chord value="A"/>dy,
+            <chord value="D"/>začíná pohyb <chord value="G"/>a končí <chord value="D"/>klid,<chord value="Hmi"/>bylo nám dobře<chord value="A"/> a bude nám <chord value="D"/>líp.
+        </section>
+        <section name="Mezihra">
+            <chord value="D, G, A, G, A, D, G, A, G, A, D, G, A, G, A, Hmi, A,  G"/>
+        </section>
+        <section name="2">
+            Někdy bys rozdal svůj poslední dech a jindy zas radši pár ran,
+            někdy jsi expertem na dlouhej běh, jindy pajdáš do všech stran.
+        </section>
+        <section name="2">
+            A občas se nemůžeš vystát, já vím a se vším bys skoncoval rád,
+            ale hlavně když na konci dalšího dne, můžeš s čistým srdcem spát.
+        </section>
+        <section name="R">
+            <chord value="D"/>Slunce je vzhůru a <chord value="G"/>tajou le<chord value="D"/>dy, vítr sníh prohání <chord value="G"/>nad jehně<chord value="A"/>dy,
+            <chord value="D"/>začíná pohyb <chord value="G"/>a končí <chord value="D"/>klid,<chord value="Hmi"/>bylo nám dobře<chord value="A"/> a bude nám <chord value="G"/>líp.
+        </section>
+        <section name="3">
+            <chord value="Hmi"/>Zlomený srdce tě <chord value="G"/>nezabije,<chord value="A"/>dokud to bolí, tak ještě bije,
+            <chord value="Hmi"/>dokud to bolí a <chord value="G"/>v plicích máš dech,<chord value="D"/>ještě jsi naživu, <chord value="A"/>černá má pech.
+        </section>
+        <section name="R">
+            <chord value="D"/>Slunce je vzhůru a <chord value="G"/>tajou le<chord value="D"/>dy, vítr sníh prohání <chord value="G"/>nad jehně<chord value="A"/>dy,
+            <chord value="D"/>začíná pohyb <chord value="G"/>a končí <chord value="D"/>klid,<chord value="Hmi"/>bylo nám dobře<chord value="A"/> a bude!
+        </section>
+        <section name="R">
+            <chord value="D"/>Slunce je vzhůru a <chord value="G"/>tajou le<chord value="D"/>dy, vítr sníh prohání <chord value="G"/>nad jehně<chord value="A"/>dy,
+            <chord value="D"/>začíná pohyb <chord value="G"/>a končí <chord value="D"/>klid,<chord value="Hmi"/>bylo nám dobře<chord value="A"/> a bude nám <chord value="G"/>líp.
+        </section>
+        <section name="Dohra">
+            <chord value="D, G, A, G, A, D, G, A, G, A, D, G, A, G, A, Hmi, A,  G, D"/>
+        </section>
+    </sections>
+</song>

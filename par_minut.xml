@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Pár minut</title>
+    <artist>Cop</artist>
+    <url>https://pisnicky-akordy.cz/cop/par-minut</url>
+    
+    <sections>
+        <section name="Předehra">
+            Luki
+        </section>
+        <section name="R1">
+            Tv<chord value="G"/>ých pár m<chord value="D"/>inut si př<chord value="Ami"/>ipíchnout jak k<chord value="C"/>ytku na kab<chord value="G"/>át,
+            <chord value="D"/><chord value="Ami"/><chord value="C"/><chord value="D"/><chord value="D7"/><chord value="Gmaj7"/><chord value="D"/>
+        </section>
+        <section name="1">
+            <chord value="G"/><chord value="D"/><chord value="Ami"/><chord value="C"/><chord value="G"/>
+            probudit d<chord value="D"/>en a v<chord value="Ami"/>yprávět mu s<chord value="C"/>en, a potom jen mu <chord value="D"/>ří<chord value="D7"/>ct:<chord value="Gmaj7"/><chord value="D"/>
+        </section>
+        <section name="R2">
+            Tě<chord value="G"/>ch pár mi<chord value="D"/>nut si při<chord value="Ami"/>píchnu jak ky<chord value="C"/>tku na kab<chord value="G"/>át,
+            mávnu kříd<chord value="D"/>ly a k<chord value="Ami"/>abát nechám i s <chord value="C"/>tou kytkou v<chord value="D"/>lát<chord value="D7"/>.<chord value="Gmaj7"/><chord value="D"/>
+        </section>
+        <section name="2">
+            Tu<chord value="G"/>nelem sn<chord value="D"/>ů, tak kr<chord value="Ami"/>átkým i tak dl<chord value="C"/>ouhým, teď běžím <chord value="G"/>sám,
+            až přijdu k v<chord value="D"/>ám, mi<chord value="Ami"/>nut pár svých d<chord value="C"/>ní [: jen mi <chord value="D"/>de<chord value="D7"/>j,:<chord value="Gmaj7"/>] hej.<chord value="D"/>
+        </section>
+        <section name="R2">
+            <chord value="G"/>Těch pár <chord value="D"/>minut si p<chord value="Ami"/>řipíchnu jak <chord value="C"/>kytku na k<chord value="G"/>abát,
+            mávnu kříd<chord value="D"/>ly a k<chord value="Ami"/>abát nechám i s <chord value="C"/>tou kytkou v<chord value="D"/>lát<chord value="D7"/>.<chord value="Gmaj7"/><chord value="D"/>
+        </section>
+        <section>
+            SOLO mandolina + kytara
+        </section>
+        <section name="2">
+            <chord value="G"/><chord value="D"/><chord value="Ami"/><chord value="C"/><chord value="G"/>
+            zatřást dn<chord value="D"/>em a s<chord value="Ami"/>ebrat spadlej ča<chord value="C"/>s, co [: není z<chord value="D"/>lej<chord value="D7"/>, :<chord value="Gmaj7"/>] hej.<chord value="D"/>
+        </section>
+        <section name="R2">
+            3x
+        </section>
+        <section>
+            mávnu kří<chord value="D"/>dly.... a<chord value="Ami"/> kabát nechám i <chord value="C"/>s tou kytkou <chord value="G"/>vlá<chord value="A"/>áá<chord value="G"/>t
+        </section>
+    </sections>
+</song>

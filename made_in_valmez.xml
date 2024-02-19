@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Made in Valmez</title>
+    <artist>Mňága & Žďorp</artist>
+    <url>https://pisnicky-akordy.cz/mnaga-zdorp/made-in-valmez</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="D"/>Jako je sama skála, <chord value="Gmaj7"/>tak jsem sám i <chord value="Em"/>já,<chord value="A"/>
+            jako je prázdná duha, tak jsem prázdný i já,
+            jako je zrádná voda, tak zradím i já.
+        </section>
+        <section name="R">
+            [: <chord value="D"/>Zkouším se prokopat ven - zkouší se prokopat ven,
+            <chord value="Gmaj7"/>zkouším se prokopat ven - <chord value="Em"/>zkouší se <chord value="A"/>prokopat ven. :]
+        </section>
+        <section name="*">
+            <chord value="D"/>O půl třetí na náměstí
+            <chord value="Gmaj7"/>ve Valašském Mezi<chord value="Em"/>říčí,<chord value="A"/>
+            jdu, co noha nohu mine
+            a každý sám sobě jsme stínem.
+        </section>
+        <section name="*">
+            Nic mi není, přitom melu z posledního,
+            těžko říct o tom něco konkrétního,
+            stejná slova kolem, stejný tváře
+            a každý sám sobě jsme lhářem a já už zase:
+        </section>
+        <section name="R">
+            [: Zkouším se prokopat ven ... :]
+        </section>
+        <section name="R">
+            [: Zkouším se prokopat ven ... :]
+        </section>
+    </sections>
+</song>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Hvězdář</title>
+    <artist>UDG</artist>
+    <url>https://pisnicky-akordy.cz/udg/hvezdar</url>
+    
+    <sections>
+        <section name="1">
+            Ztrácíš se <chord value="D"/>před očima, rosteš jen <chord value="A"/>ve vlastním stínu.
+            Každá <chord value="Emi"/>další vina, odkrývá <chord value="G"/>mojí vinu.
+            Ztrácíš se p<chord value="D"/>řed očima, rosteš jen <chord value="A"/>ve vlastním stínu.
+            Každá d<chord value="Emi"/>alší vina odkrývá <chord value="G"/>mojí vinu.
+        </section>
+        <section name="*">
+            Ve vínu <chord value="D"/>dávno nic nehle<chord value="A"/>dám, (dávno nic) ne<chord value="Emi"/>hledám.<chord value="G"/>
+            Ve vínu <chord value="D"/>dávno nic nehle<chord value="A"/>dám, (dávno nic) ne<chord value="Emi"/>hledám.<chord value="G"/>
+        </section>
+        <section name="R">
+            Jak luna <chord value="D"/>mizíš s nocí v bělostných <chord value="A"/>šatech pro nemocné,
+            prosit je <chord value="Emi"/>zvláštní pocit, jen ať je <chord value="G"/>den noc ne.
+            Jak luna <chord value="D"/>mizíš s nocí v bělostných <chord value="A"/>šatech pro nemocné,
+            prosit je <chord value="Emi"/>zvláštní pocit, jen ať je <chord value="G"/>den noc ne.
+        </section>
+        <section name="*">
+            Od proseb <chord value="D"/>dávno nic nečekám<chord value="A"/> (dávno nic) neček<chord value="Emi"/>ám.<chord value="G"/>
+            Od proseb <chord value="D"/>dávno nic nečekám<chord value="A"/> (dávno nic) neček<chord value="Emi"/>ám.<chord value="G"/>
+            <chord value="Mezihra:"/><chord value="D"/><chord value="A"/><chord value="Emi"/><chord value="G"/><chord value="D"/><chord value="A"/><chord value="Emi"/><chord value="G"/>
+        </section>
+        <section name="2">
+            Na chodbách <chord value="D"/>v bludných kruzích zářivka <chord value="A"/>vyhasíná,
+            já ti <chord value="Emi"/>do infuzí chci přilít <chord value="G"/>trochu vína.
+            Na nebi <chord value="D"/>jiných sluncí, jak se tam <chord value="A"/>asi cítíš,
+            s nebeskou <chord value="Emi"/>interpunkcí, jiným tu<chord value="G"/>lákům svítíš.
+        </section>
+        <section name="*">
+            Ve vínu <chord value="D"/>dávno nic nehledám<chord value="A"/> (dávno nic) nehledá<chord value="Emi"/>m.<chord value="G"/>
+            Ve vínu <chord value="D"/>dávno nic nehledám<chord value="A"/> (dávno nic) nehledá<chord value="Emi"/>m.<chord value="G"/>
+        </section>
+        <section name="R">
+            Jak luna <chord value="D"/>mizíš s nocí v bělostných <chord value="A"/>šatech pro nemocné,
+            prosit je <chord value="Emi"/>zvláštní pocit, jen ať je <chord value="G"/>den noc ne.
+            Jak luna <chord value="D"/>mizíš s nocí v bělostných <chord value="A"/>šatech pro nemocné,
+            prosit je <chord value="Emi"/>zvláštní pocit, jen ať je <chord value="G"/>den noc ne.
+        </section>
+        <section name="*">
+            Obzor ne<chord value="D"/>klesne níž, je ráno <chord value="A"/>a ty spíš.
+            Od vlků <chord value="Emi"/>odraná hvězdáře <chord value="G"/>Giordána...
+            Obzor ne<chord value="D"/>klesne níž, je ráno <chord value="A"/>a ty spíš.
+            Od vlků <chord value="Emi"/>odraná hvězdáře <chord value="G"/>Giordána...
+            Obzor ne<chord value="D"/>klesne níž, je ráno <chord value="A"/>a ty spíš.
+            Od vlků <chord value="Emi"/>odraná hvězdáře <chord value="G"/>Giordána... opou<chord value="D"/>štíš.
+        </section>
+    </sections>
+</song>

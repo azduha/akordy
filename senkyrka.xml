@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Šenkýřka</title>
+    <artist>Jarda Hypochondr</artist>
+    <url>https://pisnicky-akordy.cz/jarda-hypochondr/senkyrka</url>
+    
+    <sections>
+        <section name="R">
+            Dneska <chord value="C"/>to rozjedem na plný <chord value="F"/>pecky
+            Zpívat a t<chord value="G"/>ancovat, prošoupem <chord value="C"/>kecky
+            Skoč na stůl <chord value="C"/>Šenkýřko svlíkni se <chord value="F"/>do naha
+            Ať se nám <chord value="G"/>vokáže tvá kyprá <chord value="C"/>postava
+        </section>
+        <section name="1">
+            <chord value="C"/>Stoupá mi to stoupá
+            Konto na <chord value="F"/>lístku puso hloupá
+            Natoč <chord value="G"/>pivo navrch pěnu
+            Za tvý <chord value="F"/>tělo zvedám <chord value="G"/>cenu
+        </section>
+        <section name="R">
+            Aua<chord value="C"/>ú aua<chord value="F"/>ú
+            Aua<chord value="G"/>ú aua<chord value="C"/>ú
+            Aua<chord value="C"/>ú aua<chord value="F"/>ú
+            Aua<chord value="G"/>ú aua<chord value="C"/>ú
+        </section>
+        <section name="2">
+            Přiraž, tak mi přiraž
+            Za to pivo, za ten guláš
+            Zase dráždíš moje chutě
+            Rozlej prcky lásko zvu tě
+        </section>
+        <section name="R">
+            Aua<chord value="C"/>ú aua<chord value="F"/>ú
+            Aua<chord value="G"/>ú aua<chord value="C"/>ú
+            Aua<chord value="C"/>ú aua<chord value="F"/>ú
+            Aua<chord value="G"/>ú aua<chord value="C"/>ú
+        </section>
+    </sections>
+</song>

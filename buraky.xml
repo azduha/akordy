@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Buráky</title>
+    <artist>Michal Tučný</artist>
+    <url>https://pisnicky-akordy.cz/michal-tucny/buraky</url>
+    
+    <sections>
+        <section name="1">
+            Když <chord value="G"/>Sever válčí s Jihem a <chord value="C"/>zem jde do vál<chord value="G"/>ky
+            <chord value="G"/>a v polích místo bavlny teď <chord value="A"/>rostou bodlá<chord value="D"/>ky.
+            <chord value="G"/>Ve stínu u silnice vidíš <chord value="C"/>z Jihu vojá<chord value="G"/>ky,
+            <chord value="G"/>jak válejí líně a <chord value="D"/>louskaj' burá<chord value="G"/>ky.
+        </section>
+        <section name="R">
+            Hej h<chord value="G"/>ou, hej hou, nač <chord value="C"/>chodit do vál<chord value="G"/>ky,
+            <chord value="G"/>je lepší doma sedět a <chord value="A"/>louskat burá<chord value="D"/>ky,
+            <chord value="G"/>hej hou, hej hou, <chord value="C"/>nač chodit do vál<chord value="G"/>ky,
+            <chord value="G"/>je lepší doma sedět a <chord value="D"/>louskat burá<chord value="G"/>ky.
+        </section>
+        <section name="2">
+            P<chord value="G"/>lukovník je v sedle, volá:"<chord value="C"/>Yankeeové jdou<chord value="G"/>!",
+            <chord value="G"/>ale mužstvo v trávě leží, <chord value="A"/>prej dál už nemoh<chord value="D"/>ou,
+            <chord value="G"/>plukovník se otočí a<chord value="C"/> koukne do dál<chord value="G"/>ky,
+            <chord value="G"/>tam jeho slavná armád<chord value="D"/>a teď louská bu<chord value="G"/>ráky.
+        </section>
+        <section name="R">
+            Hej h<chord value="G"/>ou, hej hou, nač <chord value="C"/>chodit do vál<chord value="G"/>ky,
+            <chord value="G"/>je lepší doma sedět a <chord value="A"/>louskat burá<chord value="D"/>ky,
+            <chord value="G"/>hej hou, hej hou, <chord value="C"/>nač chodit do vál<chord value="G"/>ky,
+            <chord value="G"/>je lepší doma sedět a <chord value="D"/>louskat burá<chord value="G"/>ky
+        </section>
+        <section name="3">
+            <chord value="G"/>Až tahle válka skončí a <chord value="C"/>my zas budem ž<chord value="G"/>ít,
+            <chord value="G"/>svý milenky a ženy <chord value="A"/>pak půjdem pol<chord value="D"/>íbit,
+            <chord value="G"/>Když se zeptaj':"<chord value="C"/>Hrdino, cos' dělal za v<chord value="G"/>álky?"
+            "J<chord value="G"/>á flákal jsem se s kv<chord value="D"/>érem a louskal bu<chord value="G"/>ráky."
+        </section>
+        <section name="R">
+            Hej h<chord value="G"/>ou, hej hou, nač <chord value="C"/>chodit do vál<chord value="G"/>ky,
+            <chord value="G"/>je lepší doma sedět a <chord value="A"/>louskat burá<chord value="D"/>ky,
+            <chord value="G"/>hej hou, hej hou, <chord value="C"/>nač chodit do vál<chord value="G"/>ky,
+            <chord value="G"/>je lepší doma sedět a <chord value="D"/>louskat burá<chord value="G"/>ky
+        </section>
+    </sections>
+</song>

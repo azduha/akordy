@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Karviná</title>
+    <artist>Yoyo Band</artist>
+    <url>https://pisnicky-akordy.cz/yoyo-band/karvina</url>
+    
+    <sections>
+        <section name="Př">
+            <chord value="|G|Hmi|C|G"/><chord value="D|"/>
+        </section>
+        <section name="vyhrávka">
+            <chord value="|G|Hmi|C|G"/><chord value="D|"/><chord value="2x"/>
+        </section>
+        <section name="1">
+            Hledám <chord value="G"/>zase temnej kout
+            kdepak <chord value="Hmi7"/>moh bych obejmout
+            jeden <chord value="C7maj"/>den tam v Karvi<chord value="G"/>né-<chord value="D"/>é
+        </section>
+        <section name="1">
+            Hebkej vítr do očí
+            s černou vášní zakročí
+            jeden sten, tam v Karviné-é
+        </section>
+        <section name="2">
+            Nebe mělo plno stuh
+            slunce mělo rudej pruh
+            a dítě bylo, hm, nevinné
+        </section>
+        <section name="2">
+            Smělo jen tak trochu číst
+            v ruce držet tátův list
+            a ptát se proč, proč se země houpá
+        </section>
+        <section name="Zdvih">
+            <chord value="Emi"/> Černý <chord value="E/F#"/>ptáci mu stelou <chord value="E/G"/>postel nebesko<chord value="A"/>u
+            <chord value="Emi"/> nedá p<chord value="E/F#"/>ráci sehnat <chord value="E/G"/>holku nehezko<chord value="D"/>u
+        </section>
+        <section name="R">
+            Mírnej <chord value="G"/>vztek s mírnou <chord value="Cmaj7"/>hlavou
+            duši často<chord value="D"/> mění v alk<chord value="Emi"/>ohol, tam v Karv<chord value="C7maj"/>iné, v Karv<chord value="D"/>iné 2x
+        </section>
+        <section name="3">
+            Těžní věž je jako úd
+            měsíc pije žlutej sud
+            a dává pusu nezvěstné
+        </section>
+        <section name="3">
+            Její oči nejsou fajn,
+            její ústa leccos znaj
+            smutně obhlížím ten kraj, jé
+        </section>
+        <section name="zdvih">
+            Černý...
+        </section>
+        <section name="R">
+            Mírnej... 2x
+        </section>
+        <section name="solo">
+            sloka
+        </section>
+        <section name="zdvih">
+            Černý...
+        </section>
+        <section name="R">
+            Mírnej... 4x
+        </section>
+    </sections>
+</song>

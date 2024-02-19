@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Andělé</title>
+    <artist>Wanastowi Vjecy</artist>
+    <url>https://pisnicky-akordy.cz/wanastowi-vjecy/andele</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="H"/>Co Tě to hne<chord value="C#mi"/>d po ránu <chord value="E"/>napad<chord value="E"/>á
+            <chord value="H"/>nohy, ruce, k<chord value="C#mi"/>omu je chceš <chord value="E"/>dát,
+            <chord value="H"/>je to v krvi c<chord value="C#mi"/>o Tvou hlavu <chord value="E"/>přepadá
+            <chord value="H"/>chtělas padnou<chord value="C#mi"/>t do hrobu a s<chord value="E"/>pát
+        </section>
+        <section name="R">
+            Po<chord value="D"/>ranění an<chord value="A"/>dělé jdou do <chord value="G"/>polí
+            st<chord value="D"/>ěhovaví li<chord value="A"/>di ulí<chord value="G"/>taj,
+            pa<chord value="D"/>nenku bod<chord value="A"/>ni, jí to ne<chord value="G"/>bolí
+            sv<chord value="D"/>ět je mami pr<chord value="A"/>apodivnej k<chord value="G"/>raj
+        </section>
+        <section name="2">
+            Po ránu princezna je ospalá
+            na nebi nemusí se bát.
+            V ulicích doba zlá ji spoutala
+            polykač nálezů a ztrát.
+        </section>
+        <section name="R">
+            Po<chord value="D"/>ranění an<chord value="A"/>dělé jdou do <chord value="G"/>polí...
+        </section>
+        <section name="Sólo">
+            <chord value="2x"/><chord value="H,C#mi,E,E"/><chord value="4"/><chord value="x"/><chord value="D,A,G,G"/>
+        </section>
+        <section name="3">
+            Co Tě zas po ránu napadá
+            za zrcadlem nezkoušej si lhát,
+            miluju Tě, chci Tě to Ti přísahám,
+            na kolenou lásce pomož vstát.
+        </section>
+        <section name="R">
+            Po<chord value="D"/>ranění an<chord value="A"/>dělé jdou do <chord value="G"/>polí...
+        </section>
+        <section name="End">
+            Svět je mami dokonalej kraj.
+            6x do ztracena
+        </section>
+    </sections>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Holubí dům</title>
+    <artist>Jiří Schelinger</artist>
+    <url>https://pisnicky-akordy.cz/jiri-schelinger/holubi-dum</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="Ami"/>Zpív<chord value="G"/>ám <chord value="C"/>ptákům a <chord value="G"/>zvlášť hol<chord value="Ami"/>ubům,
+            <chord value="Ami"/>stáv<chord value="G"/>al <chord value="C"/>v údolí m<chord value="G"/>ém starý d<chord value="Ami"/>ům.
+            <chord value="C"/>Ptá<chord value="G"/>ků houf <chord value="C"/>zalétal<chord value="G"/> ke k<chord value="C"/>rovům,
+            <chord value="Ami"/>měl <chord value="G"/>jsem <chord value="C"/>rád holub<chord value="G"/>ích kříd<chord value="Ami"/>el šum.
+        </section>
+        <section name="2">
+            Vlídná dívka jim házela hrách,
+            mávání perutí víří prach.
+            Ptáci krouží a neznají strach,
+            měl jsem rád starý dům jeho práh
+        </section>
+        <section name="R">
+            Hledám<chord value="Dmi"/> dům hol<chord value="G"/>ubí, kd<chord value="C"/>opak z vás cest<chord value="Ami"/>u ví,
+            míval <chord value="Dmi"/>stáj roube<chord value="G"/>nou, bílý š<chord value="C"/>tít.
+            Kde<chord value="Dmi"/> je dům <chord value="G"/>holubí <chord value="C"/>a ta dívka kde <chord value="Ami"/>spí,
+            vždyť t<chord value="Dmi"/>o ví, že jsem<chord value="G"/> chtěl pro <chord value="Ami"/>ni žít.
+        </section>
+        <section name="1">
+            bláhový, kdo hledá tenhle dům.
+            Odrůstáš chlapeckým střevícům,
+            neslyšíš holubích křídel šum.
+        </section>
+        <section name="4">
+            Nabízej úplatou cokoli,
+            nepojíš cukrových homolí.
+            Můžeš mít třeba zrak sokolí,
+            nespatříš ztracené údolí.
+        </section>
+        <section name="R">
+            Zpívám ptákům a zvlášť holubům, stával v údolí mém starý dům.
+        </section>
+    </sections>
+</song>

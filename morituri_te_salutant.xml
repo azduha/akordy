@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Morituri te salutant</title>
+    <artist>Karel Kryl</artist>
+    <url>https://pisnicky-akordy.cz/karel-kryl/morituri-te-salutant</url>
+    
+    <sections>
+        <section name="1">
+            Cesta je <chord value="Ami"/>prach a <chord value="G"/>štěrk a <chord value="Dmi"/>udusaná <chord value="Ami"/>hlína
+            <chord value="C"/>a šedé <chord value="F"/>šmouhy <chord value="G7"/>kreslí do vlas<chord value="C"/>ů.
+            [: A z hvězdných <chord value="Dmi"/>drah má <chord value="G"/>šperk, co <chord value="C"/>kamením se <chord value="E"/>spíná
+            a<chord value="Ami"/> pírka <chord value="G"/>touhy z <chord value="Emi"/>křídel <chord value="Ami"/>Pegasů. :]
+        </section>
+        <section name="2">
+            Cesta je <chord value="Ami"/>bič, je <chord value="G"/>zlá, jak <chord value="Dmi"/>pouliční <chord value="Ami"/>dáma,
+            m<chord value="C"/>á v ruce <chord value="F"/>štítky, <chord value="G7"/>v pase <chord value="C"/>staniol.
+            [: A z očí <chord value="Dmi"/>chtíč jí <chord value="G"/>plá, když <chord value="C"/>háže do nez<chord value="E"/>náma
+            d<chord value="Ami"/>vě křehké <chord value="G"/>snítky <chord value="Emi"/>rudých <chord value="Ami"/>gladiol :]
+        </section>
+        <section name="Ref">
+            Seržante <chord value="G"/>písek je bílý, jak paže Daniely.
+            <chord value="Ami"/>Počkejte chvíli, mé oči uviděly
+            <chord value="G7"/>tu strašně dávnou vteřinu zapomnění.
+            <chord value="Ami"/>Seržante mávnou <chord value="G7"/>a budem zasvěceni.
+            <chord value="C"/>Morituri te salutant! <chord value="E"/>Morituri te salutant!
+        </section>
+        <section name="3">
+            Tou cestou <chord value="Ami"/>dál jsem <chord value="G"/>šel, kde <chord value="Dmi"/>na zemi se z<chord value="Ami"/>mítá
+            a<chord value="C"/> písek <chord value="F"/>víří <chord value="G7"/>křídlo holu<chord value="C"/>bí.
+            [: A marš mi <chord value="Dmi"/>hrál zvuk d<chord value="G"/>ěl, co <chord value="C"/>uklidnění <chord value="E"/>skýtá
+            a<chord value="Ami"/> zvedá <chord value="G"/>chmýří, <chord value="Emi"/>které zah<chord value="Ami"/>ubí :]
+        </section>
+        <section name="4">
+            Cesta je <chord value="Ami"/>tér a pra<chord value="G"/>ch a u<chord value="Dni"/>dusaná h<chord value="Ami"/>lína,
+            m<chord value="C"/>osazná <chord value="F"/>včelka <chord value="G7"/>od vlkodl<chord value="C"/>aka.
+            [: Rezavý k<chord value="Dmi"/>vér, můj bra<chord value="G"/>ch a sto <chord value="C"/>let stará<chord value="E"/> špína
+            a <chord value="Ami"/>děsně <chord value="G"/>velká <chord value="Emi"/>bílá obla<chord value="Ami"/>ka:]
+        </section>
+    </sections>
+</song>

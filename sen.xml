@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Sen</title>
+    <artist>Lucie</artist>
+    <url>https://pisnicky-akordy.cz/lucie/sen</url>
+    
+    <sections>
+        <section name="1">
+            Stíny <chord value="C"/>dnů a snů se k obratníkům<chord value="F2"/> stáčí
+            Ruce <chord value="C"/>snů černejch se snaží zakrýt <chord value="F2"/>oči
+            Světlo <chord value="Dmi"/>tvý prozradí proč já<chord value="C"/> vím
+            S novým <chord value="Dmi"/>dnem, že s<chord value="F2"/>e zas nav<chord value="G"/>rátí
+        </section>
+        <section name="2">
+            Mraky <chord value="C"/>se plazí, vítr je <chord value="F2"/>láme
+            Stíny tvý <chord value="C"/>duše rozplynou se v <chord value="F2"/>šeru
+            Ve v<chord value="Dmi"/>lnách opouští, po hodinách<chord value="C"/> mizí
+            A mě<chord value="Dmi"/>síc nový st<chord value="F2"/>íny vypla<chord value="G"/>ší
+        </section>
+        <section name="R">
+            Proud motý<chord value="C"/>lů unáší strach
+            Na listy <chord value="F2"/>sedá hvězdnej prach
+            Proletí <chord value="Ami"/>ohněm a mizí stále d<chord value="G"/>ál
+            Neslyšný <chord value="C"/>kroky stepujou
+            V nebeským <chord value="F2"/>rytmu swingujou
+            Že se <chord value="Ami"/>ráno, že se ráno vytr<chord value="G"/>atí
+        </section>
+        <section name="3">
+            <chord value="C"/>Stíny dnů vyrostou a <chord value="F2"/>zmizí
+            N<chord value="C"/>ebeský znamení, rosvěcujou h<chord value="F2"/>vězdy
+            Všechno<chord value="Dmi"/> ví z povzdálí vedou naše <chord value="C"/>kroky
+            A mě<chord value="Dmi"/>síc nový st<chord value="F2"/>íny vypl<chord value="G"/>aší
+        </section>
+        <section name="R">
+            ...
+        </section>
+        <section name="R">
+            Proud motý<chord value="C"/>lů unáší strach
+            Na listy <chord value="F"/>sedá hvězdnej prach
+            A nový s<chord value="Ami"/>tíny, a nový stíny<chord value="G"/> vyplaší
+        </section>
+    </sections>
+</song>

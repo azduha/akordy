@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Píseň malých pěšáků</title>
+    <artist>Žalman</artist>
+    <url>https://pisnicky-akordy.cz/zalman/pisen-malych-pesaku</url>
+    
+    <sections>
+        <section name="1">
+            J<chord value="G"/>e nás v<chord value="C"/>íc než l<chord value="D"/>oni,
+            <chord value="G"/>obyč<chord value="C"/>ejnejch pěšák<chord value="D"/>ů,
+            ch<chord value="Hmi"/>odíme hledat v<chord value="C"/>íru svou,
+            v dlažbě <chord value="G"/>ukrytou, jsme děti <chord value="D"/>ulice.
+        </section>
+        <section name="2">
+            R<chord value="G"/>áno býv<chord value="C"/>aj' smut<chord value="D"/>ný nádraží,
+            <chord value="G"/>lásk<chord value="C"/>y odjížděj' s<chord value="D"/>e vdát,
+            na<chord value="Hmi"/> peróně stojí <chord value="C"/>schoulený,
+            s dálkou <chord value="G"/>snoubený pěšáci sil<chord value="D"/>nice.
+        </section>
+        <section name="R">
+            M<chord value="F"/>á svou jistou p<chord value="G"/>íseň,
+            s k<chord value="F"/>ošilí kdo spí drátěn<chord value="G"/>ou,
+            <chord value="Hmi"/>ó, lidé, tiše p<chord value="C"/>ůjdem
+            do starý v<chord value="G"/>rby zvolat: hell<chord value="D"/>o, jdem dál, hell<chord value="G"/>o.
+        </section>
+        <section name="3">
+            Jednou zuje pěšák boty svý
+            na šachovnici světa rád,
+            vykouří doutník, lehne si
+            do stoky pod širák a bude snít.
+        </section>
+        <section name="4">
+            O malých dětech na nádraží,
+            co hledaj' mámy a duši svou,
+            ptáci pod křídly je ukryjou
+            a pak v objetí s nimi odletí.
+        </section>
+        <section name="R">
+        </section>
+        <section name="3">
+            Půlnoční vítr už vyhrává
+            píseň malých pěšáků,
+            ulicí smutkem dlážděnou,
+            tichou dálnicí, tichou dálnicí půjdem dál.
+        </section>
+    </sections>
+</song>

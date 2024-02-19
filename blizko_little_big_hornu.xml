@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Blízko Little Big Hornu</title>
+    <artist>Greenhorns</artist>
+    <url>https://pisnicky-akordy.cz/greenhorns/blizko-little-big-hornu</url>
+    
+    <sections>
+        <section name="1">
+            Tam, <chord value="Emi"/>kde leží Little Big Horn, je indiánská zem,
+            tam přijíždí generál Custer <chord value="Ami"/>se svým praporem,
+            mod<chord value="Emi"/>rý kabáty jezdců, stíny <chord value="Ami"/>dlouhejch karabin,
+            a <chord value="Emi"/>z indiánskejch signálů po nebi letí <chord value="E"/>dým.
+        </section>
+        <section name="R">
+            <chord value="E"/>Říkal to Jim Bridger: já měl jsem v noci <chord value="H7"/>sen,
+            pod sedmou kavalerií jak krví rudne <chord value="E"/>zem,
+            kmen Siouxů je statečný a <chord value="E7"/>dobře svůj kraj zn<chord value="A"/>á,
+            proč <chord value="H7"/>Custer neposlouchá ta <chord value="E"/>slova varovná?<chord value="Emi"/>
+        </section>
+        <section name="2">
+            Tam blízko Little Big Hornu šedivou prérií
+            táhne generál Custer s sedmou kavalerií,
+            marně mu stopař Bridger radí: zpátky povel dej,
+            jedinou možnost ještě máš, život si zachovej.
+        </section>
+        <section name="R">
+        </section>
+        <section name="3">
+            Tam blízko Little Big Hornu se vznáší smrti stín,
+            padají jezdci z koní, výstřely z karabin,
+            límce modrejch kabátů barví krev červená,
+            kmen Siouxů je statečný a dobře svůj kraj zná.
+        </section>
+        <section name="R">
+        </section>
+        <section name="4">
+            Pak všechno ztichlo a jen tamtam duní nad krajem,
+            v oblaku prachu mizí Siouxů vítězný kmen,
+            cáry vlajky hvězdnatý po kopcích vítr vál,
+            tam uprostřed svých vojáků leží i generál.
+        </section>
+        <section name="R">
+            ... Custer neposlouchal ...
+        </section>
+    </sections>
+</song>

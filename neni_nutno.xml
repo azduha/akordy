@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Není nutno</title>
+    <artist>Zdeněk Svěrák, Jaroslav Uhlíř</artist>
+    <url>https://pisnicky-akordy.cz/sverak-uhlir/neni-nutno</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="C"/>Není nutno, není nutno, aby bylo přímo vese<chord value="Dmi"/>lo,
+            hl<chord value="G7"/>avně nesmí býti smutno, natož aby se brečel<chord value="C"/>o.<chord value="G"/>
+        </section>
+        <section name="1">
+            <chord value="C"/><chord value="Dmi"/>
+            ne<chord value="G7"/>mít žádné kamarády, tomu já říkám neštěstí<chord value="C"/>.
+        </section>
+        <section name="*">
+            Nemít pr<chord value="Ami"/>achy - <chord value="C"/>nevadí, nemít <chord value="Ami"/>srdce -<chord value="C"/> vadí,
+            zažít kr<chord value="Ami"/>achy - <chord value="C"/>nevadí, zažít <chord value="Ami"/>nudu -<chord value="F"/> jó, to<chord value="G"/> vadí.
+        </section>
+        <section name="3">
+            =1. (2x)
+        </section>
+    </sections>
+</song>

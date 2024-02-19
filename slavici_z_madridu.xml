@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Slavíci z Madridu</title>
+    <artist>Waldemar Matuška</artist>
+    <url>https://pisnicky-akordy.cz/waldemar-matuska/slavici-z-madridu#</url>
+    
+    <sections>
+        <section>
+            <chord value="intro:"/><chord value="Dmi"/><chord value="Ami"/><chord value="E7"/><chord value="Ami,"/><chord value="Dmi"/><chord value="Ami"/><chord value="E7"/><chord value="Ami"/>
+        </section>
+        <section name="1">
+            N<chord value="Ami"/>ebe je modrý a zl<chord value="E7"/>atý, bílá sluneční <chord value="Ami"/>záře,
+            horko a sváteční š<chord value="E7"/>aty, vřava a zpocený <chord value="Ami"/>tváře,
+            vím, co se bude d<chord value="E7"/>ít, býk už se v ohradě <chord value="Ami"/>vzpíná,
+            kdo chce, ten může <chord value="E7"/>jít, já si dám sklenici <chord value="Ami"/>vína.<chord value="A"/>
+        </section>
+        <section name="R">
+            <chord value="Dmi"/>Žízeň je veliká, <chord value="Ami"/>život mi utíká,
+            n<chord value="E7"/>echte mě příjemně <chord value="Ami"/>snít,
+            <chord value="Dmi"/>ve stínu pod fíky,<chord value="Ami"/> poslouchat slavíky,
+            z<chord value="E7"/>pívat si s nima a <chord value="Ami"/>pít.
+        </section>
+        <section name="2">
+            <chord value="Ami"/>Ženy jsou krásný a <chord value="E7"/>cudný, mnohá se ve mně <chord value="Ami"/>zhlídla,
+            <chord value="Ami"/>oči jako dvě studny<chord value="E7"/>, vlasy jak havraní kří<chord value="Ami"/>dla,
+            <chord value="Ami"/>dobře vím, co znamená, <chord value="E7"/>pád do nástrah dívčího <chord value="Ami"/>klína,
+            <chord value="Ami"/>někdo má pletky rád<chord value="E7"/>, já si dám sklenici ví<chord value="Ami"/>na.
+        </section>
+        <section name="R">
+            Žízeň je veliká...
+        </section>
+        <section name="3">
+            <chord value="Ami"/>Nebe je modrý a <chord value="E7"/>zlatý, ženy krásný a <chord value="Ami"/>cudný,
+            <chord value="Ami"/>mantily, sváteční <chord value="E7"/>šaty, oči jako dvě <chord value="Ami"/>studny,
+            <chord value="Ami"/>zmoudřel jsem stranou od li<chord value="E7"/>dí, jsem jak ta zahrada <chord value="Ami"/>stinná,
+            <chord value="Ami"/>kdo chce, ať mi závi<chord value="E7"/>dí, já si dám sklenici <chord value="Ami"/>vína.
+        </section>
+        <section name="R">
+            Žízeň je veliká...
+        </section>
+        <section name="R">
+            Žízeň je veliká...
+        </section>
+    </sections>
+</song>

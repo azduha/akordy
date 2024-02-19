@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Sáro!</title>
+    <artist>Traband</artist>
+    <url>https://pisnicky-akordy.cz/traband/saro</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="Ami"/><chord value="Emi"/><chord value="F"/><chord value="C"/>
+            <chord value="F"/><chord value="C"/><chord value="F"/><chord value="G"/>
+        </section>
+        <section name="R1">
+            <chord value="Ami"/>Sáro, <chord value="Emi"/>Sáro, <chord value="F"/>v noci se mi <chord value="C"/>zdálo,
+            <chord value="F"/>že andělé <chord value="C"/>Boží k nám <chord value="F"/>přišli na o<chord value="G"/>běd
+            <chord value="Ami"/>Sáro, <chord value="Emi"/>Sáro, jak <chord value="F"/>moc a nebo <chord value="C"/>málo
+            mi <chord value="F"/>chybí, abych <chord value="C"/>tvojí duši <chord value="F"/>mohl rozu<chord value="G"/>mět?
+        </section>
+        <section name="1">
+            Sbor<chord value="Ami"/> kajícných<chord value="Emi"/> mnichů jd<chord value="F"/>e krajinou <chord value="C"/>v tichu
+            a pro <chord value="F"/>všechnu lidskou <chord value="C"/>pýchu
+            má jen <chord value="F"/>přezíravý <chord value="G"/>smích
+            A z <chord value="Ami"/>prohraných <chord value="Emi"/>válek se <chord value="F"/>vojska domů <chord value="C"/>vrací
+            Však <chord value="F"/>zbraně stále <chord value="C"/>burácí
+            a <chord value="F"/>bitva zuří v <chord value="G"/>nich
+        </section>
+        <section name="R2">
+            <chord value="Ami"/>Sáro, <chord value="Emi"/>Sáro, <chord value="F"/>v noci se mi <chord value="C"/>zdálo,
+            <chord value="F"/>že andělé k <chord value="C"/>nám <chord value="F"/>přišli na o<chord value="G"/>běd
+            <chord value="Ami"/>Sáro, <chord value="Emi"/>Sáro, jak <chord value="F"/>moc a nebo <chord value="C"/>málo
+            mi <chord value="F"/>chybí, abych <chord value="C"/>tvojí duši <chord value="F"/>mohl rozu<chord value="G"/>mět?
+        </section>
+        <section name="2">
+            Vévoda v zámku čeká na balkóně
+            až přivedou mu koně
+            a pak mává na pozdrav
+            A srdcová dáma má v každé ruce růže
+            Tak snadno poplést může
+            sto urozených hlav
+        </section>
+        <section name="R3">
+            <chord value="Ami"/>Sáro, <chord value="Emi"/>Sáro, <chord value="F"/>v noci se mi <chord value="C"/>zdálo,
+            že <chord value="F"/>tři poslové <chord value="C"/>Boží k nám <chord value="F"/>přišli na o<chord value="G"/>běd
+            <chord value="Ami"/>Sáro, <chord value="Emi"/>Sáro, jak <chord value="F"/>moc a nebo <chord value="C"/>málo
+            mi <chord value="F"/>chybí, abych <chord value="C"/>tvojí duši <chord value="F"/>mohl rozu<chord value="G"/>mět?
+        </section>
+        <section name="3">
+            Královnin šašek s pusou od povidel
+            sbírá zbytky jídel
+            a myslí na útěk
+            V podzemí skrytí, slepí alchymisté
+            už objevili jistě
+            proti povinnosti lék
+        </section>
+        <section name="R4">
+            <chord value="Ami"/>Sáro, <chord value="Emi"/>Sáro, <chord value="F"/>v noci se mi <chord value="C"/>zdálo,
+            <chord value="F"/>že andělé k <chord value="C"/>nám <chord value="F"/>přišli na o<chord value="G"/>běd
+            <chord value="Ami"/>Sáro, <chord value="Emi"/>Sáro, jak <chord value="F"/>moc a nebo <chord value="C"/>málo
+            ti <chord value="F"/>chybí abys <chord value="C"/>mojí duši <chord value="F"/>mohla rozu<chord value="G"/>mět?
+        </section>
+        <section name="4">
+            Páv pod tvým oknem zpívá, sotva procit'
+            o tajemstvích noci
+            ve tvých zahradách
+            A já - potulný kejklíř, co svázali mu ruce
+            teď hraju o tvé srdce
+            a chci mít tě na dosah
+        </section>
+        <section name="R5">
+            Sáro, Sáro, pomalu a líně
+            s hlavou na tvém klíně chci se probouzet
+            Sáro, Sáro, Sáro, Sáro, rosa padá ráno
+            a v poledne už možná bude jiný svět
+            <chord value="Ami"/>Sáro, <chord value="Em"/>Sáro, <chord value="F"/>vstávej, milá <chord value="C"/>Sáro!
+            <chord value="F"/>Andělé k nám <chord value="Dmi"/>přišli na o<chord value="C"/>běd
+        </section>
+    </sections>
+</song>

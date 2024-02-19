@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Hallelujah</title>
+    <artist>Leonard Cohen</artist>
+    <url>https://pisnicky-akordy.cz/leonard-cohen/hallelujah</url>
+    
+    <sections>
+        <section name="1">
+            I've h<chord value="C"/>eard there was a s<chord value="Ami"/>ecret chord
+            That <chord value="C"/>David played, and it <chord value="Ami"/>pleased the Lord.
+            But <chord value="F"/>you don't really <chord value="G"/>care for music, <chord value="C"/>do you?<chord value="G"/>
+            It <chord value="C"/>goes like this, the <chord value="F"/>fourth, the <chord value="G"/>fifth
+            The <chord value="Ami"/>minor fall, the <chord value="F"/>major lift
+            The <chord value="G"/>baffled king com<chord value="E7"/>posing Halle<chord value="Ami"/>lujah
+        </section>
+        <section name="R">
+            Halle<chord value="F"/>lujah, Halle<chord value="Ami"/>lujah
+            Halle<chord value="F"/>lujah, Halle<chord value="C"/>lu-uu<chord value="G"/>uu-u<chord value="C"/>jah
+        </section>
+        <section name="2">
+            Your faith <chord value="C"/>was strong but you needed <chord value="Ami"/>proof
+            You s<chord value="C"/>aw her bathing on <chord value="Ami"/>the roof
+            Her <chord value="F"/>beauty and the <chord value="G"/>moonlight o<chord value="C"/>verthrew you<chord value="G"/>
+            She<chord value="C"/> tied you To a<chord value="F"/> kitchen cha<chord value="G"/>ir
+            She<chord value="Ami"/> broke your throne, and she <chord value="F"/>cut your hair
+            And <chord value="G"/>from your lips she <chord value="E7"/>drew the H<chord value="Ami"/>allelujah
+        </section>
+        <section name="R">
+            Hallelujah .....
+        </section>
+        <section name="3">
+            You say I took the name in vain
+            I don't even know the name
+            <chord value="F"/>But if I did, w<chord value="G"/>ell really,<chord value="C"/> what's it t<chord value="G"/>o you?
+            There's a blaze of light In every word
+            It doesn't matter which you heard
+            The holy or the broken Hallelujah
+        </section>
+        <section name="R">
+            Hallelujah .....
+        </section>
+        <section name="4">
+            I <chord value="C"/>did my best, it wa<chord value="Ami"/>sn't much
+            I couldn't feel, so I tried to touch
+            I've told the truth, I didn't come to fool you
+            And even though It all went wrong
+            I'll stand before the Lord of Song
+            With nothing on my tongue but Hallelujah
+        </section>
+    </sections>
+</song>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>První signální</title>
+    <artist>Chinaski</artist>
+    <url>https://pisnicky-akordy.cz/chinaski/prvni-signalni</url>
+    
+    <sections>
+        <section name="1">
+            Až si <chord value="G"/>zejtra ráno <chord value="C"/>řeknu zase <chord value="Em"/>jednou provždy dost,
+            <chord value="G"/>právem se mi <chord value="C"/>budeš tiše <chord value="Em"/>smát.
+            Jak omluvit si svoji slabost, nenávist a zlost,
+            když za všechno si můžu vlastně sám.
+        </section>
+        <section name="R">
+            Za <chord value="Am7"/>spoustu dní, možná za <chord value="C"/>spoustu let,
+            až se mi <chord value="G"/>rozední, budu ti <chord value="D"/>vyprávět,
+            na první signální, jak jsem obletěl svět,
+            jak tě to omámí a nepustí zpět.
+            Jaký si to <chord value="F"/>uděláš - <chord value="B"/>takový to<chord value="Dmi"/> máš,
+            jaký si to uděláš - takový to máš.
+        </section>
+        <section name="2">
+            Až se <chord value="G"/>dneska večer <chord value="C"/>budu tvářit <chord value="Em"/>zas jako Karel Gott,
+            <chord value="G"/>budu zpívat <chord value="C"/>vampam - ty<chord value="Em"/>dapam. (a Zvonky šťastia)
+            Všechna sláva, polní tráva, ale peníz přijde vhod,
+            jak jsem si to udělal, tak to mám.
+        </section>
+        <section name="R">
+            Za <chord value="Am"/>spoustu dní, možná za <chord value="C"/>spoustu let,
+            až se mi <chord value="G"/>rozední, budu ti <chord value="D"/>vyprávět,
+            na první signální, jak jsem obletěl svět,
+            jak tě to omámí a nepustí zpět.
+        </section>
+        <section name="1">
+            Na na na <chord value="Am"/>naaa na na
+            Na na na <chord value="C"/>naaa na na
+            Na na na <chord value="G"/>naaa na na
+            Na na na <chord value="D/F#"/>naaa na na
+        </section>
+        <section name="2">
+            Jaký si to u<chord value="F"/>děláš - <chord value="B#"/>takový to<chord value="Dmi"/> máš,
+            jaký si to uděláš - takový to máš.
+        </section>
+    </sections>
+</song>

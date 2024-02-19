@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Rodné údolí</title>
+    <artist>táborové písně</artist>
+    <url>https://pisnicky-akordy.cz/taborove-pisne/rodne-udoli</url>
+    
+    <sections>
+        <section name="1">
+            Cesta <chord value="C"/>má přede mnou v dáli <chord value="F"/>mizí,
+            každý<chord value="C"/> krok v srdci mém zabol<chord value="G"/>í,
+            zakrát<chord value="C"/>ko bude <chord value="C7"/>mi všechno <chord value="F"/>cizí,
+            nespa<chord value="C"/>třím své <chord value="G"/>rodné údo<chord value="C"/>lí.
+        </section>
+        <section name="R">
+            Já volám: <chord value="C"/>na shledanou,<chord value="F"/> na shledanou,
+            <chord value="C"/>na shledanou,<chord value="G"/> rodné úd<chord value="C"/>olí.
+            Já volám: na shledanou<chord value="F"/>, na shledanou,
+            <chord value="C"/>při vzpomínce <chord value="G"/>srdce zabo<chord value="C"/>lí.
+        </section>
+        <section name="2">
+            Oči mé<chord value="C"/> nevidí, jak se stmív<chord value="F"/>á,
+            nevid<chord value="C"/>í, co jsem měl tolik rá<chord value="G"/>d,
+            jediné<chord value="C"/>, co mi <chord value="C7"/>teď ještě z<chord value="F"/>bývá:
+            rodné<chord value="C"/>mu údolí <chord value="G"/>sbohem dá<chord value="C"/>t.
+        </section>
+        <section name="R">
+            Já volám: <chord value="C"/>na shledanou,<chord value="F"/> na shledanou,
+            <chord value="C"/>na shledanou,<chord value="G"/> rodné úd<chord value="C"/>olí.
+            Já volám: na shledanou<chord value="F"/>, na shledanou,
+            <chord value="C"/>při vzpomínce <chord value="G"/>srdce zabo<chord value="C"/>lí.
+        </section>
+        <section name="3">
+            Proč se den za každou nocí vrací,
+            proč se čas na chvíli nezastaví,
+            nemusel bych ti své sbohem dáti,
+            kdyby dnešní den navěky byl.
+        </section>
+        <section name="R">
+            Já volám: na shledanou, na shledanou...
+        </section>
+    </sections>
+</song>

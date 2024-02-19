@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Bláznova ukolébavka</title>
+    <artist>táborové písně</artist>
+    <url>https://pisnicky-akordy.cz/taborove-pisne/blaznova-ukolebavka</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="D"/>Máš, má ovečko, <chord value="A"/>dávno spát, <chord value="G"/>už píseň ptáků <chord value="D"/>končí,
+            kvůli nám přesta<chord value="A"/>l i vítr vát, <chord value="G"/>jen můra z<chord value="D"/>írá zvenčí,
+            j<chord value="A"/>á znám její zášť, ta<chord value="G"/>k vyhledej skrýš,
+            z<chord value="A"/>as má bílej plášť a<chord value="G"/> v okně <chord value="A"/>je mříž.
+        </section>
+        <section name="R">
+            M<chord value="D"/>áš, má ovečko, <chord value="A"/>dávno spát,
+            <chord value="G"/>a můžeš hřát, ty mě <chord value="E"/>můžeš hřát,
+            vždyť <chord value="D"/>přijdou se<chord value="G"/> ptát, zítra zas <chord value="D"/>přijdou se <chord value="G"/>ptát,
+            jestli ty v <chord value="D"/>mých předsta<chord value="G"/>vách už <chord value="D"/>mizíš.
+        </section>
+        <section name="2">
+            <chord value="D"/>Máš, má ovečko, <chord value="A"/>dávno spát, <chord value="G"/>už máme půlnoc <chord value="D"/>temnou,
+            zítra budou nám <chord value="A"/>bláznům lát, <chord value="G"/>že ráda snídáš <chord value="D"/>se mnou,
+            <chord value="A"/>proč měl bych jim lhát, <chord value="G"/>že jsem tady sám,
+            <chord value="A"/>když tebe mám rád, <chord value="G"/>když tebe <chord value="A"/>tu mám.
+        </section>
+        <section name="R">
+        </section>
+    </sections>
+</song>

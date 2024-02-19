@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Dokud se zpívá</title>
+    <artist>Jaromír Nohavica</artist>
+    <url>https://pisnicky-akordy.cz/jarek-nohavica/dokud-se-zpiva</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="C"/>Z Těšína<chord value="Emi"/> vyjíždí <chord value="Dm7"/>vlaky co čtv<chord value="F"/>rthodinu<chord value="C"/>,<chord value="Emi"/><chord value="Dm7"/><chord value="G"/>
+            <chord value="C"/>včera jsem <chord value="Emi"/>nespal a <chord value="Dm7"/>ani dnes <chord value="F"/>nespoč<chord value="C"/>inu,<chord value="Emi"/><chord value="Dm7"/><chord value="G"/>
+            <chord value="F"/>svatý <chord value="G"/>Medard, můj <chord value="C"/>patron, ťuká si na čel<chord value="G"/>o,
+            ale <chord value="F"/>dokud se <chord value="G"/>zpívá, <chord value="F"/>ještě se <chord value="G"/>neumře<chord value="C"/>lo.<chord value="Emi"/><chord value="Dm7"/><chord value="G"/>
+        </section>
+        <section name="2">
+            <chord value="C"/>Ve stánku<chord value="Emi"/> koupím si <chord value="Dm7"/>housku a <chord value="F"/>slané tyčk<chord value="C"/>y,<chord value="Emi"/><chord value="Dm7"/><chord value="G"/>
+            <chord value="C"/>srdce mám<chord value="Emi"/> pro lásku <chord value="Dm7"/>a hlavu p<chord value="F"/>ro písničk<chord value="C"/>y,<chord value="Emi"/><chord value="Dm7"/><chord value="G"/>
+            <chord value="F"/>ze školy <chord value="G"/>dobře vím, <chord value="C"/>co by se dělat měl<chord value="G"/>o,
+            ale <chord value="F"/>dokud se <chord value="G"/>zpívá, <chord value="F"/>ještě se <chord value="G"/>neumře<chord value="C"/>lo.<chord value="Emi"/><chord value="Dm7"/><chord value="G"/>
+        </section>
+        <section name="3">
+            <chord value="C"/>Do alba j<chord value="Emi"/>ízdenek<chord value="Dm7"/> lepím si <chord value="F"/>další jedn<chord value="C"/>u,<chord value="Emi"/><chord value="Dm7"/><chord value="G"/>
+            <chord value="C"/>vyjel jsem <chord value="Emi"/>před chvílí, <chord value="Dm7"/>konec je v<chord value="F"/> nedohledn<chord value="C"/>u,<chord value="Emi"/><chord value="Dm7"/><chord value="G"/>
+            <chord value="F"/>za oknem <chord value="G"/>míhá se <chord value="C"/>život jak leporel<chord value="G"/>o,
+            ale <chord value="F"/>dokud se <chord value="G"/>zpívá, <chord value="F"/>ještě se <chord value="G"/>neumře<chord value="C"/>lo.<chord value="Emi"/><chord value="Dm7"/><chord value="G"/>
+        </section>
+        <section name="4">
+            <chord value="C"/>Stokrát jsem <chord value="Emi"/>prohloupil a s<chord value="Dm7"/>tokrát <chord value="F"/>platil dra<chord value="C"/>ze,<chord value="Emi"/><chord value="Dm7"/><chord value="G"/>
+            <chord value="C"/>houpe to,<chord value="Emi"/> houpe to n<chord value="Dm7"/>a housenk<chord value="F"/>ové dráz<chord value="C"/>e,<chord value="Emi"/><chord value="Dm7"/><chord value="G"/>
+            <chord value="F"/>i kdyby s<chord value="G"/>upi se s<chord value="C"/>lítali na mé těl<chord value="G"/>o,
+            tak <chord value="F"/>dokud se <chord value="G"/>zpívá, <chord value="F"/>ještě se <chord value="G"/>neumře<chord value="C"/>lo<chord value="Emi"/><chord value="Dm7"/><chord value="G"/>
+        </section>
+        <section name="5">
+            <chord value="C"/>Z Těšína <chord value="Emi"/>vyjíždí <chord value="Dm7"/>vlaky až na <chord value="G"/>kraj svět<chord value="C"/>a,<chord value="Emi"/><chord value="Dm7"/><chord value="G"/>
+            z<chord value="C"/>vedl jsem t<chord value="Emi"/>elefon a <chord value="Dm7"/>ptám se: <chord value="G"/>"Lidi, <chord value="C"/>jste t<chord value="Emi"/>am?"<chord value="Dm7"/><chord value="G"/>
+            <chord value="F"/>A z ve<chord value="G"/>liké dálky d<chord value="C"/>o uší mi zaznělo,<chord value="G"/>
+            |: že<chord value="F"/> dokud se<chord value="G"/> zpívá,<chord value="F"/> ještě se<chord value="G"/> neumř<chord value="C"/>elo<chord value="Emi"/>. :|<chord value="Dm7"/><chord value="G"/>
+        </section>
+    </sections>
+</song>

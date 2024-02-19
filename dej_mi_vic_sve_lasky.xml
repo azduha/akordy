@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Dej mi víc své lásky</title>
+    <artist>Olympic</artist>
+    <url>https://pisnicky-akordy.cz/olympic/dej-mi-vic-sve-lasky</url>
+    
+    <sections>
+        <section name="instrumental">
+            /<chord value="Ami"/> <chord value="G"/> / <chord value="E7"/> /<chord value="Ami"/> <chord value="G"/> / <chord value="E7"/> /
+        </section>
+        <section name="1">
+            Vy<chord value="Ami"/>myslel jsem spoustu napadů, a<chord value="C"/>ů,
+            co <chord value="Ami"/>podporujou hloupou nála<chord value="G"/>du, a<chord value="E7"/>ů,
+            <chord value="Ami"/>hodit klíče do kanálu, s<chord value="D"/>jet po zadku <chord value="Dmi"/>holou skálu,
+            v <chord value="Ami"/>noci chodit st<chord value="E"/>rašit do hr<chord value="Ami"/>adu
+        </section>
+        <section name="2">
+            Dám<chord value="Ami"/> si dvoje housle pod bradu, a<chord value="C"/>ů,
+            v <chord value="Ami"/>bílé plachtě chodím poz<chord value="G"/>adu, <chord value="E7"/>aů,
+            <chord value="Ami"/>úplně melancholicky, s c<chord value="D"/>item pro věc <chord value="Dmi"/>jako vždycky
+            <chord value="Ami"/>vyrábím tu hra<chord value="E"/>dní záh<chord value="Ami"/>adu, a<chord value="G"/>ů
+        </section>
+        <section name="R">
+            <chord value="C"/>Má drahá, dej mi víc,<chord value="E"/> má drahá, dej mi víc,
+            <chord value="Ami"/>má drahá, <chord value="F"/>dej mi víc své <chord value="C"/>lásky, a<chord value="G"/>ů,
+            <chord value="C"/>já nechci skoro nic, <chord value="E"/>já nechci skoro nic,
+            <chord value="Ami"/>já chci jen <chord value="F"/>pohladit tvé vlá<chord value="C"/>sky, a<chord value="E7"/>ů.
+        </section>
+        <section name="3">
+            <chord value="Ami"/>Nejlepší z těch divnejch nápadů, a<chord value="C"/>ů,
+            <chord value="Ami"/>mi dokonale zvednul nál<chord value="G"/>adu, <chord value="E7"/>aů,
+            <chord value="Ami"/>natrhám ti sedmikrásky, <chord value="D"/>tebe celou s <chord value="Dmi"/>tvými vlásky
+            <chord value="Ami"/>zamknu si na s<chord value="E"/>edm záp<chord value="Ami"/>adů, a<chord value="G"/>ů
+        </section>
+        <section name="instrumental">
+            sloka
+        </section>
+        <section name="R">
+            Má<chord value="C"/> drahá, dej mi víc, m<chord value="E"/>á drahá, dej mi víc....
+        </section>
+        <section name="3">
+            <chord value="Ami"/>Nejlepší z těch divnejch nápad<chord value="C"/>ů, aů,
+            <chord value="Ami"/>mi dokonale zvednul nál<chord value="G"/>adu, <chord value="E7"/>aů,
+            <chord value="Ami"/>natrhám ti sedmikrásky, <chord value="D"/>tebe celou s <chord value="Dmi"/>tvými vlásky
+            <chord value="Ami"/>zamknu si na s<chord value="E"/>edm záp<chord value="Ami"/>adů,
+            <chord value="Ami"/>aůůůůůůů, aůůůůůůů, aůůůůůůů, a<chord value="A"/>ůůůůůůů
+        </section>
+    </sections>
+</song>

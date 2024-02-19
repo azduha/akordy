@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Pocity</title>
+    <artist>Tomáš Klus</artist>
+    <url>https://pisnicky-akordy.cz/tomas-klus/pocity</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="G"/>Z posledních pocit<chord value="D"/>ů <chord value="Emi"/>poskládám ještě jednou <chord value="C"/>úžasnou chvíli
+            <chord value="G"/>Je to tím, že jsi <chord value="D"/>tu, <chord value="Emi"/>možná tím, že <chord value="C"/>kdysi jsme byli Ty a
+            <chord value="G"/>Já my dva, d<chord value="D"/>vě nahý těla, <chord value="Emi"/>tak neříkej, že <chord value="C"/>jinak si to chtěla,
+            <chord value="G"/>tak neříkej, <chord value="D"/>neříkej, <chord value="Emi"/>neříkej mi <chord value="C"/>nic.<chord value="Cadd9"/>
+        </section>
+        <section name="2">
+            Stala ses do noci z ničeho nic moje platonická láska
+            unaven, bezmocný, usínám vedle Tebe, něco ve mně praská.
+            A ranní probuzení a slova o štěstí, neboj se to nic není
+            Pohled a okouzlení, a prázdný náměstí na znamení.
+        </section>
+        <section name="R">
+            Jenže ty nes<chord value="G"/>lyšíš<chord value="D"/>, jenže ty n<chord value="Emi"/>eposloucháš,<chord value="C"/>
+            snad ani <chord value="G"/>nevidíš, <chord value="D"/>nebo spíš <chord value="Emi"/>nechceš vidět<chord value="C"/>
+            <chord value="G"/><chord value="D"/><chord value="Emi"/><chord value="C"/>
+            zkus změnu, <chord value="G"/>uvidíš.<chord value="D"/> Pak <chord value="Emi"/>vítej do <chord value="C"/>svobody
+        </section>
+        <section name="3">
+            Jsi anděl, netušíš. Anděl, co ze strachu mu utrhali křídla.
+            A až to ucítíš, zkus kašlat na pravidla.
+            Říkej si o mně, co chceš. Já jsem byl odjakživa blázen.
+            Nevím, co nechápeš, ale vrať se na zem.
+        </section>
+        <section name="R">
+            Jenže ty neslyšíš...
+        </section>
+        <section>
+            Z posledních pocitů...
+        </section>
+    </sections>
+</song>

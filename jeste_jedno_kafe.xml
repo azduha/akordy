@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Ještě jedno kafe</title>
+    <artist>Druhá tráva</artist>
+    <url>https://pisnicky-akordy.cz/druha-trava/jeste-jedno-kafe</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="Ami"/>Máš sladkej dech a oči, kt<chord value="G"/>erým patří svatozář,
+            a vl<chord value="F"/>asy máš jak hedvábí, když je vh<chord value="E7"/>odíš na polštář,
+            ale j<chord value="Ami"/>á se o tvou lásku ani vd<chord value="G"/>ěčnost neprosím,
+            ty d<chord value="F"/>ěkuješ jen hvězdám a jseš v<chord value="E7"/>ěrná jenom jim
+        </section>
+        <section name="R">
+            J<chord value="F"/>eště jedno kafe bych si d<chord value="E7"/>al,
+            j<chord value="F"/>eště jedno kafe, krucin<chord value="E7"/>ál, než pojedu d<chord value="Ami"/>ál
+        </section>
+        <section name="2">
+            <chord value="Ami"/>Tvůj táta, to je vandrák a<chord value="G"/> od přírody zběh
+            a mí<chord value="F"/>sto písmen učí tě jen dorovnáva<chord value="E7"/>t dech,
+            a tak<chord value="Ami"/>y házet nožem a držet po<chord value="G"/>spolu
+            a br<chord value="F"/>ada se mu třese, když se no<chord value="E7"/>sí ke stolu
+        </section>
+        <section name="R">
+            J<chord value="F"/>eště jedno kafe bych si d<chord value="E7"/>al,
+            j<chord value="F"/>eště jedno kafe, krucin<chord value="E7"/>ál, než pojedu d<chord value="Ami"/>ál
+        </section>
+        <section name="3">
+            T<chord value="Ami"/>vá sestra hádá z ruky a tv<chord value="G"/>á máti jakbysmet
+            a ty<chord value="F"/> sama umíš všechno, co je mimo <chord value="E7"/>tenhle svět,
+            a tvá<chord value="Ami"/> rozkoš nezná hranic, dě<chord value="G"/>vče s hlasem skřivana,
+            jen <chord value="F"/>tvý srdce je jak moře - sam<chord value="E7"/>ý tajemství a tma.
+        </section>
+        <section name="R">
+            J<chord value="F"/>eště jedno kafe bych si d<chord value="E7"/>al,
+            j<chord value="F"/>eště jedno kafe, krucin<chord value="E7"/>ál, než pojedu d<chord value="Ami"/>ál
+        </section>
+    </sections>
+</song>

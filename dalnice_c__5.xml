@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Dálnice č. 5</title>
+    <artist>Žalman</artist>
+    <url>https://pisnicky-akordy.cz/zalman/dalnice-c-5</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="G"/>Časně ráno mrho<chord value="Hmi"/>lí, <chord value="Ami"/>na dálni<chord value="D"/>ci číslo <chord value="G"/>5,
+            já mít křídla soko<chord value="Ami"/>lí, <chord value="D"/>obletěl bych celej <chord value="G"/>svět,
+            místo křídel nohy m<chord value="Ami"/>ám, v srd<chord value="D"/>ci naději a c<chord value="G"/>íl,
+            jen si marně vzpomí<chord value="Hmi"/>nám, <chord value="Ami"/>kde jsem s te<chord value="D"/>bou, holka, by<chord value="G"/>l.
+        </section>
+        <section name="R">
+            <chord value="G"/>To nám bylo sedmn<chord value="Hmi"/>áct, <chord value="Ami"/>jen sedm<chord value="D"/>náct a půl ro<chord value="G"/>ku,
+            život tančil kolem <chord value="Ami"/>nás <chord value="D"/>a zdál se bez náro<chord value="G"/>ků.
+        </section>
+        <section name="2">
+            <chord value="G"/>Svět je pořád vel<chord value="Ami"/>iký, ja<chord value="D"/>ko plná láhev sn<chord value="G"/>ů
+            a jsou na něm chodn<chord value="Hmi"/>íky,<chord value="Ami"/> kter<chord value="D"/>ý vedou k domovů<chord value="G"/>m,
+            když se nebe usmí<chord value="Ami"/>vá, to<chord value="D"/> se mi jde mnohem líp<chord value="G"/>,
+            jen si člověk vzpom<chord value="Hmi"/>íná, j<chord value="Ami"/>ak si př<chord value="D"/>ál svět obejí<chord value="G"/>t.
+        </section>
+        <section name="R">
+            <chord value="G"/>To nám bylo sedmn<chord value="Hmi"/>áct,<chord value="Ami"/> jen sedmn<chord value="D"/>áct a půl rok<chord value="G"/>u,
+            život tančil kolem <chord value="Ami"/>nás <chord value="D"/>a zdál se bez náro<chord value="G"/>ků.
+        </section>
+        <section name="3">
+            <chord value="G"/>Časně ráno mrh<chord value="Ami"/>olí na dá<chord value="D"/>lnici číslo<chord value="G"/> 5,
+            já mít křídla soko<chord value="Hmi"/>lí, <chord value="Ami"/>oblet<chord value="D"/>ěl bych celej sv<chord value="G"/>ět.
+        </section>
+        <section name="R">
+            <chord value="G"/>To nám bylo sedm<chord value="Hmi"/>náct<chord value="Ami"/>, jen sedmná<chord value="D"/>ct a půl roku<chord value="G"/>,
+            život tančil kolem <chord value="Ami"/>nás <chord value="D"/>a zdál se bez náro<chord value="G"/>ků
+            život tančil kolem <chord value="Ami"/>nás <chord value="D"/>a zdál se bez náro<chord value="G"/>ků....
+        </section>
+    </sections>
+</song>

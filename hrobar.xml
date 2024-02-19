@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Hrobař</title>
+    <artist>Premiér</artist>
+    <url>https://pisnicky-akordy.cz/premier/hrobar</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="G"/>V mládí jsem se učil hrobařem,
+            <chord value="Emi"/>jezdit s hlínou, jezdit s trakařem,
+            <chord value="C"/>kopat hroby byl můj ide<chord value="D7"/>ál.
+        </section>
+        <section name="2">
+            <chord value="G"/>Jezdit s hlínou, jezdit s vozíkem,
+            <chord value="Emi"/>s černou rakví, s bílým pomníkem,
+            <chord value="C"/>toho bych se nikdy nena<chord value="D7"/>dál.
+        </section>
+        <section name="3">
+            <chord value="G"/>Že do módy přijde kremace,
+            <chord value="Emi"/>černý hrobař bude bez práce,
+            <chord value="C"/>toho bych se nikdy nena<chord value="D7"/>dál.
+        </section>
+        <section name="4">
+            <chord value="G"/>Kolem projel vůz milionáře,
+            <chord value="Emi"/>záblesk světel pad' mi do tváře,
+            <chord value="C"/>marně skřípěj' kola brzdí<chord value="D7"/>cí.
+        </section>
+        <section name="5">
+            <chord value="G"/>Stoupám vzhůru, stoupám ke hvězdám,
+            <chord value="Emi"/>tam se s černou rakví neshledám,
+            <chord value="C"/>sbohem, bílé město září<chord value="D7"/>cí.
+        </section>
+        <section name="6">
+            <chord value="G"/>Sbohem, moje město,
+            <chord value="Emi"/>vzpomínat budu přesto,
+            <chord value="C"/>jak jsem poznal tvůj smích a <chord value="D7"/>pláč.
+        </section>
+        <section name="7">
+            <chord value="G"/>Na na<chord value="Emi"/> na na<chord value="C"/>...<chord value="D7"/>
+        </section>
+    </sections>
+</song>

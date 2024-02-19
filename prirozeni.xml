@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Přirození</title>
+    <artist>Harlej</artist>
+    <url>https://pisnicky-akordy.cz/harlej/prirozeni</url>
+    
+    <sections>
+        <section name="1">
+            1<chord value="D"/>. Byla jsi královnou všech<chord value="A"/>, tvý tělo bralo m<chord value="Hmi"/>i dech
+            a já byl šedivá <chord value="G"/>myš.
+            <chord value="D"/>Ráno jsem před školou stál<chord value="A"/> a jako blbec se s<chord value="Hmi"/>mál,
+            myslel si že o m<chord value="G"/>ně víš.
+        </section>
+        <section name="2">
+            <chord value="D"/>Psal jsem Ti verše v parku<chord value="A"/>, šmíroval při těl<chord value="Hmi"/>áku,
+            koukal Ti na kal<chord value="G"/>hotky.
+            <chord value="D"/>A tys mě neviděla, v<chord value="A"/>o mě bys nevotřela<chord value="Hmi"/>
+            ani svý polobotk<chord value="G"/>y.
+            <chord value="A"/>A tak jsem všechno vzdal, pomstu Ti přísa<chord value="D"/>hal.
+        </section>
+        <section name="R">
+            <chord value="D"/>Na zeď jsem po setmě<chord value="A"/>ní, nakreslil přiroze<chord value="G"/>ní
+            a pod něj napsal pak, jméno <chord value="D"/>Tvý.
+            Nikdy se neusmě<chord value="A"/>ješ, nikdy mě neoce<chord value="G"/>níš
+            a pořád jako vůl stát, mě neba<chord value="D"/>ví
+        </section>
+        <section name="2">
+            <chord value="D"/>A pak jsem Tvoje boky, nev<chord value="A"/>iděl dlouhý roky,<chord value="Hmi"/>
+            až včera na námě<chord value="G"/>stí.
+            <chord value="D"/>Pil jsem tam teplý pivo a <chord value="A"/>koukal jak jde živ<chord value="Hmi"/>ot
+            lidem co mají št<chord value="G"/>ěstí.
+        </section>
+        <section name="3">
+            <chord value="D"/>Ty jsi šla naproti mě, byl<chord value="A"/>o to jako v kině,<chord value="Hmi"/>
+            trémou jsem ztratil r<chord value="G"/>ozum.
+            <chord value="D"/>Jenže Ty bez váhání, <chord value="A"/>na místo přivítání<chord value="Hmi"/>
+            dalas mi dvacet <chord value="G"/>korun.
+        </section>
+        <section>
+            Tak jsem ty prachy vzal, pomstu Ti přísahal.
+        </section>
+        <section name="R">
+            (2x)
+        </section>
+        <section>
+            A tak jsem všechno vzdal, pomstu Ti přísahal.
+        </section>
+        <section name="R">
+            (2x)
+        </section>
+        <section>
+            Tak jsem ty prachy vzal, pomstu Ti přísahal.
+        </section>
+    </sections>
+</song>

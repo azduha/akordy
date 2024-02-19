@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Proklínám</title>
+    <artist>Janek Ledecký</artist>
+    <url>https://pisnicky-akordy.cz/janek-ledecky/proklinam</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="Am"/>Prázdej byt je jako<chord value="F"/> past, kde<chord value="Dm"/> růže uva<chord value="C"/>dno<chord value="G"/>u,
+            <chord value="Am"/>potisící čtu<chord value="F"/> tvůj dopis <chord value="Dm"/>na rozloučeno<chord value="G"/>u,
+            <chord value="C"/>píšeš, že o<chord value="Am"/>dcházíš, když <chord value="Dm"/>den se s nocí<chord value="C"/> stří<chord value="G"/>dá,
+            <chord value="Am"/>vodu z vína<chord value="F"/> udělá, kdo <chord value="Dm"/>dobře nehlí<chord value="G"/>dá<chord value="Gsus4"/>.<chord value="G"/>
+        </section>
+        <section name="R">
+            Píšeš: <chord value="C"/>Proklíná<chord value="G"/>m, <chord value="Am"/>ty tvoje ú<chord value="F"/>sta proklíná<chord value="C"/>m,
+            tvoje <chord value="G"/>oči ledov<chord value="Am"/>ý, v s<chord value="F"/>rdci jen sníh,
+            s<chord value="C"/>ám a sám,<chord value="G"/> <chord value="Am"/> ať nikdy <chord value="F"/>úsvit nespatř<chord value="C"/>íš,
+            na ústa mř<chord value="G"/>íž, oči oslepn<chord value="Am"/>ou, ať d<chord value="F"/>o smrti seš s<chord value="C"/>ám.
+        </section>
+        <section name="2">
+            <chord value="Am"/>Tvoje oči jsou<chord value="F"/> jak stín a<chord value="Dm"/> tvář den, když se <chord value="C"/>stm<chord value="G"/>ívá,
+            <chord value="Am"/>stromy rostou <chord value="F"/>čím dál výš<chord value="Dm"/> a pak je ček<chord value="G"/>á pád,
+            <chord value="C"/>sám s hlavou<chord value="Am"/> skloněnou, všechn<chord value="Dm"/>y lásky budou<chord value="C"/> zdán<chord value="G"/>í,
+            <chord value="Am"/>potisící<chord value="F"/> čtu tvůj dopis<chord value="Dm"/> na rozlouč<chord value="G"/>en<chord value="Gsus4"/>ou.<chord value="G"/>
+        </section>
+        <section name="R">
+            Píšeš: <chord value="C"/>Proklíná<chord value="G"/>m, <chord value="Am"/>ty tvoje ú<chord value="F"/>sta proklíná<chord value="C"/>m,
+            tvoje <chord value="G"/>oči ledov<chord value="Am"/>ý, v s<chord value="F"/>rdci jen sníh,
+            s<chord value="C"/>ám a sám,<chord value="G"/> <chord value="Am"/> ať nikdy <chord value="F"/>úsvit nespatř<chord value="C"/>íš,
+            na ústa mř<chord value="G"/>íž, oči oslepn<chord value="Am"/>ou, zůst<chord value="F"/>aneš sám,
+            s<chord value="C"/>ám a sám,<chord value="G"/> <chord value="Am"/> ať nikdy <chord value="F"/>úsvit nespatř<chord value="C"/>íš,
+            na ústa mř<chord value="G"/>íž, oči oslepn<chord value="Am"/>ou, ať d<chord value="F"/>o smrti seš s<chord value="C"/>ám.
+        </section>
+    </sections>
+</song>

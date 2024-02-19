@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Pole s bavlnou</title>
+    <artist>Rangers - Plavci</artist>
+    <url>https://pisnicky-akordy.cz/rangers-plavci/pole-s-bavlnou</url>
+    
+    <sections>
+        <section>
+            <chord value="G-dur"/>
+        </section>
+        <section name="1">
+            [: Pane <chord value="C"/>můj, co v nebi je tvůj <chord value="C7"/>dům,
+            má máma můj ž<chord value="F"/>ivot dala k<chord value="C"/>atům,
+            katům svým v p<chord value="(G7)"/>olích s bavln<chord value="G7(C"/>ou. :<chord value="F"/>]<chord value="C)"/>
+        </section>
+        <section name="R">
+            D<chord value="C7"/>en za dnem k<chord value="F"/>ůže zná bič katů,
+            vidíš j<chord value="C"/>en černý záda bratrů,
+            jak tam dřou v polích s bavln<chord value="G7"/>ou,
+            to, co zn<chord value="C"/>áš ty v Lousi<chord value="C7"/>aně,
+            černý záda zn<chord value="F"/>aj' i v Texarc<chord value="C"/>aně,
+            i tam jsou v p<chord value="G7"/>olích s bavln<chord value="C"/>ou<chord value="F"/>.<chord value="C"/>
+        </section>
+        <section name="2">
+            [: Já vím, brzy musí přijít soud,
+        </section>
+        <section>
+            černý záda práva na něm vyhrajou,
+        </section>
+        <section>
+            boží soud v polích s bavlnou. :]
+        </section>
+        <section name="R">
+        </section>
+        <section name="3">
+            [: Chtěl bych jít na potem vlhký lány,
+        </section>
+        <section>
+            tak řekni, pane můj, černý zvoň hrany
+        </section>
+        <section>
+            katům mým v polích s bavlnou. :]
+        </section>
+        <section name="R">
+        </section>
+        <section name="4">
+            [: Dnes měj, pane, co v nebi je tvůj dům,
+        </section>
+        <section>
+            mou duši, když život patří katům,
+        </section>
+        <section>
+            katům mým v polích s bavlnou. :]
+        </section>
+        <section name="R">
+        </section>
+    </sections>
+</song>

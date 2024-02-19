@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Cesta</title>
+    <artist>Kryštof</artist>
+    <url>https://pisnicky-akordy.cz/krystof/cesta</url>
+    
+    <sections>
+        <section name="Intro">
+            <chord value="C"/> <chord value="G"/> <chord value="Ami"/> <chord value="F"/> <chord value="G"/>
+        </section>
+        <section name="1">
+            Tou <chord value="C"/>cestou, tím směrem prý bych se <chord value="G"/>dávno měl dát,
+            když <chord value="Ami"/>sněží, jde to stěží, ale sněhy pak tají,
+            kus <chord value="F"/>něhy ti za nehty <chord value="G"/>slíbí a dají.
+        </section>
+        <section name="2">
+            víc <chord value="C"/>síly, se prát, na dně víc <chord value="G"/>dávat než brát,
+            a i<chord value="Ami"/> když se vleče a je schůdná jen v kleče
+            donutí <chord value="F"/>přestat se zbytečně <chord value="G"/>ptát.
+        </section>
+        <section name="R">
+            Jestli se <chord value="C"/>blížím k cíli, kolik <chord value="G"/>zbývá víry, kam <chord value="Ami"/>zvou
+            svodidla, co po tmě mi <chord value="F"/>lžou?<chord value="G"/> Snad<chord value="C"/> couvám zpátky
+            a <chord value="G"/>plýtvám řádky, co <chord value="Ami"/>řvou, že už mi <chord value="F"/>doma neot<chord value="G"/>evřou.
+        </section>
+        <section name="3">
+            Nebo jít s<chord value="C"/> proudem, na lusknutí prstu se <chord value="G"/>začít hned smát,
+            mít <chord value="Ami"/>svůj chodník slávy a před sebou davy
+            a přes <chord value="F"/>zkroucená záda být <chord value="G"/>součástí stáda,
+        </section>
+        <section name="4">
+            ale <chord value="C"/>zpívat, a hrát, kotníky líbat, <chord value="G"/>a stát,
+            na k<chord value="Ami"/>řídlech všech slavíků, a vlastně už ze zvyku
+            <chord value="F"/>přestat se zbytečně<chord value="G"/> ptát.
+        </section>
+        <section name="Intro">
+            4x ( <chord value="Ami"/> <chord value="Ami"/> /<chord value="G"/> <chord value="D"/> /Fis <chord value="Dmi"/> /<chord value="F"/> ) + <chord value="G"/>
+        </section>
+        <section name="R">
+            (1x)
+        </section>
+        <section>
+            Sólo dohra na motiv refrénu
+        </section>
+    </sections>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Letní romance</title>
+    <artist>Druhá tráva</artist>
+    <url>https://pisnicky-akordy.cz/druha-trava/letni-romance</url>
+    
+    <sections>
+        <section name="1">
+            Je r<chord value="G"/>áno, p<chord value="C"/>ěknej d<chord value="G"/>en jako n<chord value="C"/>ejed<chord value="G"/>en,
+            a br<chord value="C"/>ána k štěstí <chord value="G"/>otevř<chord value="D"/>ená,
+            a v sv<chord value="G"/>ětle př<chord value="C"/>ikryt<chord value="G"/>á vedle l<chord value="C"/>eží t<chord value="G"/>a,
+            která j<chord value="C"/>e a n<chord value="G"/>ení moje ž<chord value="D"/>ena,
+            ať ž<chord value="C"/>ije lidskej tv<chord value="G"/>or, je <chord value="C"/>osmej termid<chord value="G"/>or
+            a l<chord value="C"/>id za <chord value="G"/>oknem volá "sl<chord value="D"/>áva!",
+            [: a <chord value="G"/>ona p<chord value="C"/>o chvíl<chord value="G"/>i v moji k<chord value="C"/>ošil<chord value="G"/>i
+            vst<chord value="C"/>ává, t<chord value="G"/>iše vst<chord value="D"/>áv<chord value="G"/>á. :]
+        </section>
+        <section name="2">
+            Pod blůzou z Marseille však má dvě kameje
+            hezčí, než má šenešálka,
+            a já je propíjím s jednou bestií,
+            která je a není moje válka,
+            jó, v malým pokoji ve tmě a ve zbroji
+            se rázem kroků nedostává,
+            [: když země kdekoli je v letní řeholi
+            plavá, tolik plavá. :]
+        </section>
+        <section name="3">
+            Léto uzraje a tahle holka je
+            moc bílá na to, aby žila
+            jen ze svých kamejí a s mojí nadějí,
+            v který je a není moje síla,
+            [: jó, je mi do tance, tahle romance
+            je možná ženská nebezpečná,
+            možná krvavá, možná nepravá,
+            ale věčná, bože, věčná. :]
+        </section>
+    </sections>
+</song>

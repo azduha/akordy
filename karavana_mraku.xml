@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Karavana mraků</title>
+    <artist>Karel Kryl</artist>
+    <url>https://pisnicky-akordy.cz/karel-kryl/karavana-mraku</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="D"/>Slunce je zlatou skobou <chord value="Hmi"/>na vobloze přibitý,
+            <chord value="G"/>pod sluncem <chord value="A"/>sedlo kože<chord value="D"/>ný,<chord value="A7"/>
+            <chord value="D"/>pod sedlem kůň, pod koněm <chord value="Hmi"/>moje boty rozbitý
+            <chord value="G"/>a starý r<chord value="A"/>uce sedřen<chord value="D"/>ý.
+        </section>
+        <section name="R">
+            <chord value="D7"/>Dopředu <chord value="G"/>jít s tou <chord value="A"/>karavanou m<chord value="Hmi"/>raků,
+            schovat svou <chord value="G"/>tvář pod <chord value="A"/>stetson děr<chord value="Hmi"/>avý,
+            [: jen kousek <chord value="Emi"/>jít, jen ch<chord value="A7"/>víli, <chord value="Hmi"/>do soumr<chord value="Emi"/>aku,
+            až tam, kde <chord value="Hmi"/>svítí město, <chord value="F#"/>město běla<chord value="Hmi"/>vý. :]<chord value="A7"/>
+        </section>
+        <section name="2">
+            <chord value="D"/>Vítr si tiše hvízdá po <chord value="Hmi"/>silnici spálený,
+            <chord value="G"/>v tom městě <chord value="A"/>nikdo nezdr<chord value="D"/>aví,<chord value="A7"/>
+            <chord value="D"/>šerif i soudce - gangsteři, <chord value="Hmi"/>voba řádně zvolení
+            <chord value="G"/>a lidi s<chord value="A"/>trachem ne<chord value="D"/>zdraví.
+        </section>
+        <section name="3">
+            <chord value="D"/>Sto cizejch zabíječů s <chord value="Hmi"/>pistolema skotačí
+            <chord value="G"/>a zákon d<chord value="A"/>žungle panu<chord value="D"/>je,<chord value="A7"/>
+            <chord value="D"/>provazník plete smyčky,<chord value="Hmi"/> hrobař kopat nestačí
+            <chord value="G"/>a truhlář r<chord value="A"/>akve ho<chord value="D"/>bluje.
+        </section>
+        <section name="R">
+            <chord value="D7"/>V městě <chord value="G"/>je řád a p<chord value="A"/>ro každého prá<chord value="Hmi"/>ce,
+            buď ještě <chord value="G"/>rád, když<chord value="A"/> huba voněm<chord value="Hmi"/>í,
+            [: může tě<chord value="Emi"/> hřát, že n<chord value="A7"/>ejsi n<chord value="Hmi"/>a voprá<chord value="Emi"/>tce
+            nebo že <chord value="Hmi"/>neležíš pár <chord value="F#"/>inchů pod zem<chord value="Hmi"/>í. :]<chord value="A7"/>
+        </section>
+        <section name="1">
+            <chord value="D"/>Slunce je zlatou skobou <chord value="Hmi"/>na vobloze přibitý,
+            <chord value="G"/>pod sluncem <chord value="A"/>sedlo kože<chord value="D"/>ný,<chord value="A7"/>
+            <chord value="D"/>pod sedlem kůň, pod koněm <chord value="Hmi"/>moje boty rozbitý
+            <chord value="G"/>a starý r<chord value="A"/>uce sedřen<chord value="D"/>ý.
+        </section>
+        <section name="R">
+            <chord value="D7"/>Pryč odtud jí<chord value="G"/>t s tou ka<chord value="A"/>ravanou <chord value="Hmi"/>mraků,
+            kde tichej<chord value="G"/> dům a p<chord value="A"/>ušky reza<chord value="Hmi"/>vý,
+            [: orat a s<chord value="Emi"/>ít od <chord value="A7"/>rána d<chord value="Hmi"/>o soumrak<chord value="Emi"/>u
+            a nechat<chord value="Hmi"/> zapomenout s<chord value="F#"/>rdce bo<chord value="Hmi"/>lavý. :]<chord value="A7"/>
+        </section>
+    </sections>
+</song>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Anděl</title>
+    <artist>Karel Kryl</artist>
+    <url>https://pisnicky-akordy.cz/karel-kryl/andel</url>
+    
+    <sections>
+        <section name="Intro">
+            <chord value="C"/> /<chord value="G"/> - - <chord value="G7"/>
+        </section>
+        <section name="1">
+            <chord value="G"/>Z rozmlác<chord value="Emi"/>enýho kostela v<chord value="G"/> krabici s<chord value="D"/> kusem mýdla
+            <chord value="G"/>přinesl <chord value="Emi"/>jsem si anděla, p<chord value="G"/>olámal<chord value="D"/>i mu kříd<chord value="G"/>la,
+            <chord value="G"/>díval se <chord value="Emi"/>na mě oddaně, j<chord value="G"/>á měl jsem t<chord value="D"/>rochu trému,
+            <chord value="G"/>tak vtiskl <chord value="Emi"/>jsem mu do dlaně l<chord value="G"/>ahvičku o<chord value="D"/>d parfému.
+        </section>
+        <section name="R">
+            <chord value="G"/>A proto, <chord value="Emi"/>prosím, věř mi, <chord value="G"/>chtěl jsem ho <chord value="D"/>žádat,
+            <chord value="G"/>aby mi <chord value="Emi"/>mezi dveřmi p<chord value="G"/>omohl <chord value="D"/>hádat,
+            <chord value="G"/>co mě čeká <chord value="Emi"/> <chord value="D"/> a nemin<chord value="G"/>e, co mě čeká<chord value="Emi"/> <chord value="D"/> a nemine.<chord value="G"/>
+        </section>
+        <section name="2">
+            <chord value="G"/>Pak hlída<chord value="Emi"/>li jsme oblohu, <chord value="G"/>pozorujíce <chord value="D"/>ptáky,
+            <chord value="G"/>debatuj<chord value="Emi"/>íce o Bohu <chord value="G"/>a hraní <chord value="D"/>na vojáky,<chord value="G"/>
+            <chord value="G"/>do tváře <chord value="Emi"/>jsem mu neviděl, <chord value="G"/>pokoušel s<chord value="D"/>e ji schovat,
+            <chord value="G"/>to asi <chord value="Emi"/>ptákům záviděl, <chord value="G"/>že mohou <chord value="D"/>poletovat<chord value="G"/>.
+        </section>
+        <section name="R">
+            <chord value="G"/>A proto, <chord value="Emi"/>prosím, věř mi, <chord value="G"/>chtěl jsem ho <chord value="D"/>žádat, ...
+        </section>
+        <section name="3">
+            <chord value="G"/>Když novin<chord value="Emi"/>ky mi sděloval <chord value="G"/>u okna d<chord value="D"/>o ložnice,
+            <chord value="G"/>já křídla <chord value="Emi"/>jsem mu ukoval <chord value="G"/>z mosazný<chord value="D"/> nábojnice<chord value="G"/>,
+            <chord value="G"/> a tak jsem <chord value="Emi"/>pozbyl anděla, <chord value="G"/>on oknem <chord value="D"/>odletěl mi,
+            <chord value="G"/>však přítel <chord value="Emi"/>prý mi udělá <chord value="G"/>novýho <chord value="D"/>z mojí helm<chord value="G"/>y.
+        </section>
+        <section name="R">
+            <chord value="G"/>A proto, <chord value="Emi"/>prosím, věř mi, <chord value="G"/>chtěl jsem ho <chord value="D"/>žádat, ...
+        </section>
+    </sections>
+</song>

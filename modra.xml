@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Modrá</title>
+    <artist>Žlutý pes</artist>
+    <url>https://pisnicky-akordy.cz/zluty-pes/modra</url>
+    
+    <sections>
+        <section name="Předehra">
+            <chord value="G"/> -<chord value="D"/> -<chord value="Ami"/> -<chord value="D"/> -<chord value="Ami"/> -<chord value="Emi"/> -<chord value="D"/>
+        </section>
+        <section name="1">
+            <chord value="G"/> Modrá je <chord value="D"/>planeta, kde <chord value="C"/>můžete <chord value="D"/>žít
+            <chord value="G"/> Modrá je <chord value="D"/>voda, kterou <chord value="C"/>musíme <chord value="D"/>pít
+            <chord value="G"/> Modrá je <chord value="D"/>obloha, když <chord value="C"/>odejde <chord value="D"/>mrak
+            Modrá je <chord value="F"/>dobrá - <chord value="C"/>už je to <chord value="G"/>tak
+        </section>
+        <section name="2">
+            <chord value="G"/> Modrá je <chord value="D"/>Milka, <chord value="C"/>ta naše <chord value="D"/>kráva
+            <chord value="G"/> Modrá je <chord value="D"/>prej <chord value="C"/>v Americe <chord value="D"/>tráva
+            <chord value="G"/> Modrá je <chord value="D"/>údajně i <chord value="C"/>polární <chord value="D"/>liška
+            Senzačně <chord value="F"/>modrá je moje<chord value="C"/> vojenská <chord value="G"/>knížka
+        </section>
+        <section name="R">
+            Jako <chord value="C"/>nálada, když zahrajou poslední <chord value="G"/>kus
+            Modrá je <chord value="F"/>naděje, <chord value="C"/>láska <chord value="F"/>i moje <chord value="G"/>blues
+            Je to <chord value="C"/>barva, kterou mám prostě <chord value="G"/>rád
+            Modrá je <chord value="F"/>dobrá - <chord value="C"/>už je to <chord value="G"/>tak
+        </section>
+        <section name="3">
+            <chord value="G"/> Modrá je <chord value="D"/>Raketa,<chord value="C"/> ta moje <chord value="D"/>holka
+            <chord value="G"/> Modrá je <chord value="D"/>vzpomínka na<chord value="C"/> Mikiho <chord value="D"/>Volka
+            <chord value="G"/> Velká <chord value="D"/>rána<chord value="C"/> je modrej <chord value="D"/>přeliv
+            Modrý <chord value="F"/>oko <chord value="C"/>má i černej <chord value="G"/>šerif
+        </section>
+        <section name="R">
+            Jako <chord value="C"/>nálada, když zahrajou poslední <chord value="G"/>kus
+            Modrá je <chord value="F"/>naděje, <chord value="C"/>láska <chord value="F"/>i moje <chord value="G"/>blues
+            Je to <chord value="C"/>barva, kterou mám prostě <chord value="G"/>rád
+            Modrá je <chord value="F"/>dobrá - <chord value="C"/>už je to <chord value="G"/>tak
+        </section>
+        <section>
+            <chord value="SOLO"/><chord value="-"/><chord value="KLAVÍR"/><chord value="C,"/><chord value="G,"/><chord value="F,"/><chord value="C,"/><chord value="F,"/><chord value="G,"/><chord value="C,"/><chord value="G,"/><chord value="F,"/><chord value="C,"/><chord value="G"/>
+        </section>
+        <section name="R">
+            Jako <chord value="C"/>nálada, když zahrajou poslední <chord value="G"/>kus
+            Modrá je <chord value="F"/>naděje, <chord value="C"/>láska <chord value="F"/>i moje <chord value="G"/>blues
+            Je to <chord value="C"/>barva, kterou mám prostě <chord value="G"/>rád
+            Modrá je <chord value="F----F"/>dobrá - už je to tak<chord value="C-G"/>
+        </section>
+    </sections>
+</song>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Magdaléna</title>
+    <artist>Jelen</artist>
+    <url>https://pisnicky-akordy.cz/jelen/magdalena</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="G"/>Zapal ten oheň ve mně. <chord value="C2"/>Čeho se bojíš?
+            <chord value="G"/>Zápalkou škrtni jemně.<chord value="C2"/>
+            <chord value="G"/>Zapal ten oheň ve mně. <chord value="C2"/>Čeho se bojíš?
+            <chord value="G"/>zimou se celá třeseš, <chord value="C2"/>proč venku stojíš.
+            Pojď <chord value="G"/>dál, prosím tě, nenech se, prosit se <chord value="G"/>dál - <chord value="C2"/>nenech se.
+        </section>
+        <section>
+            <chord value="G"/><chord value="C2"/><chord value="G"/><chord value="C2"/>
+        </section>
+        <section name="2">
+            Sedíme na pavlači, přichází ráno, tobě se lesknou oči.
+            Sedíme na pavlači, přichází ráno a mně se hlava točí.
+            Pojď dál, prosím tě, nenech se, prosit se dál
+            nenech se.
+        </section>
+        <section name="R">
+            <chord value="Emi"/>Hodiny se zastaví a v <chord value="D"/>devět třicet v pondělí.
+            <chord value="G"/>Magdaléno, tvoje vlasy,
+            <chord value="Emi"/>leží pod mou postelí a <chord value="D"/>i když jsme to nechtěli,
+            <chord value="G"/>oblíkáš se, pročpak asi?
+            <chord value="Emi"/>Hodiny se zastaví a v <chord value="D"/>devět třicet v pondělí jsem <chord value="G"/>sám.<chord value="C2"/><chord value="G"/><chord value="C2"/>
+        </section>
+        <section name="3">
+            Stojíme na rozcestí a zvony zvoní, daleko od bolestí.
+            Stojíme na rozcestí a zvony zvoní, možná nás čeká štěstí.
+            Pojď dál. Prosím tě nenech se. Prosit se dá
+            nenech se.
+        </section>
+        <section name="R">
+            2x
+        </section>
+        <section name="4">
+            Hodiny se zastaví a v devět třicet v pondělí.
+            Magdaléno, tvoje vlasy, leží pod mou postelí
+            a i když jsme to nechtěli, oblíkáš se, pročpak asi?
+            Hodiny se zastaví a v devět třicet v pondělí,
+            máš těžký srdce a mokrý řasy.
+            Když vycházíš ze dveří, tak sama tomu nevěříš.
+            Nenech se. Nenech se.
+        </section>
+    </sections>
+</song>

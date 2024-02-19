@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Dívka ze severu (Girl of the North Country)</title>
+    <artist>Druhá tráva</artist>
+    <url>https://pisnicky-akordy.cz/druha-trava/divka-ze-severu-girl-of-the-north-country</url>
+    
+    <sections>
+        <section name="1">
+            71
+            <chord value="G"/><chord value="Hmi"/><chord value="C"/><chord value="G"/><chord value="Hmi"/><chord value="C"/><chord value="G"/>
+        </section>
+        <section name="2">
+            <chord value="G"/>Až půjdeš<chord value="Hmi"/> tam, kde<chord value="C"/> není skoro<chord value="G"/> nic,
+            kde vítr, v<chord value="Hmi"/>ždycky <chord value="C"/>samým sněhem <chord value="G"/>hrál.
+            Pozdra<chord value="Hmi"/>vuj, jednu d<chord value="C"/>ívku u hra<chord value="G"/>nic,
+            kterou <chord value="Hmi"/>jsem, kdysi <chord value="C"/>hrozně milo<chord value="G"/>val.
+        </section>
+        <section name="3">
+            <chord value="G"/>Až začn<chord value="Hmi"/>ou, zuřit <chord value="C"/>bouře na plá<chord value="G"/>ních
+            a řeky zn<chord value="Hmi"/>ehybní<chord value="C"/> tvrdý l<chord value="G"/>ed.
+            Doufám j<chord value="Hmi"/>en, že<chord value="C"/> ji ochrá<chord value="G"/>ní,
+            před vichř<chord value="Hmi"/>icí a zimo<chord value="C"/>u teplý pl<chord value="G"/>éd.
+        </section>
+        <section>
+            <chord value="G"/><chord value="Hmi"/><chord value="C"/><chord value="G"/><chord value="Hmi"/><chord value="C"/><chord value="G"/><chord value="2x"/>
+        </section>
+        <section name="4">
+            <chord value="G"/>Vlasy <chord value="Hmi"/>má doufám p<chord value="C"/>ořád vln<chord value="G"/>ité
+            a dlouhé<chord value="Hmi"/> tak, že ji <chord value="C"/>po pás spl<chord value="G"/>ývají.
+            Vlasy <chord value="Hmi"/>má doufám po<chord value="C"/>řád vln<chord value="G"/>ité
+            ty mi <chord value="Hmi"/>ji nejvíc <chord value="C"/>připomínaj<chord value="G"/>í.
+        </section>
+        <section name="Solo">
+        </section>
+        <section name="5">
+            A<chord value="G"/>ž půjdeš t<chord value="Hmi"/>am, kde ne<chord value="C"/>ní skoro n<chord value="G"/>ic,
+            kde vítr, v<chord value="Hmi"/>ždycky <chord value="C"/>samým sněhem <chord value="G"/>hrál.
+            Pozdra<chord value="Hmi"/>vuj, jednu d<chord value="C"/>ívku u h<chord value="G"/>ranic,
+            kterou <chord value="Hmi"/>jsem, kdysi hr<chord value="C"/>ozně milo<chord value="G"/>val.
+        </section>
+        <section>
+            <chord value="G"/><chord value="Hmi"/><chord value="C"/><chord value="G"/><chord value="Hmi"/><chord value="C"/><chord value="G"/><chord value="2x"/>
+        </section>
+    </sections>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Náruživá</title>
+    <artist>Žlutý pes</artist>
+    <url>https://pisnicky-akordy.cz/zluty-pes/naruziva</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="D"/>Nečekala na nic a nebyla <chord value="G"/>hloupá
+            a <chord value="A"/>já jsem jí výjimečně do voka <chord value="D"/>pad,
+            najednou koukám, jak se život <chord value="G"/>houpá
+            a <chord value="A"/>nikdo neví, co se může <chord value="D"/>stát.
+            <chord value="A"/>Pojedeme spolu někam na pro<chord value="D"/>cházku,
+            <chord value="A"/>probereme život hezky ze všech <chord value="D"/>stran,
+            <chord value="A"/>já budu hvězda jako na ob<chord value="D"/>rázku
+            a <chord value="A"/>vona se mnou pěkně <chord value="G"/>zamá<chord value="A"/>vá.
+        </section>
+        <section name="R">
+            Je totiž <chord value="D"/>náruži<chord value="A"/>vá a <chord value="G"/>nekouká, co kolem <chord value="D"/>lítá,
+            život uží<chord value="A"/>vá,<chord value="G"/> tak, jak to umí a jak se jí to líbí.<chord value="A"/>
+        </section>
+        <section name="2">
+            <chord value="D"/> Vo jiný věci už nemám zá<chord value="G"/>jem,
+            mu<chord value="A"/>sím ji vidět ještě <chord value="D"/>dnes,
+            vona bude moje cesta r<chord value="G"/>ájem
+            a <chord value="A"/>já budu její žlutej <chord value="D"/>pes.
+            <chord value="A"/>Není to žádná laciná <chord value="D"/>holka
+            <chord value="A"/>a kdyby chtěla nudit, ani neví <chord value="D"/>jak,
+            <chord value="A"/>já bych ji pořád jenom lí<chord value="D"/>bal,
+            vo<chord value="A"/>na to vidí <chord value="G"/>taky<chord value="A"/> tak.
+        </section>
+        <section name="R">
+            Solo na sloku
+        </section>
+        <section name="R">
+            Konec
+        </section>
+    </sections>
+</song>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Mravenčí ukolébavka</title>
+    <artist>Zdeněk Svěrák, Jaroslav Uhlíř</artist>
+    <url>https://pisnicky-akordy.cz/sverak-uhlir/mravenci-ukolebavka</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="C"/>Slunce šlo <chord value="G"/>spát
+            <chord value="F"/>za hromádku <chord value="G"/>klád
+            <chord value="C"/>na nebi <chord value="Ami"/>hvězdy klí<chord value="G"/>čí.
+            <chord value="C"/>Už nepra<chord value="G"/>cuj, m<chord value="F"/>ravenečk<chord value="G"/>u můj,
+            <chord value="C"/>schovej s<chord value="G"/>e do jeh<chord value="C"/>ličí.
+        </section>
+        <section name="R">
+            <chord value="C"/>Máš n<chord value="F"/>ožičky<chord value="C"/> uběh<chord value="G"/>ané,
+            <chord value="C"/>den by<chord value="F"/>l tak tě<chord value="G"/>žký.
+            <chord value="C"/>Pojď, <chord value="F"/>lůžko máš<chord value="C"/> odest<chord value="G"/>lané
+            <chord value="C"/>v plátku<chord value="F"/> od mace<chord value="C"/>šky.
+        </section>
+        <section name="2">
+            <chord value="C"/>Spinká a <chord value="G"/>sní
+            <chord value="F"/>mravenec <chord value="G"/>lesní
+            <chord value="C"/><chord value="Ami"/><chord value="G"/>
+            <chord value="C"/>Nespinká <chord value="G"/>sám, <chord value="F"/>s maminkou je <chord value="G"/>tam,
+            <chord value="C"/>tykadla<chord value="G"/>ma ho hla<chord value="C"/>dí.
+        </section>
+        <section name="R">
+        </section>
+    </sections>
+</song>

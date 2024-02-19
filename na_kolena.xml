@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Na kolena</title>
+    <artist>Ivan Hlas</artist>
+    <url>https://pisnicky-akordy.cz/ivan-hlas/na-kolena</url>
+    
+    <sections>
+        <section name="1">
+            Táhněte <chord value="C"/>do háje, všichni <chord value="Am"/>pryč,
+            chtěl jsem jít <chord value="C"/>do ráje a nemám <chord value="Am"/>klíč,
+            jak si tu <chord value="C"/>můžete takhle <chord value="Am"/>žrát,
+            ztratil jsem <chord value="F"/>holku, co ji mám <chord value="G"/>rád.
+        </section>
+        <section name="2">
+            Napravo, <chord value="C"/>nalevo, nebudu mít k<chord value="Am"/>lid,
+            dala mi <chord value="C"/>najevo, že mě nechce <chord value="Am"/>mít,
+            zbitej a <chord value="C"/>špinavej, tancuju <chord value="Am"/>sám,
+            váš pohled <chord value="Dm"/>káravej už dávno<chord value="G"/> znám.
+        </section>
+        <section name="R">
+            Pořád jen [: <chord value="F"/>na kolena, na kolena, :] <chord value="C"/>jé jé jé,
+            pořád jen [: <chord value="F"/>na kolena, na kolena, :] <chord value="C"/>jé jé jé,
+            pořád jen [: <chord value="F"/>na kolena, na kolena, :] <chord value="C"/> je to <chord value="Am"/>tak,
+            a vaše <chord value="F"/>saka vám posere <chord value="G"/>pták.
+        </section>
+        <section name="3">
+            Cigáro do koutku si klidně dám,
+            tuhletu pochoutku vychutnám sám,
+            kašlu vám na bonton, vejmysly chytrejch hlav,
+            sere mě Tichej Don a ten váš tupej dav.
+        </section>
+        <section name="1">
+            <chord value="|C|C|Ami|Ami|"/><chord value="3x"/>
+            <chord value="|F|F|G|G|"/>
+        </section>
+        <section name="R">
+            Pořád jen na kolena, na kolena, ...
+            a tenhle barák vám posere pták.
+        </section>
+        <section name="2">
+            <chord value="|C|C|Ami|Ami|"/><chord value="Xx"/>
+            <chord value="|F|F|G|G|C|"/>
+        </section>
+    </sections>
+</song>

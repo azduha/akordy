@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Jdou po mně, jdou</title>
+    <artist>Jaromír Nohavica</artist>
+    <url>https://pisnicky-akordy.cz/jarek-nohavica/jdou-po-mne-jdou</url>
+    
+    <sections>
+        <section name="1">
+            Býval jsem <chord value="D"/>chudý jak <chord value="G"/>kostelní <chord value="D"/>myš,
+            na půdě <chord value="F#mi"/>půdy jsem m<chord value="Hmi"/>íval svou s<chord value="A"/>krýš,
+            [: <chord value="G"/>pak jednou v <chord value="D"/>létě <chord value="A"/>řek' jsem si: <chord value="Hmi"/>bať,
+            <chord value="G"/>svět facku<chord value="D"/>je tě, a <chord value="G"/>tak mu to v<chord value="D"/>rať. :]
+        </section>
+        <section name="2">
+            Když mi dát <chord value="D"/>nechceš, já <chord value="G"/>vezmu si <chord value="D"/>sám,
+            zámek jde <chord value="F#mi"/>lehce a <chord value="Hmi"/>adresu <chord value="A"/>znám,
+            [: <chord value="G"/>zlato jak <chord value="D"/>zlato, <chord value="A"/>dolar či <chord value="Hmi"/>frank,
+            <chord value="G"/>tak jsem šel <chord value="D"/>na to do <chord value="G"/>National <chord value="D"/>Bank. :]
+        </section>
+        <section name="R">
+            Jdou po mně, <chord value="D"/>jdou, <chord value="G"/>jdou, <chord value="D"/>jdou,
+            na každém <chord value="F#mi"/>rohu ma<chord value="Hmi"/>jí fotku <chord value="A"/>mou,
+            <chord value="G"/>kdyby mě <chord value="D"/>chytli, <chord value="A"/>jó, byl by <chord value="Hmi"/>ring,
+            <chord value="G"/>tma jako v <chord value="D"/>pytli je v <chord value="C"/>celách Sing-<chord value="G"/>sing. <chord value="A"/>Jé, <chord value="D"/>Jé.<chord value="G"/>..<chord value="D"/>
+        </section>
+        <section name="3">
+            Ve státě <chord value="D"/>Iowa byl <chord value="G"/>od poldů <chord value="D"/>klid,
+            chudinká <chord value="F#mi"/>vdova mi <chord value="Hmi"/>nabídla <chord value="A"/>byt,
+            [: <chord value="G"/>byla to <chord value="D"/>kráska, <chord value="A"/>já měl pení<chord value="Hmi"/>ze,
+            <chord value="G"/>tak začla <chord value="D"/>láska jak <chord value="G"/>z televi<chord value="D"/>ze. :]
+        </section>
+        <section name="4">
+            Však půl roku <chord value="D"/>nato <chord value="G"/>řekla mi:"<chord value="D"/>Dost,
+            tobě došlo <chord value="F#mi"/>zlato, mně <chord value="Hmi"/>trpěli<chord value="A"/>vost,
+            [: <chord value="G"/>sbal svých pár <chord value="D"/>švestek a <chord value="A"/>běž si, kam <chord value="Hmi"/>chceš,"
+            <chord value="G"/>tak jsem na <chord value="D"/>cestě a <chord value="G"/>chudý jak <chord value="D"/>veš. :]
+        </section>
+        <section name="R">
+        </section>
+        <section name="5">
+            Teď ve státě <chord value="D"/>Utah <chord value="G"/>žiju spoko<chord value="D"/>jen,
+            pípu jsem <chord value="F#mi"/>utáh' a <chord value="Hmi"/>straním se <chord value="A"/>žen,
+            [: <chord value="G"/>kladou mi <chord value="D"/>pasti a <chord value="A"/>do pastí <chord value="Hmi"/>špek,
+            <chord value="G"/>já na ně <chord value="D"/>mastím, jen <chord value="G"/>ať mají <chord value="D"/>vztek. :]
+        </section>
+        <section name="R">
+            Jdou po mně <chord value="D"/>jdou, <chord value="G"/>jdou, <chord value="D"/>jdou,
+            na nočních <chord value="F#mi"/>stolcích ma<chord value="Hmi"/>jí fotku <chord value="A"/>mou,
+            <chord value="G"/>kdyby mě <chord value="D"/>klofly, <chord value="A"/>jó, byl by <chord value="Hmi"/>ring,
+            <chord value="G"/>žít pod pan<chord value="D"/>toflí je <chord value="C"/>hůř než v Sing-<chord value="G"/>sing. <chord value="A"/>Jé, <chord value="D"/>Jé.<chord value="G"/>..<chord value="D"/>
+        </section>
+    </sections>
+</song>

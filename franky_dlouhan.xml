@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Franky Dlouhán</title>
+    <artist>Nedvědi</artist>
+    <url>https://pisnicky-akordy.cz/nedvedi/frankie-dlouhan</url>
+    
+    <sections>
+        <section name="1">
+            Kolik je <chord value="C"/>smutného, když <chord value="F"/>mraky černé <chord value="C"/>jdou
+            lidem nad hla<chord value="G7"/>vou, <chord value="F"/>smutnou dálav<chord value="C"/>ou,
+            já <chord value="C"/>slyšel příběh, který <chord value="F"/>velkou pravdu <chord value="C"/>měl,
+            za čas odle<chord value="G7"/>těl, <chord value="F"/>každý zapom<chord value="C"/>něl
+        </section>
+        <section name="1">
+            <chord value="G7"/>
+            po Státech <chord value="F"/>toulal se jen <chord value="C"/>sám,
+            a že byl <chord value="F"/>veselej, tak <chord value="C"/>každej měl ho <chord value="G7"/>rád.
+            tam ruce <chord value="F"/>k dílu mlčky přiloží a <chord value="C"/>zase jede <chord value="Ami"/>dál,
+            a <chord value="F"/>každý, kdo s ním <chord value="G7"/>chvilku byl,
+            tak <chord value="F"/>dlouho <chord value="G7"/>se pak s<chord value="C"/>mál
+        </section>
+        <section name="2">
+            Tam, kde byl <chord value="C"/>pláč, tam Frankie <chord value="F"/>hezkou píseň <chord value="C"/>měl,
+            slzy neměl <chord value="G7"/>rád, c<chord value="F"/>htěl se jenom s<chord value="C"/>mát.
+            A <chord value="C"/>když pak večer ranče <chord value="F"/>tiše <chord value="C"/>usínaj,
+            Frankův zpěv jde <chord value="G7"/>dál, n<chord value="F"/>ocí s písní d<chord value="C"/>ál.
+        </section>
+        <section>
+            <chord value="G7"/>
+        </section>
+        <section name="3">
+            Tak <chord value="C"/>Frankieho vám jednou <chord value="F"/>našli, přestal <chord value="C"/>žít,
+            jeho srdce <chord value="G7"/>spí, t<chord value="F"/>iše, smutně <chord value="C"/>spí.
+            Bůh<chord value="C"/>ví jak, za co, tenhle <chord value="F"/>smíšek konec <chord value="C"/>měl,
+            farář píseň <chord value="G7"/>pěl, u<chord value="F"/>míráček z<chord value="C"/>něl.
+        </section>
+        <section>
+            <chord value="G7"/>
+        </section>
+    </sections>
+</song>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Severní vítr</title>
+    <artist>Zdeněk Svěrák, Jaroslav Uhlíř</artist>
+    <url>https://pisnicky-akordy.cz/sverak-uhlir/severni-vitr</url>
+    
+    <sections>
+        <section name="1">
+            Jdu <chord value="D"/>s děravou patou, mám <chord value="Hmi"/>horečku zlatou,
+            jsem <chord value="G"/>chudý, jsem sláb, nemo<chord value="D"/>cen.
+            Hlava mě pálí a <chord value="Hmi"/>v modravé dáli se <chord value="G"/>leskne
+            a <chord value="A7"/>třpytí můj <chord value="D"/>sen.
+        </section>
+        <section name="2">
+            Kraj <chord value="D"/>pod sněhem mlčí, tam<chord value="Hmi"/> stopy jsou vlčí,
+            tam <chord value="G"/>zbytečně budeš mi p<chord value="D"/>sát,
+            sám v dřevěné boudě<chord value="Hmi"/> sen o zlaté hroudě
+            já <chord value="G"/>nechám s<chord value="A7"/>i tisíckrát<chord value="D"/> zdát.
+        </section>
+        <section name="R">
+            <chord value="D"/>Severní <chord value="D7"/>vítr je kr<chord value="G"/>utý, p<chord value="D"/>očítej lásko má s<chord value="A7"/> tím,
+            k<chord value="D"/> nohám Ti d<chord value="D7"/>ám zlaté p<chord value="G"/>ruty, nebo se <chord value="D"/>vůbec <chord value="A7"/>nevrátí<chord value="D"/>m<chord value="A7"/>
+        </section>
+        <section name="3">
+            Tak<chord value="D"/> zarůstám vousem a vlci <chord value="Hmi"/>už jdou sem,
+            už <chord value="G"/>slyším je výt blíž a bl<chord value="D"/>íž.
+            Už mají mou stopu, už<chord value="Hmi"/> větří, že kopu
+            s<chord value="G"/>vůj hrob a <chord value="A7"/>že stloukám si kř<chord value="D"/>íž.
+        </section>
+        <section name="4">
+            Zd<chord value="D"/>e leží ten blázen, cht<chord value="Hmi"/>ěl dům a chtěl bazén
+            a <chord value="G"/>opustil tvou krásnou t<chord value="D"/>vář.
+            Má plechovej hrnek a <chord value="Hmi"/>pár zlatejch zrnek
+            a<chord value="G"/> nad hrob<chord value="A7"/>em polární zá<chord value="D"/>ř.
+        </section>
+        <section name="R">
+            <chord value="D"/>Severní <chord value="D7"/>vítr je kru<chord value="G"/>tý, po<chord value="D"/>čítej lásko má s<chord value="A7"/> tím,
+            k<chord value="D"/> nohám Ti d<chord value="D7"/>ám zlaté p<chord value="G"/>ruty, nebo se v<chord value="D"/>ůbec <chord value="A7"/>nevrát<chord value="D"/>ím<chord value="A7"/>
+            k n<chord value="D"/>ohám Ti d<chord value="D7"/>ám zlaté p<chord value="G"/>ruty, nebo se <chord value="D"/>vůbec <chord value="A7"/>nevrát<chord value="D"/>ím
+        </section>
+    </sections>
+</song>

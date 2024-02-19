@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Montgomery</title>
+    <artist>Wabi Daněk</artist>
+    <url>https://pisnicky-akordy.cz/wabi-danek/montgomery</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="G-dur"/>
+            <chord value="D"/>Déšť ti, holka, smáčel <chord value="G"/>vlasy,<chord value="Emi"/>
+            <chord value="A"/>z tvých <chord value="A7"/>očí zbyl prázdný <chord value="D"/>kruh, <chord value="A7"/>
+            <chord value="D"/>kde je zbytek z tvojí<chord value="G"/> krásy<chord value="Emi"/>,
+            <chord value="A"/>ví snad <chord value="A7"/>dneska jenom <chord value="D"/>Bůh.<chord value="A7"/>
+        </section>
+        <section name="R">
+            <chord value="D"/>Z celé jižní eska<chord value="G"/>drony<chord value="Emi"/>
+            <chord value="A"/>nezbyl <chord value="A7"/>ani jeden <chord value="D"/>muž.<chord value="A7"/>
+            <chord value="D"/>V Montgomery bijou <chord value="G"/>zvony,<chord value="Emi"/>
+            <chord value="A"/>déšť ti <chord value="A7"/>smejvá ze rtů <chord value="D"/>růž.<chord value="A7"/>
+        </section>
+        <section name="2">
+            Tam na kopci v prachu cesty,
+            leží i tvůj generál,
+            v ruce šátek od nevěsty,
+            ale ruka leží dál.
+        </section>
+        <section name="R">
+        </section>
+        <section name="3">
+            Tvář má zšedivělou strachem,
+            zbylo v ní pár dětskejch pih,
+            proužek krve stéká prachem,
+            déšť mu slepil vlasy jak klíh.
+        </section>
+        <section name="R">
+        </section>
+        <section name="4">
+            Déšť ti šeptá jeho jméno,
+            šeptá ho i listoví,
+            lásku měl rád víc než život,
+            to ti nikdy nepoví.
+        </section>
+        <section name="R">
+        </section>
+    </sections>
+</song>

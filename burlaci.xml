@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Burlaci</title>
+    <artist>Kabát</artist>
+    <url>https://pisnicky-akordy.cz/kabat/burlaci</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="Emi"/>Konopný lana, tak ty už něco vyd<chord value="Hmi"/>rží,
+            zkaženej dech a čtyry deci pod k<chord value="Emi"/>ůží,
+            nebe rudý, břízy brzo pokv<chord value="Hmi"/>etou
+            a chlapi z nudy, baví se ruskou rule<chord value="C"/>tou,
+            když svoje lodě proti proudu <chord value="Emi"/>táhnou, navzdory všem kame<chord value="C"/>nům,
+            proč jenom touhy po čase <chord value="Emi"/>vadnou?
+        </section>
+        <section name="2">
+            <chord value="Emi"/>Otroci řeky, prach a špína tvrdá<chord value="Hmi"/> zem,
+            jediná výhra je tanec smrti s medvě<chord value="Emi"/>dem,
+            a tak si žijou ze dne na den tisíc <chord value="Hmi"/>let.
+            Burlaci pijou, jak bylo by to napos<chord value="C"/>led,
+            když svoje lodě proti proudu <chord value="Emi"/>táhnou, navzdory všem kame<chord value="C"/>nům,
+            proč jenom touhy po čase <chord value="Hmi"/>vadnou? Otoč se a podí<chord value="G"/>vej…
+        </section>
+        <section name="R">
+            Nebe je <chord value="D"/>temný a mnohem<chord value="Emi"/> níž, jen vlků d<chord value="C"/>ávnej chorál z <chord value="G"/>hor,
+            a já tu marně hledám skrýš, když cesta rovná se nám ztrácí,
+            lidi jsou andělé a nebo draci a každej dobrej skutek sílu vrací,
+            no tak jen <chord value="D"/>otoč se a podív<chord value="Emi"/>ej, na lodě z<chord value="F"/>a tebou.
+        </section>
+        <section name="3">
+            <chord value="Emi"/>Není to lehký ve světě lží a polo<chord value="Hmi"/>pravd,
+            na břehu řeky harmonika začla <chord value="Emi"/>hrát
+            a toho léta vítr stopy zahla<chord value="Hmi"/>dil,
+            jsme jako oni, už nezbejvá nám tolik <chord value="C"/>sil.
+            Když svoje lodě proti proudu t<chord value="Emi"/>áhnem, navzdory všem kame<chord value="C"/>nům,
+            jednou si každej až na dno <chord value="Hmi"/>sáhnem. Otoč se a podí<chord value="G"/>vej…
+        </section>
+        <section name="R">
+            Nebe je t<chord value="D"/>emný a mnohem<chord value="Emi"/> níž, ...
+        </section>
+        <section name="Sólo">
+            <chord value="G"/> <chord value="D"/> <chord value="G"/> <chord value="D"/> <chord value="Es"/> <chord value="G"/> <chord value="Es"/> <chord value="D"/> Tak<chord value="B"/> se mi zdá…
+        </section>
+        <section name="2x R">
+            Nebe je <chord value="F"/>temný a mnohem<chord value="Gmi"/> níž, jen vlků <chord value="Es"/>dávnej chorál <chord value="B"/>z hor,
+            a já tu marně hledám skrýš, když cesta rovná se nám ztrácí,
+            lidi jsou andělé a nebo draci a každej dobrej skutek sílu vrací,
+            no tak jen <chord value="F"/>otoč se a pod<chord value="Gmi"/>ívej, na lodě <chord value="Es"/>za tebou.
+        </section>
+    </sections>
+</song>

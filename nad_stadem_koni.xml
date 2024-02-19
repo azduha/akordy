@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Nad stádem koní</title>
+    <artist>Buty</artist>
+    <url>https://pisnicky-akordy.cz/buty/nad-stadem-koni</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="D"/> Nad stádem <chord value="A"/>koní í-í-í<chord value="Emi"/>, podkovy <chord value="G"/>zvoní, zvoní
+            Černý vůz vlečou-o-o-ou a slzy tečou a já volám
+        </section>
+        <section name="2">
+            Tak neplač mů-ůj kamaráde, náhoda je blbec, když krade
+            Je tuhý jak veka a řeka ho splaví, máme ho rá-á-di
+        </section>
+        <section name="Ref">
+            No tak <chord value="C"/>có, tak <chord value="G"/>có, tak <chord value="A"/>có
+        </section>
+        <section name="3">
+            Vždycky si přá-ál, až bude popel, i s kytaro-o-ou-ou
+            Vodou ať plavou, jen žádný hotel, s křížkem nad hlavou
+        </section>
+        <section name="4">
+            Až najdeš místo, kde je ten pramen a kámen co praská-á-á
+            Budeš mít jisto, patří sem popel a každá láska
+        </section>
+        <section name="Ref">
+            No tak <chord value="C"/>có, tak <chord value="G"/>có, tak <chord value="A"/>có.
+        </section>
+        <section name="5">
+            Nad stádem koní-í-í, podkovy zvoní, zvoní
+            Černý vůz vlečou-o-o-ou a slzy tečou a já šeptám
+            Vysyp ten popel kamaráde, do bílé vody, vody
+            <chord value="D"/> Vyhasnul <chord value="A"/>kotel a náhoda je<chord value="Emi"/>, štěstí od podko<chord value="G"/>vy<chord value="-"/>. <chord value="G/F#"/> <chord value="-"/><chord value="G"/><chord value="-"/><chord value="G/F#"/>
+        </section>
+        <section name="7">
+            Vysyp ten p<chord value="D"/>opel k<chord value="A"/>amará<chord value="G"/>de, do bílé <chord value="D"/>vody, <chord value="A"/>vo<chord value="G"/>dy,
+            vyhasnul <chord value="D"/>kotel a <chord value="A"/>náhoda <chord value="Emi"/>je, štěstí od podkov<chord value="G"/>y.<chord value="-"/> <chord value="G/F#"/> <chord value="-"/><chord value="G"/><chord value="-"/><chord value="G/F#"/>
+        </section>
+        <section>
+            Vysyp ten... 3x
+        </section>
+    </sections>
+</song>

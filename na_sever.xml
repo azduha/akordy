@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Na sever</title>
+    <artist>Kabát</artist>
+    <url>https://pisnicky-akordy.cz/kabat/na-sever</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="G"/>No tak mi <chord value="Emi"/>zatancuj, a<chord value="D"/>ť náladu<chord value="G"/> mám,
+            a dej mi celou noc já nechci bejt sám,
+            hlavní je neuhnout, dobře zvolit svůj směr,
+            a teď holka musím jít až tam na sever.
+        </section>
+        <section name="R">
+            Cestu znám..
+        </section>
+        <section name="2">
+            Procházím krajinou a lidi mě zvou,
+            čím těžší víno, lehčí holky tu jsou,
+            jedna z nich povídá: dokud dávám tak ber,
+            já ji jenom políbil a šel na sever.
+        </section>
+        <section name="R">
+            <chord value="G"/>Cestu znám a <chord value="C"/>neměním <chord value="G"/>směr,
+            <chord value="G"/>dojdu k řece <chord value="Em"/>plný ryb až <chord value="D"/>tam na se<chord value="G"/>ver. 2x
+        </section>
+        <section name="3">
+            Mám nohy bolavý, už nechtěj se hnout,
+            tou temnou vodou nechám tělo svý plout,
+            zakončím s noblesou ze všech poslední den,
+            kam mě vlny donesou, tam vsákne mě zem.
+        </section>
+        <section name="R">
+        </section>
+        <section name="1">
+            <chord value="D"/>Ta cesta byla rovná, místy rozbitá,
+            <chord value="C"/>číše vína plná, jindy celá vylitá,
+            <chord value="D"/>už nevrátím se zpátky, ubejvá mi sil,
+            <chord value="C"/>tak řekněte jí, prosím, že <chord value="D"/>jsem tady byl.
+        </section>
+        <section name="R">
+            <chord value="A"/>Cestu znám <chord value="D"/>a neměním <chord value="A"/>směr,
+            <chord value="A"/>dojdu k řece <chord value="F#mi"/>plný ryb až <chord value="E"/>tam na se<chord value="A"/>ver. 4x
+        </section>
+    </sections>
+</song>
