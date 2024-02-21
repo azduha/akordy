@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Batalion  2.verze</title>
+    <artist>Spirituál Kvintet</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=113158&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="Ami"/>Víno <chord value="C"/>máš a <chord value="G"/>markyt<chord value="Ami"/>ánku
+            <chord value="Ami"/>dlouhá <chord value="C"/>noc se <chord value="G"/>pro<chord value="Emi"/>hý<chord value="Ami"/>ří.
+            <chord value="Ami"/>Víno <chord value="C"/>máš a <chord value="G"/>chvilku <chord value="Ami"/>spánku
+            <chord value="C"/>díky, <chord value="G"/>díky <chord value="Emi"/>verbí<chord value="Ami"/>ři.
+        </section>
+        <section name="2">
+            <chord value="Ami"/>Dříve než se rozední
+            Ostruhami do slabin koně <chord value="Emi"/>pohá<chord value="Ami"/>ní.
+            <chord value="Ami"/>Tam na straně polední
+            čekají <chord value="C"/>ženy, <chord value="G"/>zlaťáky a <chord value="Ami"/>sláva.
+            Do výstřelů z karabin zvon už <chord value="Emi"/>vyzvá<chord value="Ami"/>ní.
+        </section>
+        <section name="R">
+            : <chord value="Ami"/>Víno na <chord value="C"/>kuráž a <chord value="G"/>pomilovat marky<chord value="Ami"/>tánku.
+            <chord value="Ami"/>Zítra na <chord value="C"/>Burgund batalion <chord value="G"/>za<chord value="Emi"/>mí<chord value="Ami"/>ří.
+            <chord value="Ami"/>Víno na <chord value="C"/>kuráž a k <chord value="G"/>ránu dvě hodiny <chord value="Ami"/>spánku.
+            <chord value="Ami"/>Díky, díky <chord value="C"/>vám královští <chord value="Emi"/>ver<chord value="G"/>bí<chord value="Ami"/>ři.
+        </section>
+        <section name="3">
+            <chord value="Ami"/>Rozprášen je batalion
+            poslední <chord value="C"/>vojáci se k <chord value="G"/>zemi <chord value="Ami"/>hroutí.
+            Na polštáři z kopretin budou <chord value="Emi"/>věčně <chord value="Ami"/>spát.
+            Neplač sladká Marion
+            verbíři <chord value="C"/>nové <chord value="G"/>chlapce <chord value="Ami"/>přivedou ti.
+            Za královský hermelín padne <chord value="Emi"/>každý <chord value="Ami"/>rád.
+        </section>
+        <section name="R">
+            : Víno na...
+        </section>
+    </sections>
+</song>

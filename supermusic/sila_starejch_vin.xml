@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Síla starejch vín</title>
+    <artist>Škwor</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=853103&sid=</url>
+    
+    <sections>
+        <section name="Intro">
+            <chord value="G"/>,<chord value="D"/>,<chord value="Emi"/>,<chord value="C"/>,<chord value="Emi"/>,<chord value="C"/>,<chord value="Emi"/>,<chord value="D"/>,<chord value="G"/>,<chord value="G"/>
+        </section>
+        <section name="1">
+            <chord value="Emi"/>Podle nepsanejch <chord value="C"/>zákonů
+            hledáme <chord value="D"/>něco co nám nejspíš schází
+            <chord value="Emi"/>podle prastarejch <chord value="C"/>pudů
+            který nás <chord value="D"/>nutěj furt za něčim jít
+            <chord value="Emi"/>do stejný řeky nikdy <chord value="C"/>nevstoupíš
+            klacky <chord value="D"/>sám sobě pod nohy házíš
+            <chord value="Emi"/>cos chtěl máš stejně <chord value="C"/>dojdeš k pozná<chord value="D"/>ní
+        </section>
+        <section name="2">
+            Že věci <chord value="G"/>některý jsou <chord value="D"/>neměnný jak <chord value="Emi"/>síla starejch <chord value="C"/>vín
+            a někdy je tma<chord value="Emi"/> kolem ná<chord value="C"/>s
+            to když <chord value="Emi"/>zrovna nejsme stá<chord value="D"/>lí
+            najednou <chord value="G"/>blízký jsou si <chord value="D"/>vzdálený
+            to z<chord value="Emi"/> vočí kouká ná<chord value="C"/>m
+            tak na chvílí stůj<chord value="Emi"/> vzpomí<chord value="C"/>nej
+            no a <chord value="Emi"/>přiznej taky jsme se bá<chord value="D"/>li co bude <chord value="G"/>dál
+        </section>
+        <section name="3">
+            <chord value="Emi"/>Každej ctí asi <chord value="C"/>jinej zákon
+            a kdo <chord value="D"/>ví co nám odvahu dává
+            <chord value="Emi"/>každej má asi jinej<chord value="C"/> kód
+            a ty <chord value="D"/>sám zřejmě všechno víš líp
+            <chord value="Emi"/>jak když přesadíš <chord value="C"/>starej strom
+            taky to <chord value="D"/>nebude velká sláva
+            <chord value="Emi"/>cos chtěl máš stejně <chord value="C"/>dojdeš k pozná<chord value="D"/>ní
+        </section>
+        <section name="4">
+            Že věci <chord value="G"/>některý jsou <chord value="D"/>neměnný jak <chord value="Emi"/>síla starejch <chord value="C"/>vín
+            a někdy je tma<chord value="Emi"/> kolem ná<chord value="C"/>s
+            to když <chord value="Emi"/>zrovna nejsme stá<chord value="D"/>lí
+            najednou <chord value="G"/>blízký jsou si <chord value="D"/>vzdálený
+            to z<chord value="Emi"/> vočí kouká ná<chord value="C"/>m
+            tak na chvílí stůj<chord value="Emi"/> vzpomí<chord value="C"/>nej
+            no a <chord value="Emi"/>přiznej taky jsme se bá<chord value="D"/>li co bude <chord value="G"/>dál
+        </section>
+    </sections>
+</song>

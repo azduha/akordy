@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Made in Valmez</title>
+    <artist>Mňága A Žďorp</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=53&sid=</url>
+    
+    <sections>
+        <section name="1">
+            MŇÁGA &amp; ŽĎORP
+            Made in Valmez
+        </section>
+        <section name="2">
+            <chord value="D"/>jako je sama skála
+            <chord value="Gmaj7"/>tak jsem sám i <chord value="Emi"/>já <chord value="A"/>
+            jako je prázdná duha
+            tak jsem prázdný i já
+            jako je zrádná voda
+            tak zradím i já
+        </section>
+        <section name="3">
+            <chord value="D"/>zkouším se prokopat ven - zkouší se prokopat ven!
+            <chord value="Gmaj7"/>zkouším se prokopat ven - <chord value="Emi"/>zkouší se <chord value="A"/>prokopat ven!
+            zkouším se prokopat ven - zkouší se prokopat ven!
+            zkouší se prokopat ven!
+        </section>
+        <section name="4">
+            o půl třetí na náměstí ve Valašském Meziříčí
+            jdu co noha nohu mine a každý sám sobě jsme stínem
+            nic mi není přitom melu z posledního
+            těžko říct o tom něco konkrétního
+            stejná slova kolem stejný tváře
+            a každý sám sobě jsme lhářem a já už zase
+        </section>
+        <section name="5">
+            zkouším se prokopat ven - zkouší se prokopat ven!
+            zkouším se prokopat ven - zkouší se prokopat ven!
+            zkouším se prokopat ven - zkouší se prokopat ven!
+            zkouší se prokopat ven!
+        </section>
+    </sections>
+</song>

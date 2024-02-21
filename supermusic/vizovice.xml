@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Vizovice</title>
+    <artist>Fleret</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=19128&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="G"/>KDYŽ SE S VÍNEM <chord value="D"/> PROBOUZÍ <chord value="G"/> DEN
+            JEN <chord value="C"/>JÁ A TO VÍNO <chord value="G"/>TADY <chord value="D"/> SEM
+            JÁ VČERA S <chord value="C"/> VINEM <chord value="G"/> ŠEL JSEM I <chord value="D"/> SPÁT
+            - A TO MÁM <chord value="C"/> RÁD
+        </section>
+        <section name="2">
+            PO VÍNU A PO SLIVOVICI
+            JAKO BALÓN JA MÁM MAKOVICI
+            STEJNĚ SI MUSÍM ALE PANÁKA DÁT
+            - JÁ TO MÁM RÁD
+        </section>
+        <section name="3">
+            TAM KDE LEŽÍ VIZOVICE
+            TAM JSME PŘECE MY A SLIVOVICE
+            A DOBRÝCH LIDÍ CO MÁM TU ČEST ZNÁT
+            CO JE MÁM RÁD
+        </section>
+        <section name="4">
+            TAM VYCHÁZÍ TRNKY BRNKY
+            V LESÍCH JSOU JAK ŽIRAFY TAK I SRNKY
+            TAM TI NIKDO ŽIVOT NEBUDE BRÁT
+            JENOM O <chord value="G"/> JÁTRA SE <chord value="D"/> MUSÍŠ <chord value="G"/> BÁT
+        </section>
+        <section name="5">
+            TOUHLE PÍSNÍ CHTĚL JSEM JEN ŘÍCT
+            ŽE JSOU MÍSTA, KDE BUDE VÁM LÍP
+            KAŽDÝ MÁ NĚKDE SVOJE VIZOVICE
+            KDE JSOU ZNÁMÍ A NE PIJAVICE.
+        </section>
+    </sections>
+</song>

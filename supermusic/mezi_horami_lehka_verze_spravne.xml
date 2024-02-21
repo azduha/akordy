@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Mezi horami (lehká verze, správně)</title>
+    <artist>Čechomor</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=781739&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="Ami"/>/:Mezi horami
+            <chord value="C"/>lipka <chord value="G"/>zele<chord value="Ami"/>ná:/
+            <chord value="C"/>/:zabili Janka
+            <chord value="G"/>Janíčka, <chord value="Ami"/>Janka
+            <chord value="Ami"/>miesto <chord value="G"/>jele<chord value="Ami"/>ňa:/
+        </section>
+        <section name="2">
+            Keď ho zabili
+            zamordovali
+            na jeho hrobě
+            na jeho hrobě
+            kříž postavili
+        </section>
+        <section name="3">
+            Ej, křížu, křížu
+            ukřižovaný
+            zde leží Janík
+            Janíček, Janík
+            zamordovaný
+        </section>
+        <section name="4">
+            Tu šla Anička
+            plakat Janíčka
+            hned na hrob padla
+            a viac něvstala
+            dobrá Anička
+        </section>
+        <section>
+            Odposlech by lukke87
+        </section>
+    </sections>
+</song>

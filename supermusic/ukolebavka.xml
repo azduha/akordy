@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Ukolébavka</title>
+    <artist>Jaromír Nohavica</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=1711&sid=</url>
+    
+    <sections>
+        <section>
+            <chord value="G"/>Den už se <chord value="G/F#"/>zešeřil,
+        </section>
+        <section>
+            <chord value="G/E"/>už jste si dost <chord value="G/F#"/>užili<chord value="G"/>
+        </section>
+        <section>
+            Tak <chord value="Ami"/>hajdy do peřin<chord value="Ami/G#"/>
+        </section>
+        <section>
+            a <chord value="Ami/G"/>ne abyste tam moc <chord value="Ami/G#"/>řádili<chord value="Ami"/>
+        </section>
+        <section>
+            Zítra je taky den, slunko mi to dneska slíbilo
+        </section>
+        <section>
+            Přejte si hezký sen a kéž by se vám to splnilo
+        </section>
+        <section>
+            <chord value="G"/>Na na na, <chord value="Emi"/>ná ná ná <chord value="Hmi"/>na na ná <chord value="Emi"/>ná
+        </section>
+        <section>
+            Aby hůr <chord value="Ami"/>nebylo, to by nám <chord value="D7"/>stačilo
+        </section>
+        <section name="®">
+            <chord value="G"/>Hajduly, <chord value="C"/>dajduly<chord value="G"/>aby víčka <chord value="D7"/>sklapnuly<chord value="G"/>
+        </section>
+        <section>
+            Hajduly, dajduly, každý svou peřinu najdi
+        </section>
+        <section>
+            <chord value="G"/>Ha ja ja ja ja ja <chord value="D7"/>ja <chord value="G"/>já,
+        </section>
+        <section>
+            Kuba, Lenka, máma <chord value="D7"/>a <chord value="G"/>já
+        </section>
+        <section>
+            Dřív, než zítra slunce <chord value="C"/>začne <chord value="G"/>hřát,
+        </section>
+        <section>
+            dobrou <chord value="D7"/>noc a <chord value="G"/>spát
+        </section>
+        <section>
+            V noci někdy chodí strach
+        </section>
+        <section>
+            a srdce náhle dělá buch, buchy
+        </section>
+        <section>
+            Nebojte se, já spím na dosah
+        </section>
+        <section>
+            a když zavoláte zbiju zlé duchy
+        </section>
+        <section>
+            Zítra je taky den, slunko mi to dneska slíbilo
+        </section>
+        <section>
+            Přejme si hezký sen a kéž by se nám to i splnilo
+        </section>
+        <section>
+            Na, na ,ná …
+        </section>
+    </sections>
+</song>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Hořely, Padaly Hvězdy</title>
+    <artist>Michal Šindelář</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=61353&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="D"/>Andělům otrhalo<chord value="G"/> ráno křidla<chord value="A"/>
+            A v koutech usínají moje sny
+            Za oknem déšť tiše zpívá
+            Naše srdce sou vyhaslý
+            Zavírám oči
+        </section>
+        <section name="R">
+            Tu noc hořely padaly hvězdy
+            Ty si se bála že nepřijde den
+            Já věděl že je to navždy
+            a ty že vedle tebe jsem
+        </section>
+        <section name="2">
+            Slova jsou naděje i zklamání z pravdy
+            Města jsou jen ozvěny našich jmen
+            Jenže ty cesty nejsou vůbec snadný
+            Klesají stoupají s pohledem
+        </section>
+        <section name="3">
+            Tak tady ležím a loučím se s nudou
+            Kterou nemá nikdo z nás
+            A věřím že ty stíny v sebe splynou
+            A všechno začne znovu zas
+        </section>
+        <section>
+            Přicházím do tmy
+        </section>
+        <section>
+            Sólo
+        </section>
+        <section name="R">
+            R:
+        </section>
+    </sections>
+</song>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Čarodějnice z Amesbury</title>
+    <artist>Asonance</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=2970&sid=</url>
+    
+    <sections>
+        <section name="1">
+            Zuzana <chord value="Dmi"/>byla dívka, <chord value="C"/>která žila v <chord value="Dmi"/>Amesbury,
+            s jasnýma <chord value="F"/>očima a <chord value="C"/>řečmi pánům <chord value="Dmi"/>navzdory,
+            souse<chord value="F"/>dé o ní <chord value="C"/>říkali, že <chord value="Dmi"/>temná kouzla <chord value="Ami"/>zná
+            a <chord value="B"/>že se lidem <chord value="Ami"/>vyhýbá a s <chord value="B"/>ďáblem <chord value="C"/>pletky <chord value="Dmi(G)"/>má.
+        </section>
+        <section name="2">
+            Onoho léta náhle mor dobytek zachvátil
+            a pověrčivý lid se na pastora obrátil,
+            že znají tu moc nečistou, jež krávy zabíjí,
+            a odkud ta moc vychází, to každý dobře ví.
+        </section>
+        <section name="3">
+            Tak Zuzanu hned před tribunál předvést nechali,
+            a když ji vedli městem, všichni kolem volali:
+            "Už konec je s tvým řáděním, už nám neuškodíš,
+            teď na své cestě poslední do pekla poletíš!"
+        </section>
+        <section name="4">
+            Dosvědčil jeden sedlák, že zná její umění,
+            ďábelským kouzlem prý se v netopýra promění
+            a v noci nad krajinou létává pod černou oblohou,
+            sedlákům krávy zabíjí tou mocí čarovnou.
+        </section>
+        <section name="5">
+            Jiný zas na kříž přísahal, že její kouzla zná,
+            v noci se v černou kočku mění dívka líbezná,
+            je třeba jednou provždy ukončit ďábelské řádění,
+            a všichni křičeli jako posedlí:"Na šibenici s ní!"
+        </section>
+        <section name="6">
+            Spektrální důkazy pečlivě byly zváženy,
+            pak z tribunálu povstal starý soudce vážený:
+            "Je přece v knize psáno: nenecháš čarodějnici žít
+            a před ďáblovým učením budeš se na pozoru mít!"
+        </section>
+        <section name="7">
+            Zuzana stála krásná s hlavou hrdě vztyčenou
+            a její slova zněla klenbou s tichou ozvěnou:
+            "Pohrdám vámi, neznáte nic nežli samou lež a klam,
+            pro tvrdost vašich srdcí jen, jen pro ni umírám!"
+        </section>
+        <section name="8">
+            Tak vzali Zuzanu na kopec pod šibenici
+            a všude kolem ní se sběhly davy běsnící,
+            a ona stála bezbranná, však s hlavou vztyčenou,
+            zemřela tiše samotná pod letní oblohou ...
+        </section>
+    </sections>
+</song>

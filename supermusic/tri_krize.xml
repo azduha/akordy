@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Tři kříže</title>
+    <artist>Hop Trop</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=1817&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="Dmi"/>Dávám sbohem <chord value="C"/>břehům prokla<chord value="Ami"/>tejm,
+            který <chord value="Dmi"/>v drápech má <chord value="C"/>ďábel <chord value="Dmi"/>sám.
+            <chord value="Dmi"/>Bílou přídí <chord value="C"/>šalupa „My <chord value="Ami"/>grave“
+            míří <chord value="Dmi"/>k útesům, <chord value="C"/>který <chord value="Dmi"/>znám.
+        </section>
+        <section name="®">
+            Jen tři <chord value="F"/>kříže z bí<chord value="C"/>lýho kame<chord value="Ami"/>ní
+            někdo <chord value="Dmi"/>do písku <chord value="C"/>posklá<chord value="Dmi"/>dal.
+            Slzy <chord value="F"/>v očích měl a <chord value="C"/>v ruce znave<chord value="Ami"/>ný,
+            lodní <chord value="Dmi"/>deník, co <chord value="C"/>sám do něj <chord value="Dmi"/>psal.
+        </section>
+        <section name="2">
+            První kříž má pod sebou jen hřích, samý pití a rvačka jen.
+            Chřestot nožů. při kterých přejde smích, srdce kámen a jméno „Sten“.
+        </section>
+        <section name="3">
+            Já Bob Green, mám tváře zjizvený, štěkot psa zněl, když jsem se smál,.
+            Druhej kříž mám a spím pod zemí, že jsem falešný karty hrál.
+        </section>
+        <section name="4">
+            Třetí kříž sand vyvolá jen vztek, Katty Rodgers těm dvoum život vzal.
+            Svědomí měl vedle nich si klek ...
+        </section>
+        <section name="Rec">
+            Vím, trestat je lidský, ale odpouštět božský. Ať mi tedy Bůh odpustí.
+        </section>
+        <section name="®">
+            Jen tři kříže z bílýho kamení někdo do písku poskládal.
+            Slzy v očích měl a v ruce znavený, lodní deník, co sám do něj psal.
+        </section>
+    </sections>
+</song>

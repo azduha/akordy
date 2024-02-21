@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Jóžin z bážin</title>
+    <artist>Ivan Mládek</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=724&sid=</url>
+    
+    <sections>
+        <section name="1">
+            Ivan Mládek
+            Jóžin z bážin
+        </section>
+        <section name="1">
+            <chord value="Ami"/>Jedu takhle tábořit <chord value="E"/>Škodou 100 na <chord value="Ami"/>Oravu,
+            spěchám proto, riskuji, pro<chord value="E"/>jíždím přes Mo<chord value="Ami"/>ravu.
+            <chord value="G7"/>Řádí tam to stra<chord value="C"/>šidlo, <chord value="G7"/>vystupuje z ba<chord value="C"/>žin<chord value="E"/>,
+            <chord value="Ami"/>žere hlavně Pražáky a <chord value="E"/>jmenuje se <chord value="Ami"/>Jožin.[G7
+            ]
+            R: <chord value="C"/>Jožin z bažin močálem se plí<chord value="G7"/>ží,
+            Jožin z bažin k vesnici se blí<chord value="C"/>ží,
+            Jožin z bažin už si zuby brou<chord value="G7"/>sí,
+            Jožin z bažin kouše, saje, rdou<chord value="C"/>sí.
+            Na <chord value="F"/>Jožina z <chord value="C"/>bažin, <chord value="G"/>koho by to napadlo,[C
+            F]platí jen a <chord value="C"/>pouze práš<chord value="G"/>kovací letadlo.[C, E
+            ]
+            2. Projížděl jsem Moravou směrem na Vizovice,
+            &nbsp;&nbsp;&nbsp;přivítal mě předseda, řek' mi u slivovice:
+            &nbsp;&nbsp;&nbsp;&quot;Živého či mrtvého Jožina kdo přivede,
+            &nbsp;&nbsp;&nbsp;&nbsp;tomu já dám za ženu dceru a půl JZD!&quot;
+        </section>
+        <section>
+            R:
+        </section>
+        <section name="2">
+            3. Říkám:&quot;Dej mi, předsedo, letadlo a prášek,
+            &nbsp;&nbsp;&nbsp;Jožina ti přivedu, nevidím v tom háček.&quot;
+            &nbsp;&nbsp;&nbsp;Předseda mi vyhověl, ráno jsem se vznesl,
+            &nbsp;&nbsp;&nbsp;na Jožina z letadla prášek pěkně klesl.
+        </section>
+        <section name="3">
+            R: Jožin z bažin už je celý bílý,
+            &nbsp;&nbsp;&nbsp;Jožin z bažin z močálu ven pílí,
+            &nbsp;&nbsp;&nbsp;Jožin z bažin dostal se na kámen,
+            &nbsp;&nbsp;&nbsp;Jožin z bažin - tady je s ním amen!
+            &nbsp;&nbsp;&nbsp;Jožina jsem dostal, už ho držím, johoho,
+            &nbsp;&nbsp;&nbsp;dobré každé lóve, prodám já ho do ZOO.
+        </section>
+    </sections>
+</song>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Míša</title>
+    <artist>E!e</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=5392&sid=</url>
+    
+    <sections>
+        <section name="1">
+            Každá země, kde se moc mluví o svobodě
+            je podezřelá,
+            tam, kde se furt musí vyřvávat:
+            My jsme národ,
+            my jsme národ svobodnejch lidí,
+            tam se chce mermomocí schovat fakt,
+            že se svobodou je to tam pod psa
+        </section>
+        <section name="2">
+            <chord value="C"/>Hopsa hejsa <chord value="G"/>pryč jsou můry,
+            <chord value="Ami"/>co nám nedá<chord value="F"/>valy spát,
+            <chord value="C"/>schváleni jsme <chord value="G"/>byli shůry,
+            <chord value="Ami"/>Míša je náš <chord value="F"/>kama<chord value="C,G,Ami,F"/>rád. <chord value="C,G,Ami,F"/>
+        </section>
+        <section name="3">
+            Teď jsme zase pevně v sedle,
+            kdo by nám chtěl židle brát,
+            ten je vedle jak ta jedle,
+        </section>
+        <section name="4">
+            Míša je náš kamarád.
+            Můžeš nadál směle křičet,
+            my jsme národ, my jsme stát,
+            chartu pošlem do prdele,
+            Míša je náš kamarád.
+        </section>
+        <section>
+            <chord value="C"/>Zpěvy <chord value="G"/>levicového <chord value="Ami"/>oportunis<chord value="F"/>ty<chord value="G"/>
+        </section>
+    </sections>
+</song>

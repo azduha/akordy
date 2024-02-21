@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Čert na koze jel</title>
+    <artist>Kabát</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=1329&sid=</url>
+    
+    <sections>
+        <section name="1">
+            Kabát
+            Čert na koze jel
+        </section>
+        <section name="2">
+            [C, G, D, C, G, D
+            ]
+            <chord value="D"/>Tenkrát bylo veselo a dost málo se <chord value="G"/>brečelo
+            kdo nás znal ten se smál prstem si klepal <chord value="D"/>na čelo
+            život bežel pozpátku a všechno bylo v pořádku
+            holky se nebály já je kousal do zadku
+        </section>
+        <section name="3">
+            To <chord value="C"/>čert na koze <chord value="G"/>jel a <chord value="D"/>táta režnou popíjel
+            To čert na koze jel bejky pěstí zabíjel
+            To čert na koze jel my honili sme mamuty
+            to <chord value="C"/>čert na koze <chord value="G"/>jel a já byl ješte při chuti[D
+            ]
+            Jó tenkrát slovo platilo a za lhaní se mlátilo
+            Do hlavy kamenem no špatne se nám nežilo
+            My pro samou legraci sme neměli čas na práci
+            a pro ty nezvané tu stály mosty padaci
+        </section>
+        <section name="4">
+            ®: Řada starších sedící když nebylo co na lžíci
+            Dostali do řepy my hnali jsme je palici
+            Tak proto nám to klapalo, že na kecy se nedalo
+            Krávy pivo dávaly a prase v chlive větralo
+        </section>
+        <section>
+            2x ®:
+        </section>
+    </sections>
+</song>

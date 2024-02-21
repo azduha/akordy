@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Hlídač krav</title>
+    <artist>Jaromír Nohavica</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=203698&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="D"/>Když jsem byl malý, říkali mi naši:
+        </section>
+        <section>
+            "Dobře se uč a jez chytrou kaši,
+        </section>
+        <section>
+            <chord value="G"/>až jednou vyrosteš, <chord value="A7"/>budeš doktorem <chord value="D"/>práv.
+        </section>
+        <section>
+            Takový doktor sedí pěkně v suchu,
+        </section>
+        <section>
+            bere velký peníze a škrábe se v uchu,"
+        </section>
+        <section>
+            <chord value="G"/>já jim ale na to řek':"Ch<chord value="A7"/>ci být hlídačem <chord value="D"/>krav."
+        </section>
+        <section name="R">
+            Já chci <chord value="D"/>mít čapku s bambulí nahoře,
+        </section>
+        <section>
+            jíst kaštany a mýt se v lavoře,
+        </section>
+        <section>
+            <chord value="G"/>od rána po celý <chord value="A7"/>den zpívat si <chord value="D"/>jen,
+        </section>
+        <section>
+            zpívat si: pam pam pam<chord value="D, G, A7"/> ...
+        </section>
+        <section name="2">
+            K vánocům mi kupovali hromady knih,
+        </section>
+        <section>
+            co jsem ale vědět chtěl, to nevyčet' jsem z nich:
+        </section>
+        <section>
+            nikde jsem se nedozvěděl, jak se hlídají krávy.
+        </section>
+        <section>
+            Ptal jsem se starších a ptal jsem se všech,
+        </section>
+        <section>
+            každý na mě hleděl jako na pytel blech,
+        </section>
+        <section>
+            každý se mě opatrně tázal na moje zdraví.
+        </section>
+        <section name="3">
+            Dnes už jsem starší a vím, co vím,
+        </section>
+        <section>
+            mnohé věci nemůžu a mnohé smím,
+        </section>
+        <section>
+            a když je mi velmi smutno, lehnu si do mokré trávy.
+        </section>
+        <section>
+            S nohama křížem a s rukama za hlavou
+        </section>
+        <section>
+            koukám nahoru na oblohu modravou,
+        </section>
+        <section>
+            kde se mezi mraky honí moje strakaté krávy.
+        </section>
+        <section name="R">
+            ...... pa da da dam <chord value="D"/>
+        </section>
+    </sections>
+</song>

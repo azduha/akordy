@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Magdaléna</title>
+    <artist>Jelen</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=799163&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="A"/> Zapal ten oheň ve mně, <chord value="D"/> čeho se bojíš,
+            <chord value="A"/> zápalkou škrtni <chord value="D"/> jemně,
+            <chord value="A"/> zapal ten oheň ve mně, <chord value="D"/> čeho se bojíš,
+            <chord value="A"/> zimou se celá třeseš, <chord value="D"/> proč venku stojíš?
+            Pojď <chord value="A"/> dál, prosímtě, nenech se, prosit se <chord value="A"/> dál
+            <chord value="D"/> nenech se.
+        </section>
+        <section name="2">
+            Sedíme na pavlači, přichází ráno,
+            tobě se lesknou oči,
+            sedíme na pavlači, přichází ráno
+            a mně se hlava točí.
+            Pojď dál, prosímtě, nenech se, prosit se dál,
+            nenech se?
+        </section>
+        <section name="Ref">
+            :
+            <chord value="F#m"/> Hodiny se zastaví a v <chord value="E"/> devět třicet v pondělí,
+            <chord value="A"/> Magdaléno, tvoje vlasy,
+            <chord value="F#m"/> leží pod mou postelí a i <chord value="E"/> když jsme to nechtěli,
+            <chord value="A"/> oblíkáš se, pročpak asi,
+            <chord value="F#m"/> hodiny se zastaví a v <chord value="E"/> devět třicet v pondělí
+            jsem <chord value="A"/> sám.
+        </section>
+        <section name="3">
+            Stojíme na rozcestí a zvony zvoní,
+            daleko od bolestí,
+            stojíme na rozcestí a zvony zvoní,
+            možná nás čeká štěstí.
+        </section>
+        <section name="1">
+            Pojď dál. Prosímtě nenech se, prosit se dál,
+            nenech se.
+        </section>
+        <section name="Ref">
+            :
+            Hodiny se zastaví a v devět třicet v pondělí,
+            Magdaléno, tvoje vlasy,
+            leží pod mou postelí a i když jsme to nechtěli,
+            oblíkáš se, pročpak asi,
+            hodiny se zastaví a v devět třicet v pondělí
+            jsem sám.
+        </section>
+        <section name="2">
+            Hodiny se zastaví a v devět třicet v pondělí,
+            Magdaléno, tvoje vlasy,
+            leží pod mou postelí a i když jsme to nechtěli,
+            oblíkáš se, pročpak asi,
+            hodiny se zastaví a v devět třicet v pondělí
+            jsem sám.
+        </section>
+        <section name="3">
+            Hodiny se zastaví a v devět třicet v pondělí,
+            Magdaléno, tvoje vlasy,
+            leží pod mou postelí a i když jsme to nechtěli,
+            oblíkáš se, pročpak asi,
+            hodiny se zastaví a v devět třicet v pondělí,
+            máš těžký srdce a mokrý řasy,
+            když vycházíš ze dveří, tak sama tomu nevěříš,
+            nenech se!
+        </section>
+    </sections>
+</song>

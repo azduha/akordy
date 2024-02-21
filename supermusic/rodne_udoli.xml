@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Rodné údolí</title>
+    <artist>Country Pesničky</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=97364&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="G"/>Cesta má přede mnou <chord value="C"/>v dáli mizí,
+            každý kr<chord value="G"/>ok v srdci mém zabo<chord value="D"/>lí,
+            zakrát<chord value="G"/>ko bude mi všechno ci<chord value="C"/>zí,
+            nespatř<chord value="G"/>ím své rod<chord value="D"/>né údo<chord value="G"/>lí.
+        </section>
+        <section name="R">
+            Zavolám: nashledanou, na<chord value="C"/>shledanou,
+            na<chord value="G"/>shledanou, ro<chord value="D"/>dné údol<chord value="G"/>í,
+            Zavolám: nashledanou, na<chord value="C"/>shledanou,
+            p<chord value="G"/>ři vzpomínce sr<chord value="D"/>dce zabol<chord value="G"/>í.
+        </section>
+        <section name="2">
+            Oči mé nevidí, jak se stmívá,
+            nevidí, co jsem měl tolik rád,
+            jediné, co mi teď ještě zbývá:
+            rodnému údolí sbohem dát.
+        </section>
+        <section name="3">
+            Proč se den za každou nocí vrací,
+            proč se čas na chvíli nezastaví,
+            nemusel bych ti své sbohem dáti,
+            kdyby dnešní den navěky byl.
+        </section>
+    </sections>
+</song>

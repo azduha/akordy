@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Velrybářská výprava</title>
+    <artist>Pacifik</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=6717&sid=</url>
+    
+    <sections>
+        <section name="1">
+            Jed<chord value="E"/>nou plác mě přes <chord value="A"/>rameno Joh<chord value="H7"/>ny zvanej Knecht<chord value="E"/>:
+        </section>
+        <section>
+            "Mám <chord value="C#mi"/>pro tebe, ho<chord value="F#mi"/>chu, v pácu moc <chord value="H7"/>fajnovej kšeft!<chord value="E"/>"
+        </section>
+        <section>
+            Objednal hned litr <chord value="A"/>rumu a <chord value="H7"/>pak nežně řval<chord value="E"/>:
+        </section>
+        <section>
+            "Sbal <chord value="C#mi"/>se, jedem na <chord value="F#mi"/>velryby, prej <chord value="H7"/>až za polár.<chord value="E"/>"
+        </section>
+        <section name="R">
+            Výprava vel<chord value="E"/>rybářská kole<chord value="A"/>m Grónska nez<chord value="H7"/>dařila se,<chord value="E"/>
+        </section>
+        <section>
+            protože nejeli <chord value="C#mi"/>jsme na vel<chord value="F#mi"/>ryby, ale <chord value="H7"/>na mrože.<chord value="E"/>
+        </section>
+        <section name="2">
+            Briga zvaná Malá Kitty kotví v zátoce,
+            nakládaj se sudy s rumem, maso, ovoce,
+            vypluli jsme časne zrána, smer severní pól,
+            dřív, než přístav zmizel z očí, každej byl namol.
+        </section>
+        <section name="R">
+            3. Na loď padla jinovatka, s ní třeskutej mráz,
+            hoň velryby v kupách ledu, to ti zlomí vaz,
+            na pobreží místo ženskejch mávaj tučňáci,
+            v tomhle kraji beztak nemáš jinou legraci.
+        </section>
+        <section name="R">
+            4. Když jsme domú připluli, už psal se přítí rok,
+            starej řejdař povídá, že nedá ani flok:
+            "Místo velryb v Grónským moři zajímal vás grog,
+            tuhle práci zaplatil by asi jenom cvok."
+        </section>
+        <section name="R">
+            5. Tohleto nám neměl říkat, teď to dobře ví,
+            stáhli jsme mu kuži z těla, tomu hadovi,
+            z paluby pak slanej vítr jeho tělo smet, chachacha,
+            máme velryb plný zuby, na to vezmi jed.
+        </section>
+    </sections>
+</song>

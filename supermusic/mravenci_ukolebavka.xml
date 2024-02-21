@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Mravenčí ukolébavka</title>
+    <artist>Zdeněk Svěrák & Jaroslav Uhlíř</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=11813&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="C"/>Slunce šlo <chord value="G"/>spát
+            <chord value="F"/>za hromádku <chord value="G"/>klád
+            <chord value="C"/>na nebi <chord value="ami"/>hvězdy klí<chord value="G"/>čí.
+            <chord value="C"/>Už nepra<chord value="G"/>cuj, <chord value="F"/>mravenečku <chord value="G"/>můj,
+            <chord value="C"/>schovej se <chord value="G"/>do jehli<chord value="C"/>čí.
+        </section>
+        <section name="2">
+            Slunce šlo spát
+            za hromádku klád
+            na nebi hvězdy klíčí.
+            Už nepracuj, mravenečku můj,
+            schovej se do jehličí.
+        </section>
+        <section name="3">
+            <chord value="C"/>Máš <chord value="F"/>nožičky <chord value="C"/>uběha<chord value="G"/>né,
+            <chord value="C"/>den <chord value="F"/>byl tak tě<chord value="G"/>žký.
+            <chord value="C"/>Pojď, <chord value="F"/>lůžko máš <chord value="C"/>odestla<chord value="G"/>né
+            <chord value="C"/>v chládku <chord value="F"/>od maceš<chord value="C"/>ky.
+        </section>
+        <section name="4">
+            Spinká a sní
+            mravenec lesní
+            Nespinká sám,
+            s maminkou je tam,
+            tykadlama ho hladí.
+        </section>
+        <section name="5">
+            Máš nožičky uběhané,
+            den byl tak těžký.
+            Pojď, lůžko máš odestlané
+            v chládku od macešky.
+        </section>
+        <section name="6">
+            Spinká a sní
+            mravenec lesní
+            Nespinká sám,
+            s maminkou je tam,
+            tykadlama ho hladí.
+        </section>
+    </sections>
+</song>

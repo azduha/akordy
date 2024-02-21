@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>L. A. G. song</title>
+    <artist>Horkýže Slíže</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=10140&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="A"/>Poď sem, nech sa s tebou zblížim,
+            <chord value="E"/>poď sem, ja ti neublížim,
+            <chord value="Hmi"/>poď sem, ja ťa nezbijem,
+            <chord value="D"/>I'm sorry, I'm Lesbian.
+        </section>
+        <section name="2">
+            Poď sem, som tvoj dvorný básnik,
+            mám energiu za dvanástich,
+            a k tomu lubrikačný gel,
+            I'm sorry, I'm really Gay.
+        </section>
+        <section name="Ref">
+            :
+            <chord value="A"/>Lesbian's and Gay's <chord value="E"/>song...
+            <chord value="G"/>Lesbian's and Gay's <chord value="D"/>song... 2x
+        </section>
+        <section name="3">
+            Poď sem, pustím Iron Maiden,
+            poď sem, nalejem ti za jeden,
+            poď sem, s bárským nepijem,
+            I'm sorry, I'm Lesbian.
+        </section>
+        <section name="4">
+            Poď sem, tu si ku mne hačaj,
+            keď som ťa pozval na rum a čaj.
+            Stoj! Nechoď nikam! Čo je? Hej!
+            I'm sorry, I'm really Gay.
+        </section>
+        <section>
+            Solo
+        </section>
+        <section name="5">
+            Poď sem, spolu máme v pláne,
+            že ťa okúpem vo fontáne,
+            tak otvor bránu, lebo ju rozbijem!
+            I'm sorry baby, I'm Lesbian.
+        </section>
+        <section name="6">
+            Viem, neopakuj mi to stále,
+            ja som vyrástol na Death Metal-e.
+            Ja takýmto veciam rozumiem.
+            I'm sorry... ale veď ja viem - Lesbian
+        </section>
+        <section name="Ref">
+            :
+        </section>
+    </sections>
+</song>

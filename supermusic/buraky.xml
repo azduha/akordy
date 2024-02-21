@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Buráky</title>
+    <artist>Country</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=464043&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="G"/>Když Sever válčí s Jihem a <chord value="C"/>zem jde do vál<chord value="G"/>ky
+            a v polích místo bavlny, teď <chord value="A"/>rostou bodlá<chord value="D"/>ky.
+            <chord value="G"/>A ve stínu u silnice vidíš <chord value="C"/>z Jihu vojá<chord value="G"/>ky,
+            jak se tu válej' v trávě a <chord value="D"/>louskaj' burá<chord value="G"/>ky.
+        </section>
+        <section name="Ref">
+            <chord value="G"/>Hej hou, hej hou, nač <chord value="C"/>chodit do vál<chord value="G"/>ky,
+            je lepší doma sedět a <chord value="A"/>louskat burá<chord value="D"/>ky.
+            <chord value="G"/>Hej hou, hej hou, <chord value="C"/>nač chodit do vál<chord value="G"/>ky,
+            je lepší doma sedět a <chord value="D"/>louskat burá<chord value="G"/>ky.
+        </section>
+        <section name="2">
+            <chord value="G"/>Plukovník sedí v sedle, <chord value="C"/>volá: "Yankeeové <chord value="G"/>jdou!"
+            Ale mužstvo v trávě leží, prej <chord value="A"/>už dál nemo<chord value="D"/>hou.
+            <chord value="G"/>Pan plukovník se otočí a <chord value="C"/>koukne do dál<chord value="G"/>ky,
+            a vidí tu slavnou armádu, jak <chord value="D"/>louská burá<chord value="G"/>ky.
+        </section>
+        <section name="Ref">
+            <chord value="G"/>Hej hou, hej hou...
+        </section>
+        <section name="3">
+            <chord value="G"/>Až tahle válka skončí a <chord value="C"/>jestli budem <chord value="G"/>žít,
+            své milenky a ženy pak <chord value="A"/>půjdem polí<chord value="D"/>bit.
+            <chord value="G"/>Když zeptají se: "Hrdino, cos' <chord value="C"/>dělal za vál<chord value="G"/>ky?"
+            "Jo, flákal jsem se s kvérem a <chord value="D"/>louskal burá<chord value="G"/>ky."
+        </section>
+        <section name="Ref">
+            <chord value="G"/>Hej hou, hej hou...
+        </section>
+    </sections>
+</song>

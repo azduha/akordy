@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Mlýny</title>
+    <artist>Spirituál Kvintet</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=851&sid=</url>
+    
+    <sections>
+        <section name="1">
+            Mlýny
+            Spirituál Kvintet
+        </section>
+        <section name="®">
+            /: <chord value="G"/>Slyším mlýny kámen, jak se otáčí,
+            <chord value="C"/>slyším mlýny kámen, <chord value="G"/>jak se otáčí,
+            já slyším mlýnský <chord value="H7"/>kámen, <chord value="Emi"/>jak se otáčí,
+            <chord value="C"/>Otá<chord value="D"/>čí, <chord value="G"/>otáčí, <chord value="D"/>otáčí.<chord value="C"/> :/
+        </section>
+        <section name="2">
+            1. Ty <chord value="G"/>mlýny me<chord value="C"/>lou celou <chord value="G"/>noc a melou celý den,
+            Melou<chord value="C7"/> bez výhod a <chord value="G"/>melou stejně všem,
+            melou do<chord value="C"/>leva jen a <chord value="G"/>melou doprava,
+            Melou<chord value="A"/> pravdu i lež, <chord value="D"/>když zrovna vyhrává,
+            Me<chord value="G"/>lou ot<chord value="C"/>rokáře, <chord value="G"/>melou otroky,
+            Melou<chord value="C"/> na minuty, na <chord value="G"/>hodiny, na roky,
+            Melou<chord value="H7"/> pomalu a&nbsp;jis<chord value="Emi"/>tě, ale <chord value="C"/>melou včas,
+            já už <chord value="G"/>slyším<chord value="D7"/> jejich <chord value="G"/>hlas.
+        </section>
+        <section>
+            ®:
+        </section>
+        <section name="3">
+            2. Ó, já, chtěl bych aspoň na chvíli být mlynářem,
+            pane, já bych mlel, až by se chvěla zem,
+            to mi věřte, uměl bych dobře mlít,
+            já bych věděl komu ubrat, komu přitlačit,
+            ty mlýny čekají někde za námi,
+            až zdola zazní naše volání,
+            až zazní jeden lidský hlas:
+            no tak už melte, je čas!
+        </section>
+        <section>
+            ®:
+        </section>
+    </sections>
+</song>

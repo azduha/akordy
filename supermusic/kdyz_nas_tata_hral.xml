@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Když náš táta hrál</title>
+    <artist>Greenhorns</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=2712&sid=</url>
+    
+    <sections>
+        <section name="1">
+            Když <chord value="G"/>jsem byl chlapec malej, tak metr nad zemí,
+            <chord value="C"/>scházeli se farmáři tam <chord value="G"/>u nás v přízemí,
+            mezi nima můj táta u piva sedával
+            <chord value="D7"/>a tu svoji nejmilejší <chord value="G"/>hrál.<chord value="C, G, D7, G"/>
+        </section>
+        <section name="2">
+            Teď už jsem chlap jak hora, šest stop a palců pět,
+            už jsem prošel celý Státy a teď táhnu zpět,
+            kdybych si ale ve světě moh' ještě něco přát,
+            tak zase slyšet svýho tátu hrát.
+        </section>
+        <section name="3">
+            Ta písnička mě vedla mým celým životem,
+            když jsem se toulal po kolejích, žebral za plotem,
+            a když mi bylo nejhůř, tak přece jsem se smál,
+            když jsem si vzpomněl, jak náš táta hrál.
+        </section>
+        <section name="4">
+            To všechno už je dávno, táta je pod zemí,
+            když je noc a měsíc, potom zdá se mi,
+            jako bych od hřbitova, kam tátu dali spát,
+            zase jeho píseň slyšel hrát.
+        </section>
+    </sections>
+</song>

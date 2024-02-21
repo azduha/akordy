@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Pole s bavlnou</title>
+    <artist>Plavci</artist>
+    <url>https://supermusic.cz/skupina.php?action=piesen&idskupiny=68&idpiesne=4766</url>
+    
+    <sections>
+        <section name="1">
+            Pane <chord value="G"/>můj co v nebi je tvůj dům
+            má máma můj <chord value="C"/>život dala katům
+            katům <chord value="G"/>mým v polích s bav<chord value="D"/>lnou
+            Pane <chord value="G"/>můj co v nebi je tvůj dům
+            má máma můj <chord value="C"/>život dala katům
+            katům <chord value="G"/>mým v <chord value="D"/>polích s bavl<chord value="G"/>nou
+        </section>
+        <section name="®">
+            Den za dnem <chord value="G"/>kůže zná bič katů
+            vidíš <chord value="C"/>jen černý záda bratrů
+            jak tam <chord value="G"/>jdou v polích s bav<chord value="D"/>lnou
+            to co <chord value="G"/>znáš ty v Louisiane
+            černý záda <chord value="C"/>znaj´ i v Texakene
+            i tam <chord value="G"/>jdou v <chord value="D"/>polích s bav<chord value="G"/>l<chord value="D"/>nou<chord value="G"/>
+        </section>
+        <section name="2">
+            Já vím brzy musí přijít soud
+            černý záda práva na něm vyhrajou
+            boží soud v polích s bavlnou
+        </section>
+        <section name="3">
+            Chtěl bych jít na potem vlhký lány,
+            tak řekni, pane můj, černý zvoň hrany
+            katům svým v polích s bavlnou.
+            Chtěl bych jít na potem vlhký lány,
+            tak řekni, pane můj, černý zvoň hrany
+            katům svým v polích s bavlnou.
+        </section>
+        <section name="4">
+            Den za dnem kůže zná bič katů, vidíš jen černý záda bratrů, jak tam jdou v polích s bavlnou,
+            to, co znáš ty v Lousianě, černý záda znaj' i v
+            Texaganě, i tam jsou v polích s bavlnou.
+        </section>
+        <section name="5">
+            <chord value="C"/>Měj, můj pane, co v nebi je tvůj dům,
+            mou duši, když <chord value="F"/>život patří <chord value="C"/>katům,
+            katům mým v polích s bavl<chord value="G7"/>nou.
+            Dnes <chord value="C"/>měj, pane, co v nebi je tvůj dům,
+            mou duši, když <chord value="F"/>život patří <chord value="C"/>katům,
+            katům mým <chord value="G7"/>v polích s bavl<chord value="C"/>nou.
+        </section>
+    </sections>
+</song>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Modrá</title>
+    <artist>Žlutý Pes</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=989&sid=</url>
+    
+    <sections>
+        <section name="1">
+            Žlutý pes
+            Modrá
+        </section>
+        <section name="2">
+            <chord value="G"/>Modrá je <chord value="D"/>planeta, kde <chord value="C"/>můžeme <chord value="D"/>žít
+            <chord value="G"/>Modrá je <chord value="D"/>voda, kterou <chord value="C"/>musíme <chord value="D"/>pít
+            <chord value="G"/>Modrá je <chord value="D"/>obloha, když <chord value="C"/>vodejde <chord value="D"/>mrak
+            Modrá je dob<chord value="F"/>rá, už <chord value="C"/>je to tak<chord value="G"/>.
+        </section>
+        <section name="3">
+            Modrá je Milka - ta naše kráva
+            Modrá je prej v Americe tráva
+            Modrá je údajně i polární liška
+            Senzačně modrá je moje vojenská knížka.
+        </section>
+        <section name="4">
+            Jako <chord value="C"/>nálada když zahrajou poslední <chord value="G"/>kus
+            Modrá je <chord value="F"/>naděje <chord value="C"/>láska i <chord value="F"/>moje <chord value="G"/>blues
+            Je to <chord value="C"/>barva, kterou mám prostě <chord value="G"/>rád
+            Modrá je dob<chord value="F"/>rá, už <chord value="C"/>je to <chord value="G"/>tak.
+        </section>
+        <section name="5">
+            Modrá je Raketa - ta moje holka
+            modrá je vzpomínka na Mikyho Volka
+            velká rána je modrej přeliv
+            modrý voko má i černej šerif
+        </section>
+        <section name="6">
+            Jako nálada když zahrajou poslední kus
+            Modrá je naděje láska i moje blues
+            je to barva kterou mám prostě rád
+            modrá je dobrá - už je to tak
+        </section>
+        <section name="7">
+            [F, F, C, C, F, F, Ami, G, D, D
+            ]
+            Jako nálada když zahrajou poslední kus
+            Modrá je naděje láska i moje blues
+            je to barva kterou mám prostě rád
+            modrá je dobrá - už je to tak
+        </section>
+    </sections>
+</song>

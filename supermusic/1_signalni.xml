@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>1.signální</title>
+    <artist>Chinaski</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=37&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="Emi"/>Až si <chord value="G"/>zejtra ráno <chord value="C"/>řeknu zase
+            <chord value="Emi"/>jednou provždy dost
+            <chord value="G"/>právem se mi <chord value="C"/>budeš tiše <chord value="Emi"/>smát
+            jak omluvit si svoji slabost, nenávist a zlost
+            když za všechno si můžu vlastně sám.
+        </section>
+        <section name="®">
+            <chord value="Ami"/>Za spoustu dní možná za <chord value="C"/>spoustu let
+            až se mi <chord value="G"/>rozední budu ti <chord value="D"/>vyprávět
+            na 1.signální jak jsem vobletěl svět
+            jak tě to vomámí a nepustí zpět.
+            Jaký si to <chord value="F"/>uděláš <chord value="B"/>takový to <chord value="Dmi"/>máš.
+            Jaký si to <chord value="F"/>uděláš <chord value="B"/>takový to <chord value="Dmi"/>máš.
+        </section>
+        <section name="2">
+            Až se dneska večer budu tvářit zas jak Karel Gott,
+            budu zpívat vampamtydapam
+            všechna sláva polní tráva ale peníz přijde vhod
+            jak jsem si to uďál tak to mám. ®:
+        </section>
+        <section>
+            nana ...
+        </section>
+    </sections>
+</song>

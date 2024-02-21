@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Amerika</title>
+    <artist>Lucie</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=923&sid=</url>
+    
+    <sections>
+        <section>
+            /mel.: D,D,H,D,D,D,E,H,A; A,A,G,A,G,A,H,G /
+        </section>
+        <section name="1">
+            1. <chord value="G"/>Nandej mi <chord value="D"/>do hlavy tvý <chord value="Ami"/>brouky
+            A Bůh nám seber bezna<chord value="G"/>děj
+            V duši zbylo <chord value="D"/>světlo z jedny <chord value="Ami"/>holky
+            Tak mi teď za to vyna<chord value="G"/>dej
+            Zima a <chord value="D"/>promarněný <chord value="Ami"/>touhy
+            Do vrásek stromů padá <chord value="G"/>déšť
+            Zbejvaj roky <chord value="D"/>asi ne moc <chord value="Ami"/>dlouhý
+            Do vlasů mi zabroukej<chord value="C"/>... pa pa pa <chord value="G"/>pá
+            pa pa pa <chord value="Emi"/>pá, pá pa pa <chord value="G"/>pá
+            pa pa pa <chord value="Emi"/>pá, pá pa pa <chord value="G"/>pá
+        </section>
+        <section name="2">
+            Tvoje oči jenom žhavý tóny
+            Dotek slunce zapadá
+            Horkej vítr rozezní mý zvony
+            Do vlasú ti zabrou<chord value="C"/>ká
+            pa pa pa pá, pa pa pa pá, pá pa pa pá ..
+        </section>
+        <section name="3">
+            © Na obloze krídla tažnejch ptáků
+            Tak už na svý bráchy zavolej
+            Na tváře ti padaj slzy z mraků
+            A Bůh nám sebral beznaděj
+            V duši zbylo světlo z jedný holky
+            Do vrásek stromů padá déšť
+            Poslední dny hodiny a roky
+            Do vlasů ti zabrouká...
+            pa pa pa pá, pa pa pa pá, pá pa pa pá ..
+        </section>
+    </sections>
+</song>

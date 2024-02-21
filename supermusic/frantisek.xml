@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>František</title>
+    <artist>Buty</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=4&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="G"/>Na hladinu rybníká svítí sluníčko[C
+            Emi]A kolem stojí v hustém kruhu <chord value="G"/>topoly[
+            Ami]Které tam zasadil jeden hodný <chord value="Hmi"/>člověk[
+            Ami]Jmenoval se František <chord value="D"/>Dobrota
+            František Dobrota, rodák z blízke vesnice
+            Měl hodně dětí a jednu starou babičku
+            Která když umírala tak mu řekla: &quot;Františku,
+            teď dobře poslouchej, co máš všechno udělat !&quot;
+        </section>
+        <section name="2">
+            ® 3 x /: <chord value="C"/>Balabambam, balabambam<chord value="C,D,C"/> :/
+            a <chord value="Ami"/>kolem rybníka nahusto nasázet <chord value="D"/>topoly
+        </section>
+        <section name="3">
+            František udělal všechno co mu řekla
+            A po snídani poslal děti do školy
+            Žebřiňák s nářadím dotáhl od chalupy k rybníku
+            Vykopal díry a zasadil topoly
+            Od té doby vítr na hladinu nefouká
+            Takže je klidná jako velké zrcadlo
+            Sluníčko tam svítí vždycky rádo
+            protože tam vidí Františkovu babičku
+        </section>
+    </sections>
+</song>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Sametová</title>
+    <artist>Žlutý Pes</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=807&sid=</url>
+    
+    <sections>
+        <section name="1">
+            Žlutý pes
+            Sametová
+        </section>
+        <section name="2">
+            <chord value="G"/>Vzpomínám když tehdá <chord value="C"/>před lety <chord value="G"/>začaly lítat <chord value="C"/>rakety [
+            G]zdál se to bejt <chord value="Emi"/>docela do<chord value="C"/>brej ná<chord value="D"/>pad
+            Saxofony hrály unyle a frčely švédský košile
+            někdo se moh docela dobře flákat.
+        </section>
+        <section name="3">
+            Když tam stál rohatej u školy my neměli podepsaný úkoly
+            už tenkrát rozhazoval svoje sítě
+            Poučen z předchozích nezdarů sestrojil elektrickou kytaru
+            a rock´n´roll byl zrovna narozený dítě
+        </section>
+        <section name="4">
+            ®: <chord value="G"/>Vzpomínáš, taky s tu <chord value="D"/>žila a <chord value="Emi"/>nedělej, že jsi ji<chord value="C"/>ná
+            taková <chord value="G"/>malá pilná <chord value="D"/>včela, <chord value="C"/>taková celá <chord value="D"/>Same<chord value="G"/>to<chord value="C"/>vá[G, C, G
+            ]
+        </section>
+        <section name="5">
+            Přišel čas a jako náhoda byla tu bigbeatová pohoda
+            kytičky a úsmevy sekretárok.
+            Sousedovic bejby Milena je celá blbá z Boba Dylana
+            ale to nevadí, já mám taky nárok
+        </section>
+        <section name="6">
+            Starý, mladý nebo pitomý mlátily do toho jako my
+            hlavu plnou Londýna nad Temží
+            Starej dobrej satanáš hraje u nás v hospodě mariáš
+            pazoura se mu trumfama jenom hemží
+        </section>
+        <section name="7">
+            R:Vzpomínáš, už je to jinak a jde z toho na mě zima
+            ty jsi holka tehdá byla, taková celá Sametová
+        </section>
+        <section name="8">
+            A do toho tenhle Gorbačov co ho znal celej Dlabačov
+            kopyta měl jako z Arizóny
+            Přišel a zase vodešel a nikdo se kvůli tomu nevěšel
+            a po něm tu zbyly samý volný zóny
+        </section>
+        <section name="9">
+            ®: Vzpomínáš, jak jsi se měla
+            když jsi nic nevěděla
+            byla to taková krásná cela a byla celá
+            Vzpomínáš, jak jsi se měla
+            když jsi nic nevěděla
+            byla to taková krásná cela a byla celá Sametová
+        </section>
+    </sections>
+</song>

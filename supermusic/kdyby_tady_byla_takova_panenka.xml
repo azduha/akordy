@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Kdyby tady byla taková panenka</title>
+    <artist>Pavel Lohonka Žalman</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=2817&sid=</url>
+    
+    <sections>
+        <section name="1">
+            /: <chord value="C"/>Kdyby tady byla taková panenka,
+            <chord value="G7"/>která by mě chtě<chord value="C"/>la,:/
+            /:kte<chord value="F"/>rá by mi chtěla sy<chord value="C"/>na vychovati,
+            <chord value="G7"/>přitom pannou bý<chord value="C"/>ti.:/
+        </section>
+        <section name="2">
+            /:Kdybych já ti měla syna vychovati,
+            přitom pannou býti,:/
+            /:ty by jsi mi musel kolébku dělati,
+            do dřeva netíti.:/
+        </section>
+        <section name="3">
+            /: Kdybych já ti musel kolébku dělati,
+            do dřeva netíti,:/
+            /:ty bys mi musela košiličku šíti
+            bez jehly a nití.:/
+        </section>
+        <section name="4">
+            /:Kdybych já ti měla košiličku šíti
+            bez jehly a nití,:/
+            /:ty by jsi mně musel žebřík udělati
+            až k nebeské výši.:/
+        </section>
+        <section name="5">
+            /:Kdybych já ti musel žebřík udělati
+            až k nebeské výši,:/
+            /:lezli bysme spolu, spadli bysme dolů,
+            byl by konec všemu.:/
+        </section>
+    </sections>
+</song>

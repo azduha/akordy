@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Proměny - verzia 2</title>
+    <artist>Čechomor</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=4855&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="Ami"/>Darmo sa ty trápíš <chord value="G"/>můj milý sy<chord value="C"/>nečku
+            nenosím ja tebe <chord value="Dmi"/>nenosím v sr<chord value="Ami"/>déčku
+            A já tvo<chord value="G"/>ja <chord value="C"/>ne<chord value="G"/>bu<chord value="C"/>du <chord value="Dmi"/>ani jednu <chord value="E"/>hodi<chord value="Ami"/>nu
+        </section>
+        <section name="2">
+            Copak sobě myslíš má milá panenko
+            vždyť ty si to moje rozmilé srdénko
+            A ty musíš býti má lebo mi tě Pán Bůh dá
+        </section>
+        <section name="3">
+            A já sa udělám malú veverečkú
+            a uskočím tobě z dubu na jedličku
+            Přece tvoja nebudu ani jednu hodinu
+        </section>
+        <section name="4">
+            A já chovám doma takú sekérečku
+            ona mi podetne dúbek i jedličku
+            A ty musíš býti má lebo mi tě Pán Bůh dá
+        </section>
+        <section name="5">
+            A já sa udělám tú malú rybičkú
+            a já ti uplynu preč po Dunajíčku
+            Přece tvoja nebudu ani jednu hodinu
+        </section>
+        <section name="6">
+            A já chovám doma takovú udičku
+            co na ni ulovím kdejakú rybičku
+            A ty přece budeš má lebo mi tě Pán Bůh dá
+        </section>
+        <section>
+            <chord value=" /: Ami, F, C, F, C, G :/ "/>
+        </section>
+        <section name="7">
+            A já sa udělám tú velikú vranú
+            a já ti uletím na uherskú stranu
+            Přece tvoja nebudu ani jednu hodinu
+        </section>
+        <section name="8">
+            A já chovám doma starodávnú kušu
+            co ona vystřelí všeckým vranám dušu
+            A ty musíš býti má lebo mi tě Pán Bůh dá
+        </section>
+        <section name="9">
+            A já sa udělám hvězdičkú na nebi
+            a já budu lidem svítiti na nebi
+            Přece tvoja nebudu ani jednu hodinu
+        </section>
+        <section name="10">
+            A sú u nás doma takoví hvězdáři
+            co vypočítajú hvězdičky na nebi
+            A ty musíš býti má lebo mi tě Pán Bůh dá
+        </section>
+        <section name="11">
+            <chord value="Ami, Dmi7, C, Dmi7, C, G"/>
+            <chord value="Ami, Dmi7, C, Dmi7, C, G"/>
+        </section>
+    </sections>
+</song>

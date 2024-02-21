@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Na sever</title>
+    <artist>Kabát</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=3473&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="G"/>No tak mi <chord value="Emi"/>zatancuj, ať <chord value="D"/>náladu mám,
+            <chord value="G"/>A dej mi <chord value="Emi"/>celou noc, já <chord value="D"/>nechci bejt <chord value="G"/>sám.
+            Hlavní je neuh<chord value="Emi"/>nout, dobře <chord value="D"/>zvolit svůj <chord value="G"/>směr,
+            a teď holka musim <chord value="Emi"/>jít až <chord value="D"/>tam na se<chord value="G"/>ver.
+        </section>
+        <section name="®">
+            Cestu <chord value="G"/>znám ... <chord value="C, G, Emi, D, G"/>
+            dojdu k řece plný ryb, až tam, na sever.
+        </section>
+        <section name="2">
+            Procházím krajinou a lidi mě zvou,
+            čím těžší víno, lehčí holky tu sou,
+            jedna z nich povídá - dokud dávám tak ber,
+            já jí jenom políbil a šel na sever.
+        </section>
+        <section name="®">
+            Cestu <chord value="G"/>znám a <chord value="C"/>neměním <chord value="G"/>směr, <chord value="Emi, D, G"/>
+            dojdu k řece plný ryb, až tam, na sever.
+        </section>
+        <section name="3">
+            Mám nohy bolavý už nechtěj se hnout,
+            tou temnou vodou nechám tělo svý plout,
+            zakončím s noblesou ze všech poslední den,
+            kam mě vlny donesou, tam vsákne mě zem.
+        </section>
+        <section name="4">
+            Tá <chord value="D"/>cesta byla rovná, místy rozbitá,
+            <chord value="C"/>číše vína plná, jindy celá vylitá,
+            už <chord value="D"/>nevrátím se zpátky, ubejvá mi sil ..
+            Tak <chord value="C"/>řekněte jí, prosím, že <chord value="D"/>sem tady byl.
+        </section>
+        <section name="5">
+            2x
+            Cestu <chord value="A"/>znám a neměním <chord value="A"/>směr, <chord value="E, A"/>
+            dojdu k řece plný ryb, až tam, na sever.
+        </section>
+    </sections>
+</song>

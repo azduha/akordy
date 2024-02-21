@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Sen</title>
+    <artist>Lucie</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=45&sid=</url>
+    
+    <sections>
+        <section>
+            sen
+        </section>
+        <section>
+            melódia: / C#,E,G#,F#,E,E,F#,F#,F#,E,F#,G# /
+        </section>
+        <section name="1">
+            Stíny <chord value="E"/>dnů a snů se k obratníku <chord value="A"/>stáčí
+            Ruce <chord value="E"/>snů černejch se snaží zakrýt <chord value="A"/>oči
+            Světlo <chord value="F#mi"/>tvý prozradí proč já <chord value="E"/>vím
+            S novým <chord value="F#mi"/>dnem že se <chord value="A"/>zas navrá<chord value="H"/>tí
+        </section>
+        <section name="2">
+            Mraky se plazí, vítr je láme
+            Stíny tvý duše rozplynou se v šeru
+            Ve vlnách opouští po hodinách mizí
+            A měsíc nový stíny vyplaší
+        </section>
+        <section name="3">
+            ®: Proud motý<chord value="E"/>lů unáší strach
+            Na listy <chord value="A"/>sedá hvěznej prach
+            Proletí <chord value="C#mi"/>ohněm a mizí stále <chord value="H"/>dál
+            Neslišný <chord value="E"/>kroky stepujou
+            V nebeským <chord value="A"/>rytmu swingujou
+            Že se <chord value="C#mi"/>ráno, že se ráno vytra<chord value="H"/>tí
+        </section>
+        <section name="4">
+            Stíny dnů vyrostou a zmizí
+            Nebeský znamení, rosvěcujou hvězdy
+            Všechno ví z povzdálí vedou naše kroky
+            A měsíc nový stíny vyplaší. ®:
+        </section>
+        <section name="5">
+            ®: Proud motý<chord value="E"/>lů unáší strach
+            Na listy <chord value="A"/>sedá hvěznej prach
+            a nový <chord value="C#mi"/>stíny vypla<chord value="H"/>ší
+        </section>
+    </sections>
+</song>

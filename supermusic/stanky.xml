@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Stánky</title>
+    <artist>Nedvedi</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=76668&sid=</url>
+    
+    <sections>
+        <section name="1">
+            U<chord value="D"/> stánků na<chord value="G"/> levnou krásu<chord value="D"/>,
+            postávaj a <chord value="Gmi"/>smějou se času
+            <chord value="D"/>s cigaretou a <chord value="A7"/>s holkou, co nemá kam jít<chord value="D"/>
+        </section>
+        <section name="2">
+            Skleniček pár a<chord value="G"/> pár tahů z trávy<chord value="D"/>
+            uteče den jak<chord value="Gmi"/> večerní zprávy
+            <chord value="D"/>neuměj žít a<chord value="A7"/> bouřej se a neposlouchaj<chord value="D"/>
+        </section>
+        <section name="R">
+            jen<chord value="G"/> zahlídli svět, <chord value="A7"/>maj na duši vrásky
+            tak<chord value="D"/> málo je, <chord value="Gmi"/>málo je lásky
+            zt<chord value="D"/>racená víra<chord value="A7"/> hrozny z vinic neposbírá<chord value="D"/>
+        </section>
+        <section name="3">
+            U stánků na levnou krásu,
+            postávaj a ze slov a hlasů
+            Poznávaj jak málo jsme jim stačili dát
+        </section>
+        <section name="R">
+            ……
+        </section>
+    </sections>
+</song>

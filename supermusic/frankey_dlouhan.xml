@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Frankey Dlouhán</title>
+    <artist>Nedvedi</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=355512&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="C"/>Kolik je smutného <chord value="F"/>když mraky černé <chord value="C"/>jdou
+            lidem nad <chord value="G"/>hlavou <chord value="F"/>smutnou dála<chord value="C"/>vou
+            já slyšel příběh, který <chord value="F"/>velkou pravdu <chord value="C"/>měl
+            za čas <chord value="G"/>odletěl,<chord value="F"/> každý zapo<chord value="C"/>mněl
+        </section>
+        <section name="2">
+            po státech <chord value="F"/>toulal se jen<chord value="C"/> sám
+            a že byl <chord value="F"/>veselej tak <chord value="C"/>každej měl ho <chord value="G"/>rád
+            <chord value="G7"/> tam ruce <chord value="F"/>k dílu mlčky přiloží
+            a <chord value="Emi7"/>zase jede<chord value="Ami"/> dál a <chord value="Dmi7"/>každej,
+            kdo s ním<chord value="G"/> chvilku byl,<chord value="F"/> tak dlouho <chord value="G"/>se pak <chord value="C"/>smál
+        </section>
+        <section name="3">
+            Tam, kde byl pláč,
+            tam Frankey hezkou píseň měl
+            slzy neměl rád, chtěl se jenom smát
+            a když pak večer ranče tiše usínaj
+            Frankův zpěv jde dál nocí s písní dál
+        </section>
+        <section name="R">
+            ……
+        </section>
+        <section name="4">
+            Tak Frankyho vám jednou našli přestal žít,
+            jeho srdce spí tiše smutně spí
+            Bůhví a za co tenhle smíšek konec měl
+            farář píseň pěl umíráček zněl
+        </section>
+        <section name="R">
+            ……
+        </section>
+    </sections>
+</song>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Po schodoch</title>
+    <artist>Richard Müller</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=1049&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="Dmi"/>Výťah opäť nechodí tak <chord value="C"/>zdolať 13 poschodí
+            <chord value="B"/>zostáva mi <chord value="C"/>znova po svo<chord value="Dmi"/>jich
+            na schodoch čosi šramotí a neón kde tu nesvieti
+            ešte že sa po tme nebojím
+        </section>
+        <section name="2">
+            Počuť hlasné stereo aj výstrahy pred neverou
+            ktosi čosi vŕta v paneloch
+            tatramatky ródeo sa mieša kde tu s operou
+            všetko počuť cestou po schodoch
+        </section>
+        <section name="3">
+            Cestou <chord value="Dmi"/>po schodoch, <chord value="Ami"/>po schodoch
+            <chord value="Dmi"/>poznávam <chord value="C"/>poschodia
+            poznám <chord value="Dmi"/>po schodoch, <chord value="Ami"/>po zvukoch
+            <chord value="B"/>čo sme to <chord value="A"/>za ľu<chord value="Dmi"/>dia
+        </section>
+        <section name="4">
+            Štekot smutnej kólie za premárnené prémie
+            vyhráža sa manžel rozvodom
+            Disko tenis árie kritika televízie
+            oddnes chodím iba po schodoch
+        </section>
+    </sections>
+</song>

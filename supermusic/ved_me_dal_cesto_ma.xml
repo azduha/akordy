@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Veď mě dál, cesto má</title>
+    <artist>Pavel Bobek</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=1714&sid=</url>
+    
+    <sections>
+        <section>
+            <chord value="C"/>Někde v dálce <chord value="Ami"/>cesty končí,
+        </section>
+        <section>
+            <chord value="G"/>každá prý však <chord value="F"/>cíl svůj <chord value="C"/>skrývá
+        </section>
+        <section>
+            Někde v dálce <chord value="Ami"/>každá má svůj cíl
+        </section>
+        <section>
+            <chord value="G"/>ať je pár chvil dlouhá <chord value="F"/>nebo tisic <chord value="C"/>mil
+        </section>
+        <section name="®">
+            Veď mě <chord value="C"/>dál, cesto <chord value="G"/>má,
+        </section>
+        <section>
+            veď mě <chord value="Ami"/>dál, vždyť i <chord value="F"/>já
+        </section>
+        <section>
+            Tam kde <chord value="C"/>končíš, chtěl bych <chord value="G"/>dojít
+        </section>
+        <section>
+            Veď mě <chord value="F"/>dál, cesto <chord value="C"/>má
+        </section>
+        <section>
+            Chodím dlouho po všech cestách,
+        </section>
+        <section>
+            všechny znám je, jen ta má mi zbývá
+        </section>
+        <section>
+            Je jak dívky co jsem měl tak rád
+        </section>
+        <section>
+            Plná žáru bývá, hned zas samý chlad
+        </section>
+        <section>
+            © <chord value="Ami"/>Pak na <chord value="G"/>patník <chord value="C"/>poslední
+        </section>
+        <section>
+            napíšu křídou <chord value="F"/>jméno své
+        </section>
+        <section>
+            A pod <chord value="C"/>něj, že jsem <chord value="G"/>žil <chord value="C"/>hrozně <chord value="G"/>rád
+        </section>
+        <section>
+            <chord value="F"/>Dám si bandou <chord value="C"/>cvrčků hrát
+        </section>
+        <section>
+            A <chord value="G"/>půjdu spát, půjdu <chord value="G7"/>spát
+        </section>
+    </sections>
+</song>

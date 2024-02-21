@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Škrábej</title>
+    <artist>Hop Trop</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=2742&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="Emi"/>Trojstěžníku plachty k rozervání napnutý,
+            <chord value="G"/>třináctej den je to s náma nějaký nahnutý,
+            <chord value="D"/>smůlu táhnem za kormidlem s sebou po <chord value="Emi"/>vlnách,
+            my lodníci jsme na tom nejhůř, vím to na tuty,
+            <chord value="G"/>pískovcovou cihlu v ruce, záda vohnutý,
+            <chord value="D"/>bocman vříská, nejradši bych po krku mu <chord value="Emi"/>sáh'.
+        </section>
+        <section name="®">
+            Hej, <chord value="Emi"/>hej! Škrábej ty prkna, ať jsou <chord value="C"/>bílý!
+            Hej, <chord value="Emi"/>hej! Škrábej, ty prkna musej' <chord value="C"/>bejt!
+            Hej, <chord value="Emi"/>hej! Říkej si klidně každou <chord value="C"/>chvíli:
+            <chord value="Emi"/>nebudem <chord value="D"/>spílat, <chord value="Emi"/>ruce <chord value="D"/>spínat,
+            <chord value="Emi"/>žalmy <chord value="D"/>zpívat, <chord value="Emi"/>hou!
+        </section>
+        <section name="2">
+            Bez vody jsme všichni skoro žízní leknutý,
+            nikomu z nás nevadí, že spíme vobutý,
+            stejně každej den jeden z nás končí na marách,
+            čert aby vzal bocmana a s ním i drhnutí,
+            ze kterýho máme teď ty záda vohnutý,
+            chcem bejt rovný, až do pekla překročíme práh. ®:
+        </section>
+    </sections>
+</song>

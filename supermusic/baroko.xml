@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Baroko</title>
+    <artist>Richard Müller</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=1984&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="Dmi, C, Dmi, C"/>
+            <chord value="Dmi"/>Schoulené holky <chord value="C"/>spí nahé
+            <chord value="Dmi"/>u hrobu Tycha<chord value="C"/>de Brahe
+            <chord value="B(Gmi)"/>z kamene oživlá <chord value="C"/>světice
+            <chord value="Dmi"/>pozvedá monstranci <chord value="C"/>měsíce
+        </section>
+        <section name="®">
+            <chord value="F"/>Taková <chord value="C"/>zář je jen <chord value="Dmi"/>jedna <chord value="B"/>
+            <chord value="F"/>odtud až <chord value="C"/>do nedoh<chord value="Dmi"/>ledna <chord value="B"/>
+            <chord value="F"/>no a z něj <chord value="C"/>daleko <chord value="Dmi"/>široko <chord value="B"/>
+            <chord value="F"/>proudem se <chord value="C"/>rozlévá <chord value="Dmi"/>baroko <chord value="B"/>
+        </section>
+        <section name="2">
+            Andělé odhalte tváře
+            pro slepé harmonikáře
+            Které jsem čekal a nepropás
+            Důverně známý je každý z vás
+        </section>
+        <section name="®">
+            Jste-li tak důverný známý
+            Pojďte a zpívejte s námi
+            My dole vy zase vysoko
+            O tom jak mocné je baroko
+        </section>
+        <section name="3">
+            Sedlejme koně a vzhůru
+            Zaplašme zlou denní můru
+            Která nám sežrala století
+            Zpěnění hřebci se rozletí
+        </section>
+        <section name="®">
+            V tuto noc lámání kostí
+            Chytrácké malověrnosti
+            Sražme tu bestii hluboko
+            Tak jak to umí jen baroko
+        </section>
+        <section name="4">
+            <chord value="B"/>Dnes je dnes – ale co <chord value="C"/>zítra
+            <chord value="B"/>Zbyde tu zázračná <chord value="C"/>mitra ?
+            <chord value="B"/>Komu dá svou hlavu <chord value="C"/>do klína
+            <chord value="B"/>ryzáček svatého <chord value="C"/>Martina
+        </section>
+        <section name="®">
+            Zem která nemá své nebe
+            Ztratila všechno i sebe
+            Zarůstla pastvou jen pro oko
+            Proč si tak vzdálené - v perutích oděné – baroko ?
+        </section>
+        <section name="®">
+            Zem která nemá své nebe
+            Ztratila všechno i sebe
+            Zarůstá pastvou jen pro oko
+            Proč si tak vzdálené baroko
+        </section>
+        <section name="®">
+            nanaana …
+        </section>
+    </sections>
+</song>

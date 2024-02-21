@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Zachraňte koně</title>
+    <artist>Kamelot</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=847&sid=</url>
+    
+    <sections>
+        <section>
+            <chord value="Emi"/> <chord value="Ami7"/> <chord value="D"/> <chord value="G"/> <chord value="H7"/> <chord value="Emi"/> <chord value="Ami7"/> <chord value="D"/> <chord value="G"/> <chord value="H7"/>
+        </section>
+        <section name="1">
+            <chord value="Emi"/>Peklo byl ráj, když hořela stáj, <chord value="Ami7"/>příteli,
+            <chord value="C"/>věř mi, koně <chord value="D"/>pláčou, poví<chord value="G"/>dám.<chord value="H7"/>
+            <chord value="Emi"/>To byla půlnoc, vtom křik o pomoc, už <chord value="Ami7"/>letěly
+            <chord value="C"/>hejna kohoutů<chord value="D"/> a bůhví <chord value="G"/>kam <chord value="H7"/>.
+        </section>
+        <section name="R">
+            <chord value="G"/>Zachraňte koně, <chord value="Hmi"/>křičel jsem tisíc<chord value="C"/>krát,
+            <chord value="G"/>žil jsem jen pro ně, <chord value="Hmi"/>bránil je nejvíc<chord value="C"/>krát,
+            než přišla <chord value="Ami"/>chvíle, kdy hřívy <chord value="C"/>bílé
+            pročesal <chord value="Ami"/>plamen, spálil na <chord value="H7"/>troud.
+        </section>
+        <section name="2">
+            Ohrady a stáj a v plamenech byl kraj, už nedýchal,
+            já viděl, jak to hříbě umírá.
+            Klisna u něj a smuteční děj se odbývá,
+            jak tiše pláče oči přivírá.
+        </section>
+        <section name="R">
+            Zachraňte koně, ...
+            .. spálil na tro<chord value="H7"/>ud.
+            <chord value="Emi"/> <chord value="Ami7"/> <chord value="D"/> <chord value="G"/> <chord value="H7"/> <chord value="Emi"/> <chord value="Ami7"/> <chord value="D"/> <chord value="G"/> <chord value="H7"/>
+        </section>
+    </sections>
+</song>

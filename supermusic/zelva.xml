@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Želva</title>
+    <artist>Olympic</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=472&sid=</url>
+    
+    <sections>
+        <section name="1">
+            Olympic
+            Želva
+        </section>
+        <section name="1">
+            <chord value="C"/>Ne moc <chord value="F"/>snadno se <chord value="C"/>želva <chord value="F"/>po dně <chord value="C"/>honí,[F, C, F
+            C]velmi <chord value="F"/>radno je <chord value="C"/>plavat <chord value="F"/>na dno za <chord value="C"/>ní,[ F, C, F
+            ]jenom <chord value="G"/>počkej, až se zeptá, na to, <chord value="Ami"/>co tě v mozku lechtá,
+            <chord value="C"/>nic se <chord value="F"/>neboj a <chord value="C"/>vem si <chord value="F"/>něco od <chord value="C"/>ní.[ F, C, F
+            ]2. Abych zabil dvě mouchy jednou ranou,
+            želví nervy od želvy schovám stranou,
+            jednu káď dám zvlášť pro tebe, a pak aspoň dvě pro sebe.
+            Víš má drahá a zbytek je pod vanou.
+            Ref.: <chord value="C"/>Když si <chord value="G"/>někdo <chord value="F"/>pozor nedá<chord value="C"/>, jak se <chord value="G"/>vlastně <chord value="F"/>želva hledá<chord value="C"/>,
+            <chord value="F"/>ona,ho na <chord value="D7"/>něco nachytá<chord value="G7"/>, <chord value="F"/>i když si to <chord value="D7"/>pozděj’c vyčítá<chord value="G7"/>.
+            3. Ne moc lehce se želva po dně honí,
+            ten, kdo nechce, pak často(brzo) slzy roní,
+            jeho úsměv se vytratí a to se mu nevyplatí,
+            má se nebát želev a spousty vodní. Ref.:
+        </section>
+    </sections>
+</song>

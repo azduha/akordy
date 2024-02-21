@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Little big horn</title>
+    <artist>Greenhorns</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=156382&sid=</url>
+    
+    <sections>
+        <section name="1">
+            1. Tam, kde l<chord value="Ami"/>eží Little Big Horn, je indiánská zem,
+            tam přijíždí generál Custer s<chord value="Dmi"/>e svým praporem,
+            mod<chord value="Ami"/>rý kabáty jezdců, stíny <chord value="Dmi"/>dlouhejch karabin,
+            a z <chord value="Ami"/>indiánskejch signálů po nebi letí d<chord value="A"/>ým.
+        </section>
+        <section name="®">
+            <chord value="A"/>Říkal to Jim Bridger já měl jsem v noci <chord value="E"/>sen,
+            pod sedmou kavalerií jak krví rudne <chord value="A"/>zem,
+            kmen Siouxů je statečný a <chord value="A7"/>dobře svůj kraj <chord value="D"/>zná,
+            proč C<chord value="E"/>uster neposlouchá ta <chord value="A"/>slova varov<chord value="Ami"/>ná.
+        </section>
+        <section name="2">
+            Tam blízko Little Big Hornu šedivou prérií
+            táhne generál Custer s sedmou kavalerií,
+            marně mu stopař Bridger radí "Zpátky povel dej!"
+            Jedinou možnost ještě máš, život si zachovej.
+        </section>
+        <section name="3">
+            Tam blízko Little Big Hornu se vznáší smrti stín,
+            padají jezdci z koní, výstřely z karabin,
+            límce modrejch kabátů barví krev červená,
+            kmen Siouxů je statečný a dobře svůj kraj zná.
+        </section>
+        <section name="4">
+            Pak všechno ztichlo a jen tamtam duní nad krajem,
+            v oblacích prachu mizí Siouxů vítězný kmen,
+            cáry vlajky hvězdnatý po kopcích vítr vál,
+            tam uprostřed svých vojáků leží i generál.
+        </section>
+        <section name="®">
+            ... neposlouchal ta slova varovná.
+        </section>
+    </sections>
+</song>

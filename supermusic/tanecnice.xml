@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Tanečnice</title>
+    <artist>Robert Křesťan</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=8255&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="D"/>Převrhlá židle jako <chord value="Hmi"/>symbol času,
+            <chord value="D"/>v nočním baru a pak <chord value="G"/>holé nic, <chord value="Hmi"/> <chord value="A"/>
+            <chord value="D"/>jen v rohu si flitry vyče<chord value="Hmi"/>sává z vlasů
+            <chord value="D"/>poslední <chord value="G"/>z taneč<chord value="D"/>nic,
+            jsem poslední host s poslední sklenkou v dlani,
+            i ten klobouk mám dnes naposled,
+            dám si ho do týla a koukám na ni,
+            jak šminkou obelhává svět...
+        </section>
+        <section name="R">
+            <chord value="D"/>Jose<chord value="G"/>fíno, <chord value="D"/>zatanči mi <chord value="Hmi"/>na rozlou<chord value="G"/>če<chord value="D"/>nou,
+            <chord value="D"/>za tuhle <chord value="Hmi"/>noc ne<chord value="G"/>dopitou a <chord value="A"/>nedokonče<chord value="D"/>nou...
+        </section>
+        <section name="2">
+            Bere si tašku moje balerína, v ní klíče, láhev od piva,
+            porovná židle, pak pozhasíná a potichu se usmívá,
+            otvírám dveře, brzkým rozedněním se pak rozmařile nechám vést,
+            toho, kdo zvítězí nad pokušením, čeká nebe plné jitřních hvězd...
+        </section>
+        <section name="R">
+            Josefíno, zatanči mi ...
+        </section>
+        <section name="3">
+            Severní vítr metá svoje kouzlo na mém vlnolamu v Tortuze,
+            do mého nitra právě tiše vklouzlo(a) jedna polonahá iluze,
+            kdesi v mé duši tančí tanečnice, možná odvážněji než bych chtěl,
+            odráží od břehů má plachetnice a říkejte mi Ismael...
+        </section>
+        <section name="R">
+            Josefíno, zatanči mi ...
+        </section>
+        <section name="R">
+            Josefíno, zatanči mi ...
+        </section>
+    </sections>
+</song>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Dvakrát - 2</title>
+    <artist>Vlasta Redl</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=781937&sid=</url>
+    
+    <sections>
+        <section>
+            2x <chord value="D, G, A"/>
+        </section>
+        <section name="1">
+            <chord value="D"/>Dvakrát dvě deci <chord value="G"/>přede mě <chord value="A"/>postavil <chord value="D"/>pán
+            <chord value="D"/>Musel si přeci <chord value="G"/>všimnout <chord value="A"/>že jsem tu <chord value="D"/>sám
+            <chord value="D"/>Dvakrát se uklonil <chord value="G"/>dvakrát <chord value="A"/>poděko<chord value="D"/>val
+            <chord value="D"/>Skupina spustila "<chord value="G"/>Andulko <chord value="A"/>Šafářo<chord value="D"/>vá"
+        </section>
+        <section name="2">
+            Ach to je muzika až se mi srdce svírá
+            Ještě že na dvojitý Nelson dvakrát se neumírá
+            Od stolů vstávají ti co tu nejsou sami
+            Tak proč stojíš u mě dívenko s květinami
+        </section>
+        <section name="3">
+            Holky rty špulí na stébla v citrokolách
+            Všechny jsou v stejném - copánky, mašle, volán,
+            Všechny si naráz dávají hádat z dlaně
+            ta, co je nejblíž, vypadá odhodlaně
+        </section>
+        <section name="Ref">
+            :<chord value="G"/>A tak provlékám <chord value="G/F#"/>skrz to hlu<chord value="C/E"/>ché
+            <chord value="A"/>velblouda i jehly u<chord value="D"/>chem
+            To jsem <chord value="G"/>netušil <chord value="G/F#"/>že je to tak
+            <chord value="E"/>Náramně jednodu<chord value="A"/>ché<chord value="G"/>-é
+        </section>
+        <section name="4">
+            To je ta pravá chvíle pro autogramy
+            Plaše se sklání a voní fialkami,
+            Raději jděte mi z očí tajemná Eurydiko
+            nějak dnes nesnáším pohled na krev a mlíko
+        </section>
+        <section>
+            <chord value="D"/>áááá...<chord value="G"/>...<chord value="A"/>...<chord value="Hmi"/>
+        </section>
+        <section name="5">
+            Samoto samoto laskavá domovino
+            Syn se ti vrátil tak ještě dvakrát víno
+            Ať ještě chvíli je všechno tak hezky sudé
+            Ať se smím loudat pár kroků za osudem
+        </section>
+        <section name="Ref">
+            :A ona ať oči klopí
+            Ať se v těch hlubinách neutopím
+            Kéž bych tak neviděl a neslyšel
+            Co nikdy nikdy nepochopím
+        </section>
+        <section name="6">
+            Ještě se třpytí jak slza na kameni
+            A už tu není, zmizela bez loučení,
+            Ani ten v černém dvakrát si neví rady
+            Pán si přál platit zvlášť nebo dohromady ?
+        </section>
+    </sections>
+</song>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Stará Archa</title>
+    <artist>Country</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=458256</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="D7"/>Já mám <chord value="G"/>kocábku náram-, <chord value="D7"/>náram-, <chord value="G"/>náram-,
+            <chord value="G"/>kocábku náram-, <chord value="D7"/>náram<chord value="G"/>nou.
+            <chord value="D7"/>Já mám <chord value="G"/>kocábku náram-, <chord value="D7"/>náram-, <chord value="G"/>náram-,
+            <chord value="G"/>kocábku náram-, <chord value="D7"/>náram<chord value="G"/>nou.
+        </section>
+        <section name="2">
+            <chord value="G"/>Pršelo a blejskalo se <chord value="D7"/>sedm <chord value="G"/>neděl,
+            <chord value="G"/>kocábku náram-, <chord value="D7"/>náram<chord value="G"/>nou.
+            <chord value="G"/>Noe nebyl překvapenej, <chord value="D7"/>on to <chord value="G"/>věděl,
+            <chord value="G"/>kocábku náram-, <chord value="D7"/>náram<chord value="G"/>nou.
+        </section>
+        <section name="Ref">
+            <chord value="D7"/>Já mám <chord value="G"/>kocábku náram-, <chord value="D7"/>náram-, <chord value="G"/>náram-,
+            <chord value="G"/>kocábku náram-, <chord value="D7"/>náram<chord value="G"/>nou.
+            <chord value="D7"/>Já mám <chord value="G"/>kocábku náram-, <chord value="D7"/>náram-, <chord value="G"/>náram-,
+            <chord value="G"/>kocábku náram-, <chord value="D7"/>náram<chord value="G"/>nou.
+            <chord value="G"/>Ať to má cíl, jé, ať to má směr, jé,
+            <chord value="G"/>plaví se k Araratu <chord value="D7"/>na se<chord value="G"/>ver.
+            <chord value="D7"/>Já mám <chord value="G"/>kocábku náram-, <chord value="D7"/>náram-, <chord value="G"/>náram-,
+            <chord value="G"/>kocábku náram-, <chord value="D7"/>náram<chord value="G"/>nou.
+            <chord value="D7"/>Já mám <chord value="G"/>kocábku náram-, <chord value="D7"/>náram-, <chord value="G"/>náram-,
+            <chord value="G"/>kocábku náram-, <chord value="D7"/>náram<chord value="G"/>nou.
+        </section>
+        <section name="3">
+            <chord value="G"/>Šem, Nam a Jafet byli <chord value="D7"/>bratři <chord value="G"/>rodní,
+            <chord value="G"/>kocábku náram-, <chord value="D7"/>náram<chord value="G"/>nou.
+            <chord value="G"/>Noe je zavolal ještě <chord value="D7"/>před po<chord value="G"/>vodní,
+            <chord value="G"/>kocábku náram-, <chord value="D7"/>náram<chord value="G"/>nou.
+        </section>
+        <section name="4">
+            <chord value="G"/>Kázal jim uložiti <chord value="D7"/>ptáky, <chord value="G"/>savce,
+            <chord value="G"/>kocábku náram-, <chord value="D7"/>náram<chord value="G"/>nou.
+            <chord value="G"/>ryby nechte, zachrání se <chord value="D7"/>samy <chord value="G"/>hladce,
+            <chord value="G"/>kocábku náram-, <chord value="D7"/>náram<chord value="G"/>nou.
+        </section>
+        <section name="Ref">
+            <chord value="D7"/>Já mám <chord value="G"/>kocábku <chord value="D7"/>náram...
+        </section>
+        <section name="5">
+            <chord value="G"/>Přišla bouře, zlámala jim <chord value="D7"/>pádla, <chord value="G"/>vesla,
+            <chord value="G"/>kocábku náram-, <chord value="D7"/>náram<chord value="G"/>nou.
+            <chord value="G"/>tu přilétla holubice, <chord value="D7"/>snítku <chord value="G"/>nesla,
+            <chord value="G"/>kocábku náram-, <chord value="D7"/>náram<chord value="G"/>nou.
+        </section>
+        <section name="6">
+            <chord value="G"/>Na břehu pak vyložili <chord value="D7"/>náklad <chord value="G"/>celý,
+            <chord value="G"/>kocábku náram-, <chord value="D7"/>náram<chord value="G"/>nou.
+            <chord value="G"/>ještě že tu starou dobrou <chord value="D7"/>archu <chord value="G"/>měli,
+            <chord value="G"/>kocábku náram-, <chord value="D7"/>náram<chord value="G"/>nou.
+        </section>
+        <section name="Ref">
+            <chord value="D7"/>Já mám <chord value="G"/>kocábku <chord value="D7"/>náram...
+        </section>
+    </sections>
+</song>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Karviná 2</title>
+    <artist>Yoyo Band</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=129696&sid=</url>
+    
+    <sections>
+        <section name="1">
+            Hledám<chord value="D"/> zase temnej kout,
+            kdepak<chord value="F#mi7"/> moh bych obejmout
+            jeden<chord value="Gmaj7"/> den tam v Karvi<chord value="D"/>né.<chord value="A"/>
+            Hebkej<chord value="D"/> vítr do očí
+            s černou<chord value="F#mi7"/> vášní zakročí,
+            jeden<chord value="Gmaj7"/> sten - tam Av Karvi<chord value="D"/>né.<chord value="A"/>
+        </section>
+        <section name="2">
+            Nebe mělo plno stuh
+            slunce mělo rudej pruh
+            a dítě bylo hmm - nevinné.
+            Smělo jen tak trochu číst,
+            v ruce držet tátův list
+            a ptát se proč, proč sa země houpá.
+        </section>
+        <section name="3">
+            Černý <chord value="Hmi"/>ptáci mu stelou <chord value="Hmi/D"/>postel nebe<chord value="E"/>skou
+            nedá <chord value="Hmi"/>práci tu sehnat<chord value="Hmi/D"/> holku nehez<chord value="A"/>kou.
+        </section>
+        <section name="4">
+            /:Mírnej vz<chord value="D"/>tek s mírnou <chord value="Gmaj7"/>hlavou,
+            duši často <chord value="A"/>mění v alko<chord value="Hmi"/>hol, tam v Karvi<chord value="Gmaj7"/>né, v Karvi<chord value="A"/>né.:/
+        </section>
+        <section name="5">
+            Těžní věž je jako úd
+            měsíc pije žlutej sud
+            a dává pusu nezvěstné
+            její oči nejsou fajn,
+            její ústa lecos znaj
+            Smutně obhlížím ten kraj
+        </section>
+        <section>
+            Hledám zase temnej....
+        </section>
+    </sections>
+</song>

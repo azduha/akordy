@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>..Až..</title>
+    <artist>Tomáš Klus</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=193290&sid=</url>
+    
+    <sections>
+        <section name="1">
+            Až <chord value="Ami"/>rozpustím <chord value="D"/> dým. A k tomu.
+            <chord value="G"/>Skončí další den. <chord value="C"/> Tak půjdem.
+            <chord value="Ami"/>Oba domů. <chord value="D"/>Za tím svým. <chord value="G"/>
+            Štěstím <chord value="C"/>. Jsem kolemjdoucí z davu.
+            Součást Osudu. A budu.
+            Tebou znovu oslněn.
+        </section>
+        <section>
+            Až rozpustíš si vlasy. Zítřek bude tmou.
+        </section>
+        <section name="Asi">
+            Jednou je budu česat já.
+            Jsou plný krásy. Otevřu okno.
+        </section>
+        <section name="Aby">
+            Všechno bylo blíž.
+        </section>
+        <section name="Tady">
+            Vždyť víš.
+        </section>
+        <section name="REF">
+            Zatím <chord value="Emi"/>mi nikdo nevěří.<chord value="Ami"/> Mý vzdušný zámky.
+            <chord value="F"/>U dveří. Jen Ty jsi na oko smutná.<chord value="C"/>
+            <chord value="Emi"/>A co mám dělat. Když jsme tři.<chord value="Ami"/>
+            Ty jsi ta co s láskou nešetří.<chord value="F"/>
+            Ty jsi ta na oko smutná.<chord value="C"/>
+        </section>
+        <section name="2">
+            Láhev vína dohasíná. A Ty jsi.
+            Zas tak jiná. Jsi moje.
+            Vím to jenom já. Jsi srdcevrah.
+            Mých snění. Na stěnách.
+            Fotky mění. Slzy v hrách.
+        </section>
+        <section name="3">
+            Jsme dva různý světy. Dvě míjející se planety.
+            Jsme dvě kosmický lodě. Starý fráze v křoví.
+            Poví Ti je on. Tvůj přítel.
+            Plyšový seladón.
+        </section>
+    </sections>
+</song>

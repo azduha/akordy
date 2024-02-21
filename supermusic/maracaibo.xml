@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Maracaibo</title>
+    <artist>Barel Rock</artist>
+    <url>https://supermusic.cz/skupina.php?action=piesen&idpiesne=988665</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="Ami"/>Když nás moře volá, opouštíme <chord value="F"/>mola,
+            opouštíme <chord value="C"/>ženy, už je <chord value="G"/>tu ten <chord value="Ami"/>den.
+            <chord value="Ami"/>Ahoj námořníci, vzhůru na pa<chord value="F"/>lubu,
+            vane dobrý <chord value="C"/>vítr, tak kot<chord value="G"/>vy zved<chord value="Ami"/>nem.
+        </section>
+        <section name="Ref">
+            <chord value="F"/>Naše loď jméno <chord value="C"/>Mary-Anne <chord value="Ami"/>má
+            <chord value="F"/>Teď právě z Mara<chord value="C"/>caiba vyplou<chord value="Ami"/>vá
+            <chord value="F"/>jižní vítr jí <chord value="C"/>plachty nadou<chord value="E7"/>vá
+        </section>
+        <section name="2">
+            Jsme tu jako bratři, tahle loď nám patří,
+            jestli chceš plout s námi, tak pojď klidně k nám.
+            Jsme chlapci štěsteny, před našimi jmény,
+            třese se i guvernér, i markýz i král.
+        </section>
+        <section name="3">
+            Plujem po všech mořích, v bezvětří i v bouřích,
+            plujem za svým štěstím a osudu vstříc.
+            máme svoje plány, jsme tu svými pány,
+            když se to tak vezme, nic nám nechybí.
+        </section>
+    </sections>
+</song>

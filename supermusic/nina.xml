@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Nina</title>
+    <artist>Tomáš Klus</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=485808&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="D"/>,<chord value="Hmi"/>,<chord value="G"/>,<chord value="A"/>
+            <chord value="D"/>,<chord value="Hmi"/>,<chord value="G"/>,<chord value="A"/>
+        </section>
+        <section name="2">
+            Dnes <chord value="D"/>v noci jsem ze spaní křičela tvoje jméno,
+            já <chord value="Hmi"/>vím, že nejsi rád, ale nejde zapomenout,
+            jak <chord value="G"/>při každém slově přivíráš víčka,
+            prosím <chord value="A"/>vyslyš moji zpověď, už jsme starý na psaníčka.
+        </section>
+        <section name="3">
+            Jsem <chord value="D"/>bytost z vodních par, živa jenom z tvého dechu,
+            já <chord value="Hmi"/>vím, že nejsi rád a že je ti to k vzteku,
+            chci ti <chord value="G"/>všechno říct a pak se někam schovat,
+            třeba <chord value="A"/>pochopíš, jak je těžké nemilovat.
+        </section>
+        <section>
+            <chord value="D"/>,<chord value="Hmi"/>,<chord value="G"/>,<chord value="A"/>
+        </section>
+        <section name="4">
+            Zase <chord value="D"/>zrychlil se mi dech, jak maratónským běžcům,
+            co je to <chord value="Hmi"/>za příběh, bez lásky, bez milenců,
+            nemáš <chord value="G"/>slov, patrně všechna patří jiným,
+            prosím <chord value="A"/>proměň mě s nimi, ve sny, v gesta i činy.
+        </section>
+        <section name="5">
+            A já tu <chord value="D"/>zůstanu, ztracené malířské plátno,
+            třeba se <chord value="Hmi"/>vrátíš a já zas nechám se napnout,
+            prosím <chord value="G"/>maluj mě, tvoř, k obrazu svému,
+            nech mě <chord value="A"/>shořet, už nikdy o nás nemluv.
+        </section>
+        <section name="6">
+            Jsi mé <chord value="D"/>úzko, jsi krev z řezných ran,
+            jsi <chord value="Hmi"/>ten kdo vchází nepozván,
+            jsi <chord value="G"/>zvuk když padnou mi na rety slzy <chord value="A"/>múz.
+        </section>
+        <section name="7">
+            Jsi mé <chord value="D"/>úzko, jsi krev z řezných ran,
+            ačkoliv <chord value="Hmi"/>nechci, jsi ve mě uschován,
+            jsi <chord value="G"/>zvuk když padnou mi na rety slzy <chord value="A"/>múz.
+        </section>
+        <section>
+            <chord value="D"/>,<chord value="Hmi"/>,<chord value="G"/>,<chord value="A"/>
+        </section>
+        <section name="8">
+            Až <chord value="D"/>splynu se vzduchem, nechám rozplakat nebe,
+            budu <chord value="Hmi"/>vším, tím, co lidi k propasti svede,
+            budu <chord value="G"/>Krysařovou flétnou a ozvěna v tvé duši,
+            pak <chord value="A"/>ptáci tiše vzlétnou, by nedali tušit.
+        </section>
+        <section name="9">
+            Že se <chord value="D"/>nebe nakloní a zapře se světem,
+            tvé <chord value="Hmi"/>černé svědomí poprvé promluví k obětem,
+            ne<chord value="G"/>rovných bojů tvé sebestředné války,
+            sr<chord value="A"/>dečních nepokojů cos pozoroval z dálky.
+        </section>
+        <section name="10">
+            Jsi mé <chord value="D"/>úzko, jsi krev z řezných ran,
+            ačkoliv <chord value="Hmi"/>nechci, jsi ve mě uschován,
+            jsi <chord value="G"/>zvuk když padnou mi na rety slzy <chord value="A"/>múz.
+        </section>
+        <section name="11">
+            Jsi mé <chord value="D"/>úzko, jsi krev z řezných ran,
+            jsi <chord value="Hmi"/>ten kdo vchází nepozván,
+            jsi <chord value="G"/>zvuk když padnou mi na rety slzy <chord value="A"/>múz.
+        </section>
+        <section name="12">
+            Jsi mé <chord value="D"/>úzko, jsi krev z řezných ran,
+            ačkoliv <chord value="Hmi"/>nechci, jsi ve mě uschován,
+            jsi <chord value="G"/>zvuk když padnou mi na rety slzy <chord value="A"/>múz.
+        </section>
+        <section name="13">
+            Jsi mé <chord value="D"/>úzko, jsi krev z řezných ran,
+            jsi <chord value="Hmi"/>ten kdo vchází nepozván,
+            jsi <chord value="G"/>zvuk když padnou mi na rety slzy <chord value="A"/>múz.
+        </section>
+        <section name="14">
+            <chord value="D"/>,<chord value="Hmi"/>,<chord value="G"/>,<chord value="A"/>
+            <chord value="D"/>,<chord value="Hmi"/>,<chord value="G"/>,<chord value="A"/>
+            <chord value="D"/>,<chord value="Hmi"/>,<chord value="G"/>,<chord value="A"/>
+            <chord value="D"/>,<chord value="Hmi"/>,<chord value="G"/>,<chord value="A"/>
+            <chord value="D"/>,<chord value="Hmi"/>,<chord value="G"/>,<chord value="A"/>
+            <chord value="D"/>,<chord value="Hmi"/>,<chord value="G"/>,<chord value="A"/>
+            <chord value="D"/>
+        </section>
+    </sections>
+</song>

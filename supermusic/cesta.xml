@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Cesta</title>
+    <artist>Kryštof</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=756828&sid=</url>
+    
+    <sections>
+        <section>
+            Cesta - Kryštof
+        </section>
+        <section>
+            Intro: <chord value="C"/> <chord value="G"/> <chord value="Ami"/> <chord value="F"/> <chord value="G"/>
+        </section>
+        <section name="1">
+            Tou <chord value="C"/>cestou, tím směrem prý bych se <chord value="G"/>dávno měl dát.
+            Když <chord value="Ami"/>sněží, jde to stěží, ale sněhy pak tají,
+            kus <chord value="F"/>něhy ti za nehty <chord value="G"/>slíbí a dají
+        </section>
+        <section name="2">
+            víc <chord value="C"/>síly se prát, na dně víc <chord value="G"/>dávat než brát.
+            A <chord value="Ami"/>i když se vleče a je schůdná jen v kleče,
+            donutí <chord value="F"/>přestat se zbytečně <chord value="G"/>ptát,
+        </section>
+        <section name="R">
+            jestli se <chord value="C"/>blížím k cíli, kolik <chord value="G"/>zbývá víry,
+            kam <chord value="Emi"/>zvou svodidla, co po tmě mi <chord value="F"/>lžou? <chord value="G"/>
+            Zda <chord value="C"/>couvám zpátky a <chord value="G"/>plýtvám řádky,
+            co <chord value="Emi"/>řvou, že už mi doma neotev<chord value="F"/>řou... <chord value="G"/>
+        </section>
+        <section name="3">
+            Nebo jít s <chord value="C"/>proudem, na lusknutí prstů se <chord value="G"/>začít hned smát,
+            mít <chord value="Ami"/>svůj chodník slávy a před sebou davy
+            a přes <chord value="F"/>zkroucená záda být <chord value="G"/>součástí stáda
+        </section>
+        <section name="4">
+            ale <chord value="C"/>zpívat a hrát, kotníky <chord value="G"/>líbat, a stát.
+            Na <chord value="Ami"/>křídlech všech slavíků, a vlastně už ze zvyku
+            <chord value="F"/>přestat se zbytečně <chord value="G"/>ptát,
+        </section>
+        <section name="R">
+            jestli se <chord value="C"/>blížím k cíli... 2x
+        </section>
+    </sections>
+</song>

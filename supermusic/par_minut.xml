@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Pár minut</title>
+    <artist>Cop</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=3315&sid=</url>
+    
+    <sections>
+        <section name="®1">
+            <chord value="G"/>Tvých pár <chord value="D"/>minut si <chord value="Ami"/>připíchnout jak <chord value="C"/>kytku na ka<chord value="G"/>bát,
+        </section>
+        <section>
+            probudit <chord value="D"/>den a <chord value="Ami"/>vyprávět mu <chord value="C"/>sen, a potom jen mu <chord value="D"/>říct:
+        </section>
+        <section name="®2">
+            Těch pár minut si připíchnu jak kytku na kabát,
+            mávnu křídly a kabát nechám i s tou kytkou vlát.
+            Tunelem snů, tak krátkým i tak dlouhým, teď běžím sám,
+            až přijdu k vám, minut pár svých dní
+            jen mi dej, jen mi dej hej.
+        </section>
+        <section name="®2">
+            zatřást dnem a sebrat spadlej čas, co není zlej, není zlej hej.
+        </section>
+        <section name="®2">
+            ®2:
+        </section>
+    </sections>
+</song>

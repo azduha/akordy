@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Milenci v texaskách</title>
+    <artist>Filmová Hudba Cz</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=569335&sid=</url>
+    
+    <sections>
+        <section>
+            <chord value="Ami, C, Ami"/>
+        </section>
+        <section name="1">
+            ) <chord value="C"/>Chodili spolu z čisté <chord value="Ami"/>lásky
+            <chord value="F"/>a sedmnáct jim bylo <chord value="Ami"/>let <chord value="G"/>
+            <chord value="C"/>a do té lásky bez nad <chord value="Ami"/>sázky
+            <chord value="F"/>se vešel celý širý <chord value="Ami"/>svět. <chord value="G"/>
+        </section>
+        <section name="R">
+            <chord value="F"/>Ten svět v nich <chord value="Dmi"/>ale videl <chord value="Emi"/>pásky
+            <chord value="F"/>a jak by mohl ne<chord value="F#"/>vi<chord value="G"/>dět.
+            <chord value="C"/>Vždyť horovali pro te<chord value="Ami"/>xasky
+            <chord value="F"/>a sedmnáct jim bylo <chord value="Ami"/>let. <chord value="G"/>
+        </section>
+        <section name="3">
+            ) A v jedné zvláště slabé chvíli
+            za noci silných úkladů
+            ti dva se spolu oženili
+            bez požehnání úřadů…
+        </section>
+        <section name="R">
+            Ať vám to je, či není milé,
+            měla ho ráda, měl ji rád.
+            Odpusťte dívce provinilé,
+            jestli vám o to bude stát.
+        </section>
+        <section name="3">
+            ) Ať vám to je, či není milé,
+            měla ho ráda, měl ji rád
+            a bylo by moc pošetilé
+            pro život hledat jízdní řád.
+        </section>
+        <section name="R">
+            Tak jeden mladík s jednou slečnou,
+            se spolu octli na trati.
+            kéž dojedou až na konečnou,
+            kéž na trati se nestratí,
+            <chord value="F"/>kéž na trati se nestra<chord value="Ami"/>tí.
+        </section>
+        <section>
+            Není to přesná verze, toto je spíš pro pozdější stav v hospodách či na táborácích, originální ladění najdete o tři půltóny výše. Připomínky a výhružné zprávy na iLLiCiT@seznam.cz
+        </section>
+    </sections>
+</song>

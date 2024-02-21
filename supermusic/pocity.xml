@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Pocity</title>
+    <artist>Tomáš Klus</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=191108&sid=</url>
+    
+    <sections>
+        <section>
+            <chord value="G"/> <chord value="D"/> <chord value="Emi"/> <chord value="C"/>
+        </section>
+        <section name="1">
+            <chord value="G"/>Z posledních pocitů<chord value="D"/>
+            <chord value="Emi"/>poskládám ještě jednou <chord value="C"/>úžasnou chvíli
+            <chord value="G"/>Je to tím, že jsi <chord value="D"/>tu,
+            <chord value="Emi"/>možná tím, že <chord value="C"/>kdysi jsme byly Ty a <chord value="G"/>já,
+            my dva, dvě <chord value="D"/>nahý těla,
+            <chord value="Emi"/>Tak neříkej, že <chord value="C"/>jinak si to chtěla,
+            <chord value="G"/>tak neříkej
+            <chord value="D"/>Neříkej, <chord value="Emi"/>neříkej mi <chord value="C"/>nic
+        </section>
+        <section name="2">
+            Stala ses do noci
+            z ničeho nic moje platonická láska
+            unaven, bezmocný,
+            usínám vedle Tebe, něco ve mně praská
+        </section>
+        <section name="3">
+            A ranní probuzení
+            a slova o štěstí, neboj se to nic není
+            Pohled na okouzlení,
+            a prázdný náměstí na znamení,
+        </section>
+        <section name="4">
+            <chord value="G"/>Jenže Ty neslyšíš<chord value="D"/>,
+            jenže Ty <chord value="Emi"/>neposloucháš,<chord value="C"/>
+            snad ani <chord value="G"/>nevidíš,
+            <chord value="D"/>nebo spíš <chord value="Emi"/>nechceš vidět<chord value="C"/>
+            a druhejm <chord value="G"/>závidíš
+            zkus změnu, <chord value="G"/>uvidíš <chord value="D"/>
+            a <chord value="Emi"/>vítej do <chord value="C"/>svobody
+        </section>
+        <section name="5">
+            Jsi anděl, netušíš,
+            Anděl co ze strachu mu utrhly křídla
+            A až to ucítíš, zkus kašlat na pravidla
+        </section>
+        <section name="6">
+            Říkej si vo mě co chceš,
+            já jsem byl vodjakživa blázen
+            Nevim co nechápeš,
+            ale vrať se na zem
+        </section>
+        <section name="7">
+            Jenže Ty neslyšíš,
+            jenže Ty neposloucháš,
+            snad ani nevidíš,
+            nebo spíš nechceš vidět
+            a druhejm závidíš
+            zkus změnu, uvidíš
+            a vítej do svobody
+        </section>
+        <section name="8">
+            Jsi anděl, netušíš,
+            Anděl co ze strachu mu utrhly křídla
+            A až to ucítíš, zkus kašlat na pravidla
+        </section>
+        <section name="9">
+            Jenže Ty neslyšíš,
+            jenže Ty neposloucháš,
+            snad ani nevidíš,
+            nebo spíš nechceš vidět
+            a druhejm závidíš
+            zkus změnu, uvidíš
+            a vítej do svobody
+        </section>
+    </sections>
+</song>

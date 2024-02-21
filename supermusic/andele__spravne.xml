@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Andělé - správně</title>
+    <artist>Wanastowi Vjecy</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=185273&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="H"/>Co tě to <chord value="C#"/>hned po rámu na<chord value="E"/>padá
+            <chord value="H"/>nohy ruce <chord value="C#"/>komu je chceš <chord value="E"/>dát.
+            <chord value="H"/>Je to v krvi <chord value="C#"/>co tvou hlavu <chord value="E"/>přepadá,
+            <chord value="H"/>chtělas padnout <chord value="C#"/>do hrobu a <chord value="E"/>spát.
+        </section>
+        <section name="2">
+            <chord value="D"/>Poraněni <chord value="A"/>andělé jdou <chord value="G"/>do polí,
+            <chord value="D"/>stěhovaví <chord value="A"/>lidi ulí<chord value="G"/>taj
+            <chord value="D"/>panenku <chord value="A"/>bodni, ji to ne<chord value="G"/>bolí,
+            <chord value="D"/>svět je <chord value="A"/>mami, prapodivnej <chord value="G"/>kraj.
+        </section>
+        <section name="3">
+            <chord value="H"/>Po ránu <chord value="C#"/>princezna je <chord value="E"/>ospalá,
+            <chord value="H"/>na nebi <chord value="C#"/>nemusí se <chord value="E"/>bát
+            <chord value="H"/>v ulicích <chord value="C#"/>doba zlá ji <chord value="E"/>spoutala,
+            <chord value="H"/>polykač <chord value="C#"/>nálezů a <chord value="E"/>ztrát
+        </section>
+        <section name="4">
+            <chord value="D"/>Poraněni <chord value="A"/>andělé jdou <chord value="G"/>do polí,
+            <chord value="D"/>stěhovaví <chord value="A"/>lidi ulí<chord value="G"/>taj
+            <chord value="D"/>panenku <chord value="A"/>bodni, ji to ne<chord value="G"/>bolí,
+            <chord value="D"/>svět je mami, <chord value="A"/>prapodivnej <chord value="G"/>kraj.
+        </section>
+        <section name="5">
+            <chord value="H"/>Co tě to <chord value="C#"/>zas po ránu <chord value="E"/>napadá,
+            <chord value="H"/>za zrcadlem <chord value="C#"/>nezkoušej si <chord value="E"/>lhát
+            <chord value="H"/>miluju tě, <chord value="C#"/>chci tě - to ti <chord value="E"/>přísahám,
+            <chord value="H"/>na kolenou <chord value="C#"/>lásce pomož <chord value="E"/>vstát.
+        </section>
+        <section name="6">
+            <chord value="D"/>Poraněni <chord value="A"/>andělé jdou <chord value="G"/>do polí,
+            <chord value="D"/>stěhovaví <chord value="A"/>lidi ulí<chord value="G"/>taj
+            <chord value="D"/>panenku <chord value="A"/>bodni, ji to ne<chord value="G"/>bolí,
+            <chord value="D"/>svět je mami, <chord value="A"/>prapodivnej <chord value="G"/>kraj.
+            <chord value="D"/>svět je mami <chord value="A"/>dokonalej <chord value="G"/>kraj,
+            <chord value="D"/>svět je, mami, <chord value="A"/>dokonalej <chord value="G"/>kraj...
+        </section>
+    </sections>
+</song>

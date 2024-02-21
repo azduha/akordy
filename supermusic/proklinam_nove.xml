@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Proklínam nové</title>
+    <artist>Janek Ledecký</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=191775&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="Ami"/>Prázdnej byt je jako <chord value="F"/>past
+            kde <chord value="Dmi"/>růže uvad<chord value="C"/>no<chord value="G"/>u
+            <chord value="Ami"/>Potisíci <chord value="F"/>čtu tvuj dopis
+            <chord value="Dmi"/>na rozlouče<chord value="G"/>nou
+            <chord value="C"/>Píšeš že <chord value="Ami"/>odcházíš,
+            když <chord value="F"/>den se s nocí <chord value="C"/>stří<chord value="G"/>dá
+            <chord value="Ami"/>Vodu z vína <chord value="F"/>udělá kdo <chord value="Dmi"/>dobře nehlí<chord value="G"/>dá. Píšeš:
+        </section>
+        <section name="2">
+            ®: <chord value="C"/>Proklí<chord value="G"/>nám.
+            <chord value="Ami"/>Ty tvoje <chord value="F"/>ústa proklí<chord value="C"/>nám
+            Tvoje <chord value="G"/>oči ledo<chord value="Ami"/>vý.
+            V <chord value="F"/>srdci jen sníh
+            <chord value="C"/>sám a <chord value="G"/>sám.
+            <chord value="Ami"/>Ať nikdy <chord value="F"/>úsvit nespat<chord value="C"/>říš
+            Na ústa <chord value="G"/>mříž. Oči oslep<chord value="Ami"/>nou
+            Ať <chord value="F"/>do smrti seš <chord value="C"/>sám.
+        </section>
+        <section name="3">
+            <chord value="Ami"/>Tvoje oči <chord value="F"/>jsou jak stín.
+            A <chord value="Dmi"/>tvář den když se <chord value="C"/>stmí<chord value="G"/>vá
+            <chord value="Ami"/>Stromy rostou <chord value="F"/>čím dál výš,
+            a <chord value="Dmi"/>pak je čeká <chord value="G"/>pád.
+            <chord value="C"/>Sám s hlavou <chord value="Ami"/>skloněnou
+            všechny <chord value="F"/>lásky budou <chord value="C"/>zdá<chord value="G"/>ní
+            <chord value="Ami"/>Po tisíci <chord value="F"/>čtu tvůj dopis
+            <chord value="Dmi"/>na rozlouče<chord value="G"/>nou. Píšeš:
+            ®
+        </section>
+        <section>
+            solo
+        </section>
+        <section name="®">
+            ..ať zustaneš sám. Sám. A sám. Ať nikdy úsvit...
+        </section>
+    </sections>
+</song>

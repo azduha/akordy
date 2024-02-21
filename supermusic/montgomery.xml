@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Montgomery</title>
+    <artist>Wabi Daněk</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=923413&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="D"/>Déšť ti holka slepil<chord value="G"/>vlasy, <chord value="Em"/> <chord value="A7"/>z tvých očí zbyl prázdnej<chord value="D"/> kruh.
+            <chord value="D"/>Kde je zbytek z tvojí<chord value="G"/>krásy, <chord value="Em"/> <chord value="A7"/> ví snad dneska jenom<chord value="D"/> Bůh.
+        </section>
+        <section name="2">
+            Tam na kopci v prachu cesty leží i tvůj generál.
+            V ruce šátek od nevěsty, ale ruka leží dál.
+        </section>
+        <section name="3">
+            Tvář má zšedivělou strachem, zbylo v ní pár detskej pih.
+            Proužek krve stéká prachem, déšť slepil vlasy jak klíh.
+        </section>
+        <section name="R">
+            : <chord value="D"/>Z celé jížní eska<chord value="G"/>drony <chord value="Em"/> <chord value="A7"/>nezbyl ani jeden<chord value="D"/> muž.
+            /:<chord value="D"/>V Montgomery bijou <chord value="G"/>zvony, <chord value="Em"/> <chord value="A7"/>déšť ti smývá ze rtů<chord value="D"/>růž. :/
+        </section>
+    </sections>
+</song>

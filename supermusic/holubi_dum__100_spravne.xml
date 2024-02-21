@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Holubí dům - 100% správně</title>
+    <artist>Jiří Schelinger</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=591401&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="Emi"/>Zpí<chord value="D"/>vám <chord value="Cmaj7"/>ptákům a <chord value="Hmi7"/>zvlášť holu<chord value="Emi"/>bům,
+            <chord value="Emi"/>stá<chord value="D"/>val v <chord value="Cmaj7"/>údolím <chord value="Hmi7"/>mém starý <chord value="Emi"/>dům.
+            <chord value="G"/>Ptá<chord value="D"/>ků <chord value="G"/>houf zalé<chord value="D"/>tal ke kro<chord value="G"/>vům,
+            <chord value="Emi"/>měl <chord value="D"/>jsem <chord value="Cmaj7"/>rád holu<chord value="Hmi7"/>bích křídel <chord value="Emi"/>šum.
+        </section>
+        <section name="1">
+            Vlídná dívka jim házela hrách,
+            mávání perutí víří prach.
+            Ptáci krouží a neznají strach,
+            měl jsem rád starý dům, jeho práh.
+        </section>
+        <section name="Ref">
+            : Hledám <chord value="Ami7"/>dům holu<chord value="D"/>bí,
+            kdopak z <chord value="G"/>vás cestu <chord value="Emi"/>ví?
+            Míval <chord value="C"/>stáj roube<chord value="D"/>nou,
+            bílý <chord value="G"/>štít.
+            Kde je <chord value="Ami7"/>dům holu<chord value="D"/>bí
+            a ta <chord value="G"/>dívka kde <chord value="Emi"/>spí?
+            Vždyť to <chord value="C"/>ví, že jsem <chord value="Hmi"/>chtěl
+            pro ni <chord value="Emi"/>žít.<chord value="A"/><chord value="Emi"/>
+        </section>
+        <section name="2">
+            bláhový kdo hledá tenhle dům.
+            Odrůstáš chlapeckým střevícům,
+            měl jsem rád holubích křídel šum.
+        </section>
+        <section name="3">
+            Nabízej úplatou cokoli.
+            Nepojíš cukrových homolí.
+            Můžeš mít třeba zrak sokolí,
+            nespatříš ztracené údolí.
+        </section>
+        <section name="Ref">
+            : Hledám dům ...
+        </section>
+        <section name="3">
+            <chord value="Emi"/>Zpí<chord value="D"/>vám <chord value="Cmaj7"/>ptákům a <chord value="Hmi7"/>zvlášť holu<chord value="Emi"/>bům,
+            <chord value="Emi"/>stá<chord value="D"/>val v ú<chord value="Cmaj7"/>dolí <chord value="Hmi7"/>mém starý <chord value="Emi"/>dům.
+        </section>
+    </sections>
+</song>

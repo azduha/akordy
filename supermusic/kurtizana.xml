@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Kurtizána</title>
+    <artist>Udg</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=509972&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="Emi"/>Jsi jenom člověk,
+            co se naro<chord value="C"/>dí
+            v těle, kde tě<chord value="G"/>lo duši <chord value="D"/>ruší.
+            <chord value="Emi"/>Něco si vezme, něco za<chord value="C"/>hodí
+            jen tak jak je<chord value="G"/>ho srdce <chord value="D"/>buší.
+        </section>
+        <section name="2">
+            <chord value="Emi"/>Nemám tě <chord value="C"/>znát,
+            nemám mít <chord value="D"/>rád,
+            <chord value="Emi"/>Nemám tě <chord value="C"/>znát,
+            nemám mít <chord value="D"/>rád
+            barbína, <chord value="G"/>bale<chord value="D"/>rína.
+        </section>
+        <section name="3">
+            Za oknem prší, běží Magion,
+            oči jsou pusté kurty z rána.
+            Lampa je nejkrásnější lampion
+            a ty jsi bílá, černá vrána.
+        </section>
+        <section name="4">
+            Říkaj, že neni žádná Marion,
+            že není ctnostná kurtizána,
+            že jsou jen stíny, ona a on,
+            že jsou jen noci a rána.
+        </section>
+        <section name="5">
+            Jsem jenom člověk, co se narodí
+            v těle kde tělo duši ruší.
+            A každá rána ta se zahojí
+            a každé ráno ti to sluší
+        </section>
+        <section name="6">
+            Nemám tě znát
+            nemám mít rád,
+            až město pozhasíná.
+            Nemám tě znát,
+            nemám mít rád
+            sejdem se u kasína.
+        </section>
+    </sections>
+</song>

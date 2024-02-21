@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Ráda se miluje</title>
+    <artist>Karel Plíhal</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=507741&sid=</url>
+    
+    <sections>
+        <section name="®">
+            <chord value="Ami"/> Ráda se miluje, <chord value="G"/>ráda <chord value="C"/> jí,
+            <chord value="F"/>ráda si<chord value="Emi"/> jenom tak<chord value="Ami"/> zpívá,
+            vrabci se na plotě<chord value="G"/> háda<chord value="C"/>jí,
+            <chord value="F"/>kolik že<chord value="Emi"/> času jí<chord value="Ami"/> zbývá.
+        </section>
+        <section name="1">
+            <chord value="F"/>Než vítr dostrká<chord value="C"/> k útesu<chord value="F"/> tu její <chord value="C"/>legrační<chord value="E"/> bárku
+            a<chord value="Ami"/> Pámbu si ve svým<chord value="G"/> note<chord value="C"/>su <chord value="F"/>udělá<chord value="Emi"/> jen další<chord value="Ami"/> čárku.
+        </section>
+        <section name="2">
+            Psáno je v nebeské režii, a to hned na první stránce,
+            že naše duše nás přežijí v jinačí tělesný schránce.
+        </section>
+        <section name="3">
+            Úplně na konci paseky, tam, kde se ozvěna tříští,
+            sedí šnek ve snacku pro šneky - snad její podoba příští.
+        </section>
+    </sections>
+</song>

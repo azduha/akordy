@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Severní vítr</title>
+    <artist>Zdeněk Svěrák & Jaroslav Uhlíř</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=1700&sid=</url>
+    
+    <sections>
+        <section name="1">
+            Jdu s <chord value="C"/>děravou patou, mám <chord value="Ami"/>horečku zlatou
+            Jsem <chord value="F"/>chudý, jsem sláb a <chord value="C"/>nemocen
+            Hlava mě pálí a v <chord value="Ami"/>modravé dáli
+            Se <chord value="F"/>leskne a <chord value="G"/>třpytí můj <chord value="C"/>sen
+        </section>
+        <section name="2">
+            Kraj pod sněhem mlčí, tam stopy jsou vlčí
+            Tam zbytečně budeš mi psát
+            Sám v dřevěné boudě sen o zlaté hroudě
+            Já nechám si tisíc krát zdát
+        </section>
+        <section name="®">
+            <chord value="C"/>Severní <chord value="C7"/>vítr je <chord value="F"/>krutý,
+            počítej<chord value="C"/> lásko má s <chord value="G7"/>tím
+            <chord value="C"/>k nohám ti <chord value="C7"/>dám zlaté <chord value="F"/>pruty
+            nebo se <chord value="C"/>vůbec <chord value="G"/>nevrátím<chord value="C"/>
+        </section>
+        <section name="3">
+            Tak zarůstám vousem a vlci už jdou sem
+            Už slyším je výt blíž a blíž
+            už mají mou stopu, už větří že kopu
+            svůj hrob a že stloukám si kříž
+            Zde leží ten blázen, chtěl vilu, chtěl bazén
+            A opustil tvou krásnou tvář
+            Má plechovej hrnek a pár zlatejch zrnek
+            Nad hrobem polární zář
+        </section>
+    </sections>
+</song>

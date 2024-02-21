@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Karavana mraků</title>
+    <artist>Karel Kryl</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=1776&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="D"/>Slunce je zlatou skobou <chord value="Hmi"/>na vobloze přibitý,
+            <chord value="G"/>pod sluncem <chord value="A"/>sedlo kože<chord value="D"/>ný, <chord value="A7"/>
+            <chord value="D"/>pod sedlem kůň, pod koněm <chord value="Hmi"/>moje boty rozbitý
+            <chord value="G"/>a starý <chord value="A"/>ruce sedře<chord value="D"/>ný.
+        </section>
+        <section name="R">
+            <chord value="D7"/>Dopředu <chord value="G"/>jít s tou <chord value="A"/>karavanou <chord value="Hmi"/>mraků,
+            schovat svou <chord value="G"/>pleš pod <chord value="A"/>stetson děra<chord value="Hmi"/>vý,
+            /: jen kousek <chord value="Emi"/>jít, jen <chord value="A7"/>chvíli, <chord value="Hmi"/>do soumra<chord value="Emi"/>ku,
+            až tam, kde <chord value="Hmi"/>svítí město, <chord value="F#"/>město běla<chord value="Hmi"/>vý. :A7
+            ]
+        </section>
+        <section name="2">
+            Vítr si tiše hvízdá po silnici spálený,
+            v tom městě nikdo nezdraví,
+            šerif i soudce - gangsteři, voba řádně zvolený,
+            a lidi strachem nezdravý.
+        </section>
+        <section name="3">
+            Sto cizejch zabíječů s pistolema skotačí
+            a zákon džungle panuje,
+            provazník plete smyčky, hrobař kopat nestačí
+            a truhlář rakve hobluje.
+        </section>
+        <section name="R">
+            V městě je řád a pro každého práce,
+            buď ještě rád, když huba voněmí,
+            /: může tě hřát, že nejsi na voprátce
+            nebo že neležíš pár inchů pod zemí. :/
+        </section>
+        <section name="4">
+            <chord value="D"/>Slunce je zlatou skobou <chord value="Hmi"/>na vobloze přibitý,
+            <chord value="G"/>pod sluncem <chord value="A"/>sedlo kože<chord value="D"/>ný, <chord value="A7"/>
+            <chord value="D"/>pod sedlem kůň, pod koněm <chord value="Hmi"/>moje nohy rozbitý
+            <chord value="G"/>a starý <chord value="A"/>ruce sedře<chord value="D"/>ný.
+        </section>
+        <section name="R">
+            Pryč odtud jít s tou karavanou mraků,
+            kde tichej dům a pušky rezaví,
+            /: orat a sít od rána do soumraku
+            a nechat zapomenout srdce bolavý. :/
+        </section>
+    </sections>
+</song>

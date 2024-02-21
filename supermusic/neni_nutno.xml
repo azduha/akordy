@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Není nutno</title>
+    <artist>Zdeněk Svěrák & Jaroslav Uhlíř</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=543&sid=</url>
+    
+    <sections>
+        <section name="1">
+            Zdeněk Svěrák &amp; Jaroslav Uhlíř
+            Není nutno
+        </section>
+        <section name="2">
+            1. <chord value="A"/>Není nutno, není nutno, aby bylo přímo vese<chord value="Hmi"/>lo,
+            <chord value="E7"/>hlavně nesmí býti smutno, natož aby se breče<chord value="A"/>lo.<chord value="E"/>
+        </section>
+        <section>
+            nemít žádné kamarády, tomu já říkám neštěstí.
+        </section>
+        <section name="*">
+            Nemít <chord value="F#mi"/>prachy - <chord value="A"/>nevadí, nemít <chord value="F#mi"/>srdce - <chord value="A"/>vadí,
+            zažít <chord value="F#mi"/>krachy - <chord value="A"/>nevadí, zažít <chord value="F#mi"/>nudu - <chord value="D"/>to <chord value="E"/>vadí.
+        </section>
+        <section name="3">
+            =1.
+        </section>
+        <section name="4">
+            =1.
+        </section>
+    </sections>
+</song>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Hallelujah</title>
+    <artist>Leonard Cohen</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=46972&sid=</url>
+    
+    <sections>
+        <section>
+            <chord value="G"/>I heard there was a <chord value="Emi"/>secret chord
+        </section>
+        <section>
+            <chord value="G"/>that David played and it <chord value="Emi"/>pleased the Lord,
+        </section>
+        <section>
+            But <chord value="C"/>you don't really care for music <chord value="G"/>do you.
+        </section>
+        <section>
+            <chord value="G"/>It goes like this the <chord value="C"/>fourth the <chord value="D"/>fifth,
+        </section>
+        <section>
+            <chord value="Emi"/>the minor fall and the m<chord value="C"/>ajor l<chord value="D"/>ift
+        </section>
+        <section>
+            <chord value="D"/>The baffled king composing halle<chord value="Emi"/>lujah
+        </section>
+        <section>
+            Halle<chord value="C"/>luja, Hall<chord value="Emi"/>eluja, Halle<chord value="C"/>luja, Hal<chord value="G-D-G"/>leluja
+        </section>
+        <section name="1">
+            Your faith was strong but you needed proof
+            You saw her bathing on the roof
+            Her beauty and the moonlight overthrew ya
+            She tied you to a kitchen chair
+            She broke your throne, and she cut your hair
+            And from your lips she drew the Hallelujah
+        </section>
+        <section>
+            Hallelujah, Hallelujah, Hallelujah, Hallelujah
+        </section>
+        <section name="2">
+            You say I took the name in vain
+            I don't even know the name
+            But if I did, well really, what's it to ya?
+            There's a blaze of light in every word
+            It doesn't matter which you heard
+            The holy or the broken Hallelujah
+        </section>
+        <section>
+            Hallelujah, Hallelujah, Hallelujah, Hallelujah
+        </section>
+        <section name="3">
+            I did my best, it wasn't much
+            I couldn't feel, so I tried to touch
+            I've told the truth, I didn't come to fool ya
+            And even though it all went wrong
+            I'll stand before the Lord of Song
+            With nothing on my tongue but Hallelujah
+        </section>
+        <section name="4">
+            Hallelujah, Hallelujah, Hallelujah, Hallelujah
+            Hallelujah, Hallelujah, Hallelujah, Hallelujah
+            Hallelujah, Hallelujah, Hallelujah, Hallelujah
+            Hallelujah, Hallelujah, Hallelujah, Hallelujah
+            Hallelujah
+        </section>
+        <section name="5">
+            (from Various Positions, 1984)
+            (sent by Harlan at harlant@hawaii.edu)
+        </section>
+    </sections>
+</song>

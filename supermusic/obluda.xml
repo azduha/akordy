@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Obluda</title>
+    <artist>Jaroslav Samson Lenk</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=148620&sid=</url>
+    
+    <sections>
+        <section name="1">
+            1. Jó, dv<chord value="Ami"/>ěstě nás tam bylo na brize do Číny
+            a f<chord value="C"/>urt se jenom pilo, až tuhly ledvin<chord value="E"/>y,
+            a kd<chord value="F"/>yž už bylo k r<chord value="G"/>ánu a vš<chord value="C"/>ichni pod vobr<chord value="E"/>az,
+            křik' pl<chord value="Ami"/>avčík na stožáru, a hl<chord value="C"/>ásek se mu tř<chord value="G"/>ás':
+        </section>
+        <section name="®">
+            J<chord value="C"/>á tady n<chord value="F"/>ebudu, j<chord value="C"/>á vidím v<chord value="F"/>obludu,
+            j<chord value="C"/>á vocaď pr<chord value="F"/>yč pudu, j<chord value="C"/>ímá mě str<chord value="G"/>ach,
+            ch<chord value="C"/>yťte tu v<chord value="F"/>obludu, s<chord value="C"/>ežere p<chord value="F"/>alubu,
+            t<chord value="C"/>ohle je v<chord value="F"/>o hubu, <chord value="C"/>ach, <chord value="E"/>ich, och, <chord value="Ami"/>ach.
+        </section>
+        <section name="2">
+            Má vocas dvěstě sáhů a ploutev přes hektar
+            a zubů plnou hubu, a rozcvičuje spár
+            a rozčileně mrká svým vokem jediným,
+            a páchne, řve a krká a z tlamy pouští dým.
+        </section>
+        <section name="3">
+            zapomněl, že ho v září prochlastal v Kantonu,
+            když uviděl tu bídu, hned zpotil se jak myš,
+            poklekl k komínu, pěl: K tobě, Bože, blíž.
+        </section>
+        <section name="4">
+            Náš kormidelník chrabrý je drsná povaha,
+            zalehl u zábradlí a házel flaškama,
+            když na vobludě bouchl kanystr vod ginu,
+            tu přízrak vztekle houkl a vlítl na brigu.
+        </section>
+        <section name="5">
+            Tři stěžně rozlámala na naší kocábce,
+            však ztuhla jako skála, když čuchla k posádce,
+            pak démon alkoholu ji srazil v oceán,
+            my slezli zase dolů a chlastali jsme dál.
+        </section>
+        <section name="®">
+            + <chord value="Ami"/>ach, ich, och, ach ...
+        </section>
+    </sections>
+</song>

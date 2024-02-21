@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Dokud sa zpíva</title>
+    <artist>Jaromír Nohavica</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=180079&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="C"/>Z Těšína <chord value="Emi"/>vyjíždí <chord value="Dmi"/>vlaky co <chord value="F"/>čtvrthodi <chord value="C"/>nu,<chord value="Emi"/>, <chord value="Dmi"/>, <chord value="G"/>
+            <chord value="C"/>včera jsem <chord value="Emi"/>nespal a <chord value="Dmi"/>ani dnes <chord value="F"/>nespočinu,<chord value="C"/>, <chord value="Emi"/>, <chord value="Dmi"/>, <chord value="G"/>
+            <chord value="F"/>svatý <chord value="G"/>Medard, můj <chord value="C"/>patron, ťuká si na če<chord value="G"/>lo,
+            ale <chord value="F"/>dokud se <chord value="G"/>zpívá, <chord value="F"/>ještě se <chord value="G"/>neumřelo.<chord value="C"/>, <chord value="Emi"/>, <chord value="Dmi"/>, <chord value="G"/>, <chord value="C"/>
+        </section>
+        <section name="2">
+            Ve stánku koupím si housku a slané tyčky,
+            srdce mám pro lásku a hlavu pro písničky,
+            ze školy dobře vím, co by se dělat mělo,
+            ale dokud se zpívá, ještě se neumřelo, hóhó.
+        </section>
+        <section name="3">
+            Do alba jízdenek lepím si další jednu,
+            vyjel jsem před chvílí, konec je v nedohlednu,
+            za oknem míhá se život jak leporelo,
+            ale dokud se zpívá, ještě se neumřelo, hóhó.
+        </section>
+        <section name="4">
+            Stokrát jsem prohloupil a stokrát platil draze,
+            houpe to, houpe to na housenkové dráze,
+            i kdyby supi se slítali na mé tělo,
+            tak dokud se zpívá, ještě se neumřelo, hóhó.
+        </section>
+        <section name="5">
+            Z Těšína vyjíždí vlaky až na kraj světa,
+            zvedl jsem telefon a ptám se:"Lidi, jste tam?"
+            A z veliké dálky do uší mi zaznělo,
+            /: že dokud se zpívá, ještě se neumřelo. :/
+        </section>
+    </sections>
+</song>

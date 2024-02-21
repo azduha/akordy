@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Hvězdář - se správnými akordy</title>
+    <artist>Udg</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=75513&sid=</url>
+    
+    <sections>
+        <section name="1">
+            Ztrácíš se <chord value="D"/>před očima, rosteš jen <chord value="A"/>ve vlastním stínu.
+            Každá <chord value="Emi"/>další vina, odkrývá <chord value="Cmaj7"/>mojí vinu.
+            Ztrácíš se před očima, rosteš jen ve vlastním stínu.
+            Každá další vina odkrývá mojí vinu.
+        </section>
+        <section name="2">
+            Ve vínu dávno nic nehledám, (dávno nic) nehledám.
+            Ve vínu dávno nic nehledám, (dávno nic) nehledám.
+        </section>
+        <section name="Refren">
+            Jak luna mizíš s nocí v bělostných šatech pro nemocné,
+            prosit je zvláštní pocit, jen ať je den noc ne.
+            Jak luna mizíš s nocí v bělostných šatech pro nemocné,
+            prosit je zvláštní pocit, jen ať je den noc ne.
+        </section>
+        <section name="3">
+            Od proseb dávno nic nečekám (dávno nic) nečekám.
+            Od proseb dávno nic nečekám (dávno nic) nečekám.
+        </section>
+        <section name="Mezihra">
+            <chord value="D"/> <chord value="A"/> <chord value="Emi"/> <chord value="Cmaj7"/>
+        </section>
+        <section name="4">
+            Na chodbách v bludných kruzích zářivka vyhasíná,
+            já ti do infuzí chci přilít trochu vína.
+            Na nebi jiných sluncí, jak se tam asi cítíš,
+            s nebeskou interpunkcí, jiným tulákům svítíš.
+        </section>
+        <section name="5">
+            Ve vínu dávno nic nehledám (dávno nic) nehledám.
+            Ve vínu dávno nic nehledám (dávno nic) nehledám.
+        </section>
+        <section name="6">
+            Obzor neklesne níž, je ráno a ty spíš.
+            Od vlků odraná hvězdáře Giordána...
+            Obzor neklesne níž, je ráno a ty spíš.
+            Od vlků odraná hvězdáře Giordána...
+            Obzor neklesne níž, je ráno a ty spíš.
+            Od vlků odraná hvězdáře Giordána... ...opouštíš.
+        </section>
+    </sections>
+</song>

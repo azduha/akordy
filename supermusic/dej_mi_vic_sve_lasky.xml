@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Dej mi víc své lásky</title>
+    <artist>Olympic</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=459&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="Emi"/>Vymyslel jsem spoustu nápadu , a<chord value="G"/>úú
+            co <chord value="Emi"/>podporujou hloupou nála<chord value="D7"/>du, a<chord value="H7"/>úú,
+            <chord value="Emi"/>hodit klíče do kanálu,
+            <chord value="A"/>sjet po zadku <chord value="Ami"/>holou skálu
+            <chord value="Emi"/>v noci chodit <chord value="H7"/>strašit do hra<chord value="Emi"/>du
+        </section>
+        <section name="2">
+            Dám si dvoje housle pod bradu, aúú,
+            v bíle plachtě chodím pozadu, aúú,
+            úplně melancholicky,
+            s citem pro věc jako vždycky
+            vyrábím tu hradní záhadu , aúú.
+        </section>
+        <section name="1">
+            ® <chord value="G"/>Má drahá dej mi víc, <chord value="H7"/>má drahá dej mi víc,
+            <chord value="Emi"/>má drahá <chord value="C"/>dej mi víc své <chord value="G"/>lásky, a<chord value="D7"/>úú
+            <chord value="G"/>Ja nechci skoro nic, <chord value="H7"/>já nechci skoro nic,
+            <chord value="Emi"/>já chci jen <chord value="C"/>pohladit tvé <chord value="G"/>vlásky, a<chord value="H7"/>úú
+        </section>
+        <section name="3">
+            Nejlepší z těch divnej nápadu , aúú,
+            mi dokonale zvednul náladu, aúú,
+            natrhám ti sedmikrásky,
+            tebe celou s tvými vlásky
+            zamknu si na sedm západu , a<chord value="D7"/>ú
+        </section>
+        <section>
+            ®
+        </section>
+    </sections>
+</song>

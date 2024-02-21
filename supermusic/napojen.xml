@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Napojen</title>
+    <artist>Tomáš Klus</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=730425&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="E"/>Vzpomeň, jaks' očima dít<chord value="A"/>ěte
+            <chord value="E"/>hleděl na letící p<chord value="H"/>táky,
+            jak krásné bylo být na Světě
+            s vědomím, že umíš to taky.
+        </section>
+        <section name="2">
+            Dnes už <chord value="F#"/>nelétáš, neboť oko<chord value="A"/>lí
+            zmátlo Tě <chord value="F#"/>strachem, že pády <chord value="A"/>bo<chord value="H"/>lí.
+        </section>
+        <section name="3">
+            Zastav se, Čas nikam nespěchá,
+            jen Rozum nutí ho k běhu.
+            Věř však Ty, synu Člověka,
+            žes' nedílná součást příběhu.
+        </section>
+        <section name="4">
+            Ty jsi já, jako já Tebou jsem,
+            společná je nám planeta Zem.
+        </section>
+        <section name="Ref">
+            <chord value="E"/>Ničeho nelituj,
+            <chord value="A"/>Život, co máš, je Tvůj,
+            <chord value="E"/>žij a měj rád, co <chord value="H"/>je.
+        </section>
+        <section name="5">
+            Nechť Srdce se rozbijí
+            Láskou, tak přijmi ji.
+            Cítíš, jak jsi napojen,
+            jak jsi napojen.
+            Přes všechny pochyby Život je krásný.
+            Jsi napojen
+            a Svět je Tvá továrna na sny.
+        </section>
+        <section name="6">
+            Nebe až najde jas ve vodní hladině,
+            až Měsíc opře se o břeh
+            a padne Hvězda, zkus si přát jediné,
+            to aby dopadla dobře.
+        </section>
+        <section name="7">
+            Ztiš se a poprvé k Sobě se obrať,
+            bez zbraní a krve porazíš Obra.
+        </section>
+        <section name="8">
+            Obra, co založil Duhy stín,
+            když před léty zotročil Zem.
+            A člověka Bůh ví proč znejistil
+            v otázce, kdo vlastně jsem.
+        </section>
+        <section name="9">
+            Poznej, že být je jednoduché,
+            ucítíš klid, že vše jedno je Duchem.
+        </section>
+        <section name="Ref">
+            Ničeho nelituj,
+            Život, co máš, je Tvůj,
+            žij a měj rád, co je.
+        </section>
+        <section name="10">
+            Nechť Srdce se rozbijí
+            Láskou, tak přijmi ji.
+            Cítíš, jak jsi napojen,
+            jak jsi napojen.
+            Přes všechny pochyby Život je krásný.
+            Jsi napojen
+            a Svět je Tvá továrna na sny.
+        </section>
+    </sections>
+</song>

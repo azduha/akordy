@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Jednou mi fotr povídá- lépe</title>
+    <artist>Ivan Hlas</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=164402&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="A"/>Jednou mi fotr <chord value="A7"/>povídá
+            <chord value="D"/>zůstali jsme už sami dva,
+            že <chord value="E"/>si chce začít taky trochu žít.<chord value="A"/>
+            Nech si to projít palicí
+            a nevracej se s vopicí
+            snaž se mě hochu trochu pochopit.
+        </section>
+        <section name="Ref">
+            : Já <chord value="E"/>šel, šel dál baby, <chord value="A"/>kam mě pán bůh zval
+            já <chord value="E"/>šel, šel dál baby a <chord value="D7"/>furt jen tancoval.
+            Na <chord value="A"/>každý divný hranici, <chord value="D"/>na policejní stanici,
+            <chord value="E"/>hrál jsem jenom Rock´n Roll for You.<chord value="A"/>
+        </section>
+        <section name="2">
+            Přiletěl se mnou černej čáp,
+            zobákem dělal rockin´klap
+            a nad kolípkou Elvis Presley stál.
+            Obrovskej bourák v ulici,
+            po boku krásnou slepici
+            a lidi šeptaj přijel nějakej král.
+        </section>
+        <section name="Ref">
+            : Já šel ……
+        </section>
+        <section name="3">
+            Pořád tak nějak nemohu,
+            chtit štěstí za nohu
+            a nemůžu si najít klidnej kout.
+            Blázniví ptáci začnou řvát
+            a nový ráno šacovat
+            a do mě vždycky pustí silnej proud.
+        </section>
+        <section name="Ref">
+            : Tak jsi šel, šel dál baby …….
+        </section>
+    </sections>
+</song>

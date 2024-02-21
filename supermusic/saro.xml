@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Sáro</title>
+    <artist>Traband</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=161007&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="Ami"/>Sáro, <chord value="Emi"/>Sáro, <chord value="F"/>v noci se mi <chord value="C"/>zdálo
+            že <chord value="F"/>tři poslové <chord value="C"/>Boží k nám <chord value="F"/>přišli na o<chord value="G"/>běd
+            <chord value="Ami"/>Sáro, <chord value="Emi"/>Sáro, jak <chord value="F"/>moc a nebo <chord value="C"/>málo
+            mi <chord value="F"/>chybí abych <chord value="C"/>tvojí duši <chord value="F"/>mohl rozu<chord value="G"/>mět?
+        </section>
+        <section name="2">
+            Sbor kajícných mnichů jde krajinou v tichu
+            a pro všechnu lidskou pýchu
+            má jen přezíravý smích
+            A z prohraných válek se vojska domů vrací
+            Však zbraně stále burácí
+            a bitva zuří v nich
+        </section>
+        <section name="3">
+            Vévoda v zámku čeká na balkóně
+            až přivedou mu koně
+            a pak mává na pozdrav
+            A srdcová dáma má v každé ruce růže
+            Tak snadno poplést může
+            sto urozených hlav
+        </section>
+        <section name="4">
+            Královnin šašek s pusou od povidel
+            sbírá zbytky jídel
+            a myslí na útěk
+            A v podzemí skrytí slepí alchymisté
+            už objevili jistě
+            proti povinnosti lék
+        </section>
+        <section name="5">
+            Páv pod tvým oknem zpívá sotva procit
+            o tajemstvích noci
+            ve tvých zahradách
+            A já - potulný kejklíř, co svázali mu ruce
+            teď hraju o tvé srdce
+            a chci mít tě nadosah
+        </section>
+        <section name="6">
+            <chord value="Ami"/>Sáro, <chord value="Emi"/>Sáro, <chord value="F"/>pomalu a <chord value="C"/>líně
+            <chord value="F"/>s hlavou na tvém <chord value="C"/>klíně <chord value="F"/>chci se probou<chord value="G"/>zet
+            <chord value="F"/>Sáro, Sáro, <chord value="C"/>Sáro, <chord value="F"/>rosa padá <chord value="C"/>ráno
+            a <chord value="F"/>v poledne už <chord value="C"/>možná <chord value="F"/>bude jiný <chord value="G"/>svět
+            <chord value="F"/>Sáro, <chord value="C"/>Sáro, <chord value="F"/>vstávej, milá <chord value="C"/>Sáro!
+            <chord value="F"/>Andělé k nám <chord value="Dmi"/>přišli na o<chord value="Cmaj"/>běd
+        </section>
+    </sections>
+</song>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Kozel</title>
+    <artist>Jaromír Nohavica</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=939&sid=</url>
+    
+    <sections>
+        <section name="1">
+            Jaromír Nohavica
+            Kozel
+        </section>
+        <section name="2">
+            Byl jeden <chord value="G"/>pán ten kozla <chord value="C"/>měl
+            velice <chord value="D7"/>si s ním rozuměl<chord value="G"/>
+            Měl ho moc rád, opravdu <chord value="C"/>moc
+            Hladil mu <chord value="D7"/>fous na dobrou noc<chord value="G, D7,  G"/>
+        </section>
+        <section name="2">
+            Jednoho dne se kozel splet
+            rudé tričko pánovi sněd
+            Když to pán zřel, zařval jejé
+            Svázal kozla na koleje
+            3. Zapískal vlak, kozel se lek
+            To je má smrt, mečel mek mek
+            Jak tak mečel, vykašlal pak
+            Rudé tričko, čímž stopnul vlak.
+        </section>
+    </sections>
+</song>

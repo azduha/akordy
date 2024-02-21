@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Darmoděj</title>
+    <artist>Jaromír Nohavica</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=1650&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="Ami"/>Šel včera městem <chord value="Emi"/>muž
+            a šel po hlavní <chord value="Ami"/>třídě,<chord value="Emi, Ami"/>
+            šel včera městem <chord value="Emi"/>muž
+            a já ho z okna <chord value="Ami"/>viděl<chord value="Emi"/>,
+            <chord value="C"/>na flétnu chorál <chord value="G"/>hrál,
+            znělo to jako <chord value="Ami"/>zvon
+            a byl v tom všechen <chord value="Emi"/>žal,
+            ten krásný dlouhý <chord value="F"/>tón,
+            a já jsem náhle <chord value="F#dim"/>věděl:
+            Ano, to je <chord value="E7"/>on, to je <chord value="Ami"/>on.
+        </section>
+        <section name="2">
+            Vyběh' jsem do ulic jen v noční košili,
+            v odpadcích z popelnic krysy se honily
+            a v teplých postelích lásky i nelásky
+            tiše se vrtěly rodinné obrázky,
+            a já chtěl odpověď na svoje otázky, otázky.
+        </section>
+        <section name="®">
+            Na na na [Ami, Emi, C, G, Ami, F, F#dim, E7
+            Ami, Emi, C, G, Ami, F, F#dim, E7]
+        </section>
+        <section name="3">
+            Dohnal jsem toho muže a chytl za kabát,
+            měl kabát z hadí kůže, šel z něho divný chlad,
+            a on se otočil, a oči plné vran,
+            a jizvy u očí, celý byl pobodán,
+            a já jsem náhle věděl kdo je onen pán onen pán
+        </section>
+        <section name="4">
+            Celý se strachem chvěl,
+            když jsem tak k němu došel,
+            a v ústech flétnu měl od Hieronyma Bosche,
+            stál měsíc nad domy jak čírka ve vodě,
+            jak moje svědomí, když zvrací v záchodě,
+            a já jsem náhle věděl:
+            to je Darmoděj, můj Darmoděj.
+        </section>
+        <section name="®">
+            <chord value="Ami"/>Můj Darmoděj<chord value="Emi"/>,
+            vagabund<chord value="C"/> osudů<chord value="G "/>a lásek,
+            <chord value="Ami"/>jenž prochází<chord value="F"/> všemi <chord value="F#mi"/>sny,
+            ale dnům <chord value="E7"/>vyhýbá se,
+            můj Darmoděj, krásné zlo,
+            jed má pod jazykem,
+            když prodává po domech jehly se slovníkem.
+        </section>
+        <section name="5">
+            Šel včera městem muž, podomní obchodník,
+            šel, ale nejde už, krev skápla na chodník,
+            já jeho flétnu vzal a zněla jako zvon
+            a byl v tom všechen žal, ten krásný dlouhý tón,
+            a já jsem náhle věděl:
+            ano, já jsem on, já jsem on.
+        </section>
+        <section name="®">
+            Váš Darmoděj, vagabund osudů a lásek,
+            jenž prochází všemi sny, ale dnům vyhýbá se,
+            váš Darmoděj krásné zlo jed mám pod jazykem
+            když prodávám po domech jehly se slovníkem.
+        </section>
+    </sections>
+</song>

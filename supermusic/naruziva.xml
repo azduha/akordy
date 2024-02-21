@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Náruživá</title>
+    <artist>Žlutý Pes</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=805&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="D"/>Nečekala na nic a nebyla <chord value="G"/>hloupá a <chord value="A"/>já jsem ji výjimečně do voka <chord value="D"/>pad
+            <chord value="D"/>najednou koukám jak se život <chord value="G"/>houpá <chord value="A"/>a nikdo neví, co se může <chord value="D"/>stát
+            <chord value="A"/>pojedeme spolu někam na pro<chord value="D"/>cházku, <chord value="A"/>probereme život hezky ze všech <chord value="D"/>stran
+            <chord value="A"/>já budu hvězda jako na <chord value="D"/>obrázku <chord value="A"/>a vona se mnou pěkně <chord value="G"/>zamá<chord value="A"/>vá
+        </section>
+        <section name="®">
+            <chord value="A"/>Je totiž <chord value="D"/>náruži<chord value="A"/>vá a <chord value="G"/>nekouká co kolem <chord value="D"/>lítá
+            <chord value="D"/>život uží<chord value="A"/>vá, <chord value="G"/>tak jak to umí a <chord value="G"/>jak se jí to líbí.<chord value="A"/>Vo jiný věci už nemám zájem musím ji vidět ještě dnes
+            Vona bude moje cesta rájem a já budu její žlutej pes
+            Není to žádná laciná holka a kdyby chtěla nudit ani neví jak
+            já bych ji pořád jenom líbal, vona to vidí taky tak.
+        </section>
+        <section name="®">
+            Je totiž náruživá ... (2x)
+        </section>
+    </sections>
+</song>

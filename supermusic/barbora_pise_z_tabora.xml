@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Barbora Píše Z Tábora</title>
+    <artist>Zdeněk Svěrák</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=775656&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="D"/>Maminko, tatínku,
+            posílám vám <chord value="A"/>vzpomínku
+            z letního tábora.
+            Jistě víte, že vám píše Vaše
+            dcera <chord value="D"/>Barbora.
+        </section>
+        <section name="2">
+            Strava se nedá jíst,
+            dneska byl jen zelný list,
+            polívka studená,
+            co v ní plavou místo nudlí
+            číslice a písmena.
+        </section>
+        <section name="3">
+            Myslela jsem prostě,že
+            budou různé soutěže,
+            slibili bojovku,
+            pak jsme hráli vybíjenou,
+            na ovce a na schovku.
+        </section>
+        <section name="4">
+            Štefan,hlavní vedoucí,
+            chodí s naší vedoucí,
+            která je příšera.
+            Scházejí se, líbají se u totemu
+            za šera.
+        </section>
+        <section name="5">
+            Proč jsem se <chord value="Em"/>nenarodila<chord value="A7"/>
+            o pár let <chord value="D"/>dřív?<chord value="Hm"/>
+            Dneska bych <chord value="Em"/>krásně chodila<chord value="A7"/>
+            se Štefanem, co <chord value="D"/>řiká si Steve.<chord value="D7"/>
+        </section>
+        <section name="6">
+            Proč jste mě <chord value="Em"/>prostě neměli<chord value="A7"/>
+            o pár let <chord value="D"/>dříve?<chord value="Hm"/>
+            Řekla bych: <chord value="Em"/>Nebuď nesmělý,<chord value="A7"/>
+            líbej mě <chord value="D"/>Steve
+        </section>
+        <section name="7">
+            Závěrem dopisu
+            ještě trochu popisu:
+            ta bréca vedoucí
+            je tlustá jak dvě normální
+            oddílové vedoucí.
+        </section>
+        <section name="8">
+            Když běží po lese,
+            všechno na ní třese se.
+            Užívá make-upu,
+            co na ní ten Štefan vidí, to já
+            prostě nechápu.
+        </section>
+        <section name="9">
+            Proč jsem se <chord value="Em"/>nenarodila<chord value="A7"/>
+            o pár let <chord value="D"/>dřív?<chord value="Hm"/>
+            Dneska bych <chord value="Em"/>krásně chodila<chord value="A7"/>
+            se Štefanem, co <chord value="D"/>řiká si Steve.<chord value="D7"/>
+        </section>
+        <section name="10">
+            Proč jste mě <chord value="Em"/>prostě neměli<chord value="A7"/>
+            o pár let <chord value="D"/>dříve?<chord value="Hm"/>
+            Řekla bych: <chord value="Em"/>Nebuď nesmělý,<chord value="A7"/>
+            líbej mě <chord value="D"/>Steve
+        </section>
+        <section>
+            PS je tady ještě
+        </section>
+        <section name="11">
+            Pošlete dvě tři sta,
+            jsem bez peněz dočista.
+            Pojedem do Písku,
+            máme v plánu zastavit se v jitexovém středisku.
+        </section>
+        <section name="12">
+            Když jsme se koupali,
+            všichni na mě koukali.
+            Je to tím, že možná
+            v jednodílných plávkách už jsem
+            už jsem prostě nemožná.
+        </section>
+        <section name="13">
+            Proč jsem se <chord value="Em"/>nenarodila,<chord value="A7"/>
+            nenarodila <chord value="D"/>dřív?
+        </section>
+    </sections>
+</song>

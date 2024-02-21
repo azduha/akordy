@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Dívka ze severu</title>
+    <artist>Druhá Tráva</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=342080&sid=</url>
+    
+    <sections>
+        <section>
+            Dívka ze severu
+        </section>
+        <section>
+            <chord value="G"/> <chord value="Hmi"/> <chord value="C"/> <chord value="G"/> <chord value="Hmi"/> <chord value="C"/> <chord value="G"/>
+        </section>
+        <section name="1">
+            <chord value="G"/>Až půjdeš <chord value="Hmi"/>tam, kde <chord value="C"/>není skoro <chord value="G"/>nic,
+            kde <chord value="Hmi"/>]vítr, vždycky <chord value="C"/>samým sněhem <chord value="G"/>hrál.
+            Pozdra<chord value="Hmi"/>vuj, jednu <chord value="C"/>dívku u hra<chord value="G"/>nic,
+            kterou <chord value="Hmi"/>jsem, kdysi <chord value="C"/>hrozně milo<chord value="G"/>val.
+        </section>
+        <section name="2">
+            Až začnou, zuřit bouře na pláních
+            a řeky znehybní tvrdý led.
+            Doufám jen, že ji ochrání,
+            před vichřicí a zimou teplý pléd.
+        </section>
+        <section name="3">
+            Vlasy má doufám pořád vlnité
+            a dlouhé tak, že ji po pás splývají.
+            Vlasy má doufám pořád vlnité
+            ty mi ji nejvíc připomínají.
+        </section>
+        <section name="4">
+            Až půjdeš tam, kde není skoro nic,
+            kde vítr, vždycky samým sněhem hrál.
+            Pozdravuj, jednu dívku u hranic,
+            kterou jsem, kdysi hrozně miloval.
+        </section>
+    </sections>
+</song>

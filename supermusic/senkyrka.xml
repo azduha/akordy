@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Šenkýřka</title>
+    <artist>Jarda Hypochondr</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=18586&sid=</url>
+    
+    <sections>
+        <section name="Ref">
+            Dneska to <chord value="C"/>rozjedem na plný <chord value="F"/>pecky,
+            zpívat a <chord value="G"/>tancovat, prošoupem <chord value="C"/>kecky.
+            Skoč na stůl <chord value="C"/>šenkýřko, svlíkni se <chord value="F"/>do naha,
+            ať se nám <chord value="G"/>vokáže tvá kyprá <chord value="C"/>postava.
+        </section>
+        <section name="1">
+            <chord value="C"/>Stoupá mi to, stoupá,
+            konto na <chord value="F"/>lístku, huso hloupá,
+            natoč <chord value="G"/>pivo, navrch pěnu,
+            za tvý <chord value="F"/>tělo zvedám <chord value="G"/>cenu.
+        </section>
+        <section>
+            Ref…
+        </section>
+        <section name="M">
+            Aua<chord value="C"/>ú aua<chord value="F"/>ú
+            Aua<chord value="G"/>ú aua<chord value="C"/>ú
+        </section>
+        <section name="1">
+            Aua<chord value="C"/>ú aua<chord value="F"/>ú
+            Aua<chord value="G"/>ú aua<chord value="C"/>ú
+        </section>
+        <section name="2">
+            Přiraž, tak mi přiraž
+            za to pivo, za ten guláš,
+            zase dráždíš moje chutě,
+            rozlej prcky, lásko zvu tě.
+        </section>
+        <section name="Ref">
+            M.
+        </section>
+    </sections>
+</song>

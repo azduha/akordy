@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Morituri te salutant</title>
+    <artist>Karel Kryl</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=1677&sid=</url>
+    
+    <sections>
+        <section>
+            Cesta je <chord value="Ami"/>prach a <chord value="G"/>šterk a <chord value="Dmi"/>udusaná
+        </section>
+        <section>
+            <chord value="Ami"/>hlína <chord value="C"/>a šedé <chord value="F"/>šmrouhy <chord value="G7"/>kreslí do vla<chord value="C"/>sů
+        </section>
+        <section>
+            a z hvězdných <chord value="Dmi"/>drah má <chord value="G"/>šperk co <chord value="c"/>kamením
+        </section>
+        <section>
+            se <chord value="Emi"/>spína <chord value="Ami"/>a pírka <chord value="G"/>touhy
+        </section>
+        <section>
+            z <chord value="Emi"/>křídel pega<chord value="Ami"/>sů.
+        </section>
+        <section>
+            Cesta je bič, je zlá jak pouliční dáma, má
+        </section>
+        <section>
+            v ruce štítky a pase staniol, a z očí chvíč jí plá,
+        </section>
+        <section>
+            když háže do neznáma, dvě křehké snítky
+        </section>
+        <section>
+            rudých gladiol.
+        </section>
+        <section name="®">
+            <chord value="G"/>Seržante písek je bílý jak paže Daniely
+        </section>
+        <section>
+            <chord value="Ami"/>počkejte chvíli mé oči uviděli
+        </section>
+        <section>
+            <chord value="G"/>tu strašne dávnou vteřinu zapomnění
+        </section>
+        <section>
+            <chord value="Ami"/>Seržante mávnou <chord value="G7"/>a budem zasvěceni
+        </section>
+        <section>
+            <chord value="C"/>Morituri te salutant<chord value="E"/>, morituri te salutant ...
+        </section>
+        <section>
+            Tou cestou dál jsem šel, kde na zemi se zmítá
+        </section>
+        <section>
+            a písek víří křídla holubí a marš mi hrál
+        </section>
+        <section>
+            zvuk děl co uklidnění skrýtá,
+        </section>
+        <section>
+            a zvedá chmýři které zahubí.
+        </section>
+        <section>
+            Cesta je fér a prach a udusaná hlína
+        </section>
+        <section>
+            mosazná včelka od vlkodlaka
+        </section>
+        <section>
+            Rezavý kvér, můj prach a sto let stará špína
+        </section>
+        <section>
+            a děsně velká bíla oblaka.
+        </section>
+    </sections>
+</song>

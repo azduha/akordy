@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Přirození</title>
+    <artist>Harlej</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=63068&sid=</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="D"/>Byla jsi královnou všech, <chord value="A"/>tvý tělo bralo mi <chord value="Hmi"/>dech
+            a já byl šedivá <chord value="G"/>myš.
+            Ráno jsem před školou stál a jako blbec se smál,
+            myslel si že o mně víš.
+        </section>
+        <section name="2">
+            Psal jsem Ti verše v parku, šmíroval při těláku,
+            koukal Ti na kalhotky.
+            A tys mě neviděla, vo mě bys nevotřela
+            ani svý polobotky.
+        </section>
+        <section>
+            <chord value="A"/>A tak jsem všechno vzdal, pomstu Ti přísa<chord value="D"/>hal.
+        </section>
+        <section name="Ref">
+            <chord value="D"/>Na zeď jsem po setmě<chord value="A"/>ní, nakreslil přiroze<chord value="G"/>ní
+            a pod něj napsal pak, jméno <chord value="D"/>Tvý.
+            Nikdy se neusmě<chord value="A"/>ješ, nikdy mě neoce<chord value="G"/>níš
+            a pořád jako vůl stát, mě neba<chord value="D"/>ví
+        </section>
+        <section name="3">
+            A pak jsem Tvoje boky, neviděl dlouhý roky,
+            až včera na náměstí.
+            Pil jsem tam teplý pivo a koukal jak jde život
+            lidem co mají štěstí.
+        </section>
+        <section name="4">
+            Ty jsi šla naproti mě, bylo to jako v kině,
+            trémou jsem ztratil rozum.
+            Jenže Ty bez váhání, na místo přivítání
+            dalas mi dvacet korun.
+        </section>
+        <section>
+            Tak jsem ty prachy vzal, pomstu Ti přísahal.
+        </section>
+        <section name="Ref">
+            2x
+        </section>
+        <section>
+            A tak jsem všechno vzdal, pomstu Ti přísahal.
+        </section>
+        <section name="Ref">
+            2x
+        </section>
+        <section>
+            Tak jsem ty prachy vzal, pomstu Ti přísahal.
+        </section>
+    </sections>
+</song>

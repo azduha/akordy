@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Pažitka</title>
+    <artist>Xavier Baumaxa</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=96401&sid=</url>
+    
+    <sections>
+        <section>
+            <chord value="A"/><chord value="C#mi"/><chord value="Cmi"/><chord value="F#mi"/><chord value="E"/><chord value="D"/>
+        </section>
+        <section name="1">
+            Krajina <chord value="A"/>svádí k podzimním <chord value="C#mi"/>výletům,
+            tripům do <chord value="F#mi"/>mládí a častým <chord value="D"/>úletům.
+            Barevný listí je rázem pestřejší,
+            hlavu ti čistí, no a ty jsi bystřejší.
+        </section>
+        <section name="Ref">
+            : <chord value="A"/>Pašuješ zážitky, <chord value="E"/>pašuješ všechno co se <chord value="F#mi"/>dá,
+            sáčky suchý pažitky, <chord value="D"/>tomu se říká dobrá nálada.
+            Pašuješ zážitky, pašuješ všechno co se dá,
+            sáčky suchý pažitky, tomu se říká dobrá nálada.
+        </section>
+        <section name="2">
+            Hladina tůní pomalu vychladá,
+            je konec vůním a léto uvadá.
+            Na stehna fenek dopadl dlouhý stín,
+            skončil čas trenek, ale já zas něco vymyslím.
+        </section>
+        <section name="3">
+            Kochám se chcaje, překvapen výdrží,
+            té co mi ho saje a co mi podrží.
+            Malinký flíček na kalhotách vydržím,
+            kalhot dost maje, tyto poté vydražím.
+        </section>
+    </sections>
+</song>
