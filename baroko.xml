@@ -9,14 +9,14 @@
             <chord value="Dmi"/><chord value="C"/><chord value="Dmi"/><chord value="C"/>
             <chord value="Dmi"/>Schoulené holky <chord value="C"/>spí nahé
             <chord value="Dmi"/>u hrobu Tycha<chord value="C"/> de Brahe
-            <chord value="Gmi/B"/>z kamene oživlá svět<chord value="C"/>ice
+            <chord value="Gmi"/>z kamene oživlá svět<chord value="C"/>ice
             <chord value="Dmi"/>pozvedá monstranci <chord value="C"/>měsíce
         </section>
         <section name="R">
-            <chord value="F"/>Taková <chord value="C/E"/>zář je jen <chord value="Dmi"/>jedna<chord value="B"/>
-            <chord value="F"/>odtud až <chord value="C/E"/>do nedoh<chord value="Dmi"/>ledna<chord value="B"/>
-            <chord value="F"/>no a z něj <chord value="C/E"/>daleko <chord value="Dmi"/>široko<chord value="B"/>
-            <chord value="F"/>proudem se <chord value="C/E"/>rozlévá <chord value="Dmi"/>baroko<chord value="B"/>
+            <chord value="F"/>Taková <chord value="C"/>zář je jen <chord value="Dmi"/>jedna<chord value="B"/>
+            <chord value="F"/>odtud až <chord value="C"/>do nedoh<chord value="Dmi"/>ledna<chord value="B"/>
+            <chord value="F"/>no a z něj <chord value="C"/>daleko <chord value="Dmi"/>široko<chord value="B"/>
+            <chord value="F"/>proudem se <chord value="C"/>rozlévá <chord value="Dmi"/>baroko<chord value="B"/>
         </section>
         <section name="2">
             Andělé odhalte tváře
@@ -61,8 +61,6 @@
             Proč jsi tak vzdálené baroko? 2x
         </section>
         <section name="R">
-            <chord value="F"/>Na na na <chord value="C"/>ná ná ná <chord value="Dmi"/>na na ná <chord value="B"/>3x
-            <chord value="F"/>Na na na <chord value="C"/>náááá<chord value="Dmi"/><chord value="B"/><chord value="C"/><chord value="F"/>
         </section>
     </sections>
 </song>
