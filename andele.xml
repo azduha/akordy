@@ -6,16 +6,16 @@
     
     <sections>
         <section name="1">
-            <chord value="H"/>Co Tě to hne<chord value="C#mi"/>d po ránu <chord value="E"/>napad<chord value="E"/>á
-            <chord value="H"/>nohy, ruce, k<chord value="C#mi"/>omu je chceš <chord value="E"/>dát,
-            <chord value="H"/>je to v krvi c<chord value="C#mi"/>o Tvou hlavu <chord value="E"/>přepadá
-            <chord value="H"/>chtělas padnou<chord value="C#mi"/>t do hrobu a s<chord value="E"/>pát
+            <chord value="H"/>Co Tě to hned<chord value="C#mi"/> po ránu <chord value="E"/>napadá<chord value="E"/>
+            <chord value="H"/>nohy, ruce, <chord value="C#mi"/>komu je chceš <chord value="E"/>dát,
+            <chord value="H"/>je to v krvi <chord value="C#mi"/>co Tvou hlavu <chord value="E"/>přepadá
+            <chord value="H"/>chtělas padnout <chord value="C#mi"/>do hrobu a <chord value="E"/>spát
         </section>
         <section name="R">
-            Po<chord value="D"/>ranění an<chord value="A"/>dělé jdou do <chord value="G"/>polí
-            st<chord value="D"/>ěhovaví li<chord value="A"/>di ulí<chord value="G"/>taj,
-            pa<chord value="D"/>nenku bod<chord value="A"/>ni, jí to ne<chord value="G"/>bolí
-            sv<chord value="D"/>ět je mami pr<chord value="A"/>apodivnej k<chord value="G"/>raj
+            <chord value="D"/>Poranění <chord value="A"/>andělé jdou do <chord value="G"/>polí
+            <chord value="D"/>stěhovaví <chord value="A"/>lidi ulí<chord value="G"/>taj,
+            <chord value="D"/>panenku bod<chord value="A"/>ni, jí to ne<chord value="G"/>bolí
+            <chord value="D"/>svět je mami <chord value="A"/>prapodivnej k<chord value="G"/>raj
         </section>
         <section name="2">
             Po ránu princezna je ospalá
@@ -24,10 +24,6 @@
             polykač nálezů a ztrát.
         </section>
         <section name="R">
-            Po<chord value="D"/>ranění an<chord value="A"/>dělé jdou do <chord value="G"/>polí...
-        </section>
-        <section name="Sólo">
-            <chord value="2x"/><chord value="H,C#mi,E,E"/><chord value="4"/><chord value="x"/><chord value="D,A,G,G"/>
         </section>
         <section name="3">
             Co Tě zas po ránu napadá
@@ -36,7 +32,6 @@
             na kolenou lásce pomož vstát.
         </section>
         <section name="R">
-            Po<chord value="D"/>ranění an<chord value="A"/>dělé jdou do <chord value="G"/>polí...
         </section>
         <section name="End">
             Svět je mami dokonalej kraj.
