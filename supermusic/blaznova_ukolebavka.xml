@@ -7,25 +7,26 @@
     <sections>
         <section name="1">
             <chord value="D"/>Máš má ovečko<chord value="A"/> dávno spát
-            i<chord value="G"/> píseň ptáků<chord value="D"/> končí
-            kvůli nám přestal vítr vát jen můra zírá zvenčí
-            Já<chord value="A"/> znám její zášť tak<chord value="G"/> vyhledej skrýš
-            zas<chord value="A"/> má bílej plášť a<chord value="G"/> v okně je<chord value="A"/> mříž
+            i <chord value="G"/>píseň ptáků<chord value="D"/> končí.
+            Kvůli nám přestal vítr vát,
+            jen můra zírá zvenčí.
+            Já<chord value="A"/> znám její zášť tak<chord value="G"/> vyhledej skrýš.
+            Zas<chord value="A"/> má bílej plášť a<chord value="G"/> v okně je<chord value="A"/> mříž.
         </section>
         <section name="Ref">
             <chord value="D"/>Máš má ovečko<chord value="A"/> dávno spát
-            a<chord value="G"/> můžeš hřát ty mně<chord value="E"/> můžeš hřát
+            a<chord value="G"/> můžeš hřát ty mě<chord value="E"/> můžeš hřát.
             Vždyť<chord value="D"/> přijdou se<chord value="G"/> ptát,
             zítra zas<chord value="D"/> přijdou se<chord value="G"/> ptát
             jestli ty v<chord value="D"/> mých představách<chord value="G"/> už<chord value="D"/> mizíš
         </section>
         <section name="2">
-            Máš má ovečko dávno spát
-            dnes máme půlnoc temnou
-            Ráno budou nám bláznům lhát
-            že ráda snídaš se mnou
-            Proč měl bych jim lhát že jsem tady sám
-            kdzž tebě mám rád když tebě mám rád
+            Máš má ovečko dávno spát,
+            dnes máme půlnoc temnou.
+            Ráno budou nám bláznům lhát,
+            že ráda snídaš se mnou.
+            Proč měl bych jim lhát že jsem tady sám,
+            když tebě mám rád když tebe tu mám.
         </section>
     </sections>
 </song>
