@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
     <title>Cesta</title>
-    <artist>Kryštof</artist>
+    <artist>Kryštof + T. Klus</artist>
     <url>https://supermusic.cz/skupina.php?idpiesne=756828&sid=</url>
     
     <sections>
-        <section>
-            Cesta - Kryštof
-        </section>
-        <section>
-            Intro: <chord value="C"/> <chord value="G"/> <chord value="Ami"/> <chord value="F"/> <chord value="G"/>
         </section>
         <section name="1">
             Tou <chord value="C"/>cestou, tím směrem prý bych se <chord value="G"/>dávno měl dát.
@@ -17,9 +12,9 @@
             kus <chord value="F"/>něhy ti za nehty <chord value="G"/>slíbí a dají
         </section>
         <section name="2">
-            víc <chord value="C"/>síly se prát, na dně víc <chord value="G"/>dávat než brát.
-            A <chord value="Ami"/>i když se vleče a je schůdná jen v kleče,
-            donutí <chord value="F"/>přestat se zbytečně <chord value="G"/>ptát,
+            víc síly se prát, na dně víc dávat než brát.
+            A i když se vleče a je schůdná jen v kleče,
+            donutí přestat se zbytečně ptát,
         </section>
         <section name="R">
             jestli se <chord value="C"/>blížím k cíli, kolik <chord value="G"/>zbývá víry,
@@ -28,17 +23,17 @@
             co <chord value="Emi"/>řvou, že už mi doma neotev<chord value="F"/>řou... <chord value="G"/>
         </section>
         <section name="3">
-            Nebo jít s <chord value="C"/>proudem, na lusknutí prstů se <chord value="G"/>začít hned smát,
-            mít <chord value="Ami"/>svůj chodník slávy a před sebou davy
-            a přes <chord value="F"/>zkroucená záda být <chord value="G"/>součástí stáda
+            Nebo jít s proudem, na lusknutí prstů se začít hned smát,
+            mít svůj chodník slávy a před sebou davy
+            a přes zkroucená záda být součástí stáda
         </section>
         <section name="4">
-            ale <chord value="C"/>zpívat a hrát, kotníky <chord value="G"/>líbat, a stát.
-            Na <chord value="Ami"/>křídlech všech slavíků, a vlastně už ze zvyku
-            <chord value="F"/>přestat se zbytečně <chord value="G"/>ptát,
+            ale zpívat a hrát, kotníky líbat, a stát.
+            Na křídlech všech slavíků, a vlastně už ze zvyku
+            přestat se zbytečně ptát,
         </section>
         <section name="R">
-            jestli se <chord value="C"/>blížím k cíli... 2x
+            jestli se blížím k cíli... 2x
         </section>
     </sections>
 </song>
