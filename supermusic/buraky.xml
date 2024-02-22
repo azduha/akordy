@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
     <title>Buráky</title>
-    <artist>Country</artist>
+    <artist>Michal Tučný</artist>
     <url>https://supermusic.cz/skupina.php?idpiesne=464043&sid=</url>
     
     <sections>
@@ -18,22 +18,22 @@
             je lepší doma sedět a <chord value="D"/>louskat burá<chord value="G"/>ky.
         </section>
         <section name="2">
-            <chord value="G"/>Plukovník sedí v sedle, <chord value="C"/>volá: "Yankeeové <chord value="G"/>jdou!"
-            Ale mužstvo v trávě leží, prej <chord value="A"/>už dál nemo<chord value="D"/>hou.
-            <chord value="G"/>Pan plukovník se otočí a <chord value="C"/>koukne do dál<chord value="G"/>ky,
-            a vidí tu slavnou armádu, jak <chord value="D"/>louská burá<chord value="G"/>ky.
+            Plukovník je v sedle volá Yenkyové jdou,
+            mužstvo stále leží, prý dál už nemohou.
+            Plukovník se otočí a kouká do dálky
+            jeho slavná armáda teď loupá buráky.
         </section>
         <section name="Ref">
-            <chord value="G"/>Hej hou, hej hou...
+            Hej hou, hej hou...
         </section>
         <section name="3">
-            <chord value="G"/>Až tahle válka skončí a <chord value="C"/>jestli budem <chord value="G"/>žít,
-            své milenky a ženy pak <chord value="A"/>půjdem polí<chord value="D"/>bit.
-            <chord value="G"/>Když zeptají se: "Hrdino, cos' <chord value="C"/>dělal za vál<chord value="G"/>ky?"
-            "Jo, flákal jsem se s kvérem a <chord value="D"/>louskal burá<chord value="G"/>ky."
+            Až ta válka skončí a my zas budem žít,
+            svý milenky a ženy zas půjdem políbit.
+            Zeptají se : "Hrdino, cos dělal za války?"
+            Jó, flákal jsem se s kvérem a loupal buráky.
         </section>
         <section name="Ref">
-            <chord value="G"/>Hej hou, hej hou...
+            Hej hou, hej hou...
         </section>
     </sections>
 </song>
