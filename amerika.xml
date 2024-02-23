@@ -18,7 +18,7 @@
             Zbejvaj roky asi ne moc dlouhý
             Do vlasů mi zabrouk<chord value="C"/>ej... pa <chord value="D/F#"/>pa pa <chord value="G"/>pá
         </section>
-        <section name="R">
+        <section name="R:">
             <chord value="G"/>pa p<chord value="D/F#"/>a pa <chord value="Emi"/>pá, pá pa pa p<chord value="G"/>á jejé
             <chord value="G"/>pa p<chord value="D/F#"/>a pa <chord value="Emi"/>pá, pá pa pa p<chord value="G"/>á
         </section>
@@ -28,7 +28,7 @@
             Horkej vítr rozezní mý zvony
             Do vlasů ti zabroukám ... pá pa pá pá
         </section>
-        <section name="R">
+        <section name="R:">
         </section>
         <section name="5">
             Na obloze křídla tažnejch ptáků
@@ -42,7 +42,7 @@
             Poslední dny hodiny a roky
             Do vlasů ti zabroukám... pá pa pá pá
         </section>
-        <section name="R">
+        <section name="R:">
         </section>
     </sections>
 </song>
