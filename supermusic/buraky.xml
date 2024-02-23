@@ -11,7 +11,7 @@
             <chord value="G"/>A ve stínu u silnice vidíš <chord value="C"/>z Jihu vojá<chord value="G"/>ky,
             jak se tu válej' v trávě a <chord value="D"/>louskaj' burá<chord value="G"/>ky.
         </section>
-        <section name="Ref">
+        <section name="R:">
             <chord value="G"/>Hej hou, hej hou, nač <chord value="C"/>chodit do vál<chord value="G"/>ky,
             je lepší doma sedět a <chord value="A"/>louskat burá<chord value="D"/>ky.
             <chord value="G"/>Hej hou, hej hou, <chord value="C"/>nač chodit do vál<chord value="G"/>ky,
@@ -23,7 +23,7 @@
             Plukovník se otočí a kouká do dálky
             jeho slavná armáda teď loupá buráky.
         </section>
-        <section name="Ref">
+        <section name="R:">
             Hej hou, hej hou...
         </section>
         <section name="3">
@@ -32,7 +32,7 @@
             Zeptají se : "Hrdino, cos dělal za války?"
             Jó, flákal jsem se s kvérem a loupal buráky.
         </section>
-        <section name="Ref">
+        <section name="R:">
             Hej hou, hej hou...
         </section>
     </sections>
