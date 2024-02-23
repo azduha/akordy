@@ -19,8 +19,8 @@
             s citem pro věc jako vždycky
             vyrábím tu hradní záhadu , aúú.
         </section>
-        <section name="1">
-            ® <chord value="G"/>Má drahá dej mi víc, <chord value="H7"/>má drahá dej mi víc,
+        <section name="R:">
+            <chord value="G"/>Má drahá dej mi víc, <chord value="H7"/>má drahá dej mi víc,
             <chord value="Emi"/>má drahá <chord value="C"/>dej mi víc své <chord value="G"/>lásky, a<chord value="D7"/>úú
             <chord value="G"/>Ja nechci skoro nic, <chord value="H7"/>já nechci skoro nic,
             <chord value="Emi"/>já chci jen <chord value="C"/>pohladit tvé <chord value="G"/>vlásky, a<chord value="H7"/>úú
@@ -32,8 +32,7 @@
             tebe celou s tvými vlásky
             zamknu si na sedm západu , a<chord value="D7"/>ú
         </section>
-        <section>
-            ®
+        <section name="R:">
         </section>
     </sections>
 </song>
