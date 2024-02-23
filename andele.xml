@@ -11,7 +11,7 @@
             <chord value="H"/>je to v krvi <chord value="C#mi"/>co Tvou hlavu <chord value="E"/>přepadá
             <chord value="H"/>chtělas padnout <chord value="C#mi"/>do hrobu a <chord value="E"/>spát
         </section>
-        <section name="R">
+        <section name="R:">
             <chord value="D"/>Poranění <chord value="A"/>andělé jdou do <chord value="G"/>polí
             <chord value="D"/>stěhovaví <chord value="A"/>lidi ulí<chord value="G"/>taj,
             <chord value="D"/>panenku bod<chord value="A"/>ni, jí to ne<chord value="G"/>bolí
@@ -23,7 +23,7 @@
             V ulicích doba zlá ji spoutala
             polykač nálezů a ztrát.
         </section>
-        <section name="R">
+        <section name="R:">
         </section>
         <section name="3">
             Co Tě zas po ránu napadá
@@ -31,11 +31,11 @@
             miluju Tě, chci Tě to Ti přísahám,
             na kolenou lásce pomož vstát.
         </section>
-        <section name="R">
+        <section name="R:">
         </section>
         <section name="End">
             Svět je mami dokonalej kraj.
-            6x do ztracena
+            ... do ztracena
         </section>
     </sections>
 </song>
