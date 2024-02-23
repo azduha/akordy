@@ -12,7 +12,7 @@
             <chord value="Gmi"/>z kamene oživlá svět<chord value="C"/>ice
             <chord value="Dmi"/>pozvedá monstranci <chord value="C"/>měsíce
         </section>
-        <section name="R">
+        <section name="R:">
             <chord value="F"/>Taková <chord value="C"/>zář je jen <chord value="Dmi"/>jedna<chord value="B"/>
             <chord value="F"/>odtud až <chord value="C"/>do nedoh<chord value="Dmi"/>ledna<chord value="B"/>
             <chord value="F"/>no a z něj <chord value="C"/>daleko <chord value="Dmi"/>široko<chord value="B"/>
@@ -24,7 +24,7 @@
             Které jsem čekal a nepropás
             Důvěrně známý je každý z vás
         </section>
-        <section name="R">
+        <section name="R:">
             Jste-li tak důvěrní známí
             Pojďte a zpívejte s námi
             My dole, vy zase vysoko
@@ -36,7 +36,7 @@
             Která nám sežrala století
             Zpěnění hřebci se rozletí
         </section>
-        <section name="R">
+        <section name="R:">
             V tuto noc lámání kostí
             Chytrácké malověrnosti
             Sražme tu bestii hluboko
@@ -48,19 +48,17 @@
             <chord value="B"/>Komu dá svou hlavu <chord value="C"/>do klína
             <chord value="B"/>ryzáček svatého <chord value="C"/>Martina?
         </section>
-        <section name="R">
+        <section name="R:">
             Zem, která nemá své nebe
             Ztratila všechno, i sebe
             Zarůstá pastvou jen pro oko
             Proč jsi tak vzdálené - v perutích oděné - baroko?
         </section>
-        <section name="R">
+        <section name="R:">
             Zem, která nemá své nebe
             Ztratila všechno, i sebe
             Zarůstá pastvou jen pro oko
             Proč jsi tak vzdálené baroko? 2x
-        </section>
-        <section name="R">
         </section>
     </sections>
 </song>
