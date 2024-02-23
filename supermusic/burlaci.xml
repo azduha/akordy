@@ -24,7 +24,7 @@
             Proč jenom touhy po čase <chord value="H"/>vadnou?
             Otoč se a podívej.<chord value="G"/>
         </section>
-        <section name="3">
+        <section name="R:">
             Nebe je tem<chord value="D"/>ný a mnohem níž,<chord value="Em"/>
             jen vlků <chord value="C"/>dávnej chorál z hor,<chord value="G"/>
             a já tu <chord value="D"/>marně hledám skrýš,<chord value="Em"/>
@@ -43,7 +43,7 @@
             Jednou si každej až na dno sáhnem.
             Otoč se a podívej.
         </section>
-        <section name="5">
+        <section name="3xR:">
             Nebe je temný a mnohem níž,
             jen vlků dávnej chorál z hor,
             a já tu marně hledám skrýš,
@@ -52,25 +52,6 @@
             a každej dobrej skutek sílu vrací,
             no tak jen otoč se a podívej na lodě za tebou!
             Tak se mi zdá
-        </section>
-        <section name="6">
-            Nebe je temný a mnohem níž,
-            jen vlků dávnej chorál z hor,
-            a já tu marně hledám skrýš,
-            když cesta rovná se nám ztrácí,
-            lidi jsou andělé a nebo draci,
-            a každej dobrej skutek sílu vrací,
-            no tak jen otoč se a podívej na lodě za tebou!
-            Tak se mi zdá
-        </section>
-        <section name="7">
-            Nebe je temný a mnohem níž,
-            jen vlků dávnej chorál z hor,
-            a já tu marně hledám skrýš,
-            když cesta rovná se nám ztrácí,
-            lidi jsou andělé a nebo draci,
-            a každej dobrej skutek sílu vrací,
-            no tak jen otoč se a podívej na lodě za tebou!
         </section>
     </sections>
 </song>
