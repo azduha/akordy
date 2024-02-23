@@ -6,7 +6,7 @@
     
     <sections>
         <section>
-            / G / C / G / C /
+            / <chord value="G"/> / <chord value="C"/> / <chord value="G"/> / <chord value="C"/> /
         </section>
         <section name="instrumental">
         </section>
@@ -22,26 +22,26 @@
             <chord value="Ami7"/> která když umírala, tak mu řekla: <chord value="Hmi7"/>Františku,
             <chord value="Ami7"/> teď dobře poslouchej, co máš všechno <chord value="D"/>udělat.
         </section>
-        <section name="R">
+        <section name="R:">
             <chord value="C"/> Balabambam, balabambam.<chord value="/"/>..<chord value="C"/>...<chord value="/"/>..<chord value="C"/><chord value="D"/><chord value="C"/><chord value="/"/>
             <chord value="C"/> balabambam, balabambam.<chord value="/"/>..<chord value="C"/>...<chord value="/"/>.<chord value="C"/><chord value="D"/><chord value="C"/><chord value="/"/>
             <chord value="C"/> balabambam, balabambam.<chord value="/"/>..<chord value="C"/>...<chord value="/"/>.<chord value="C"/><chord value="D"/><chord value="C"/><chord value="/"/>
             <chord value="Ami7"/> a kolem rybníka nahusto nasázet <chord value="D"/>topoly.
         </section>
         <section name="3">
-            <chord value="G"/>František udělal všechno, co mu řek<chord value="C"/>la
-            <chord value="Emi7"/> a po snídani poslal děti <chord value="G"/>do školy,
-            <chord value="Ami7"/> žebřiňák s nářadím dotáhl od chalupy <chord value="Hmi7"/>k rybníku,
-            <chord value="Ami7"/> vykopal díry a zasadil <chord value="D"/>topoly.
+            František udělal všecko, co mu řekla: (Balabambam, balabambam)
+            A po snídani poslal děti do školy.
+            Žebřiňák s nářadím dotáhl od chalupy k rybníku.
+            Vykopal díry a zasadil topoly.
         </section>
         <section name="4">
-            <chord value="G"/>Od té doby vítr na hladinu nefou<chord value="C"/>ká,
-            <chord value="Emi7"/> takže je klidná jako velké <chord value="G"/>zrcadlo,
-            <chord value="Ami7"/> sluníčko tam svítí vždycky rá<chord value="Hmi7"/>do
-            <chord value="Ami7"/> protože v něm vidí Františkovu <chord value="D"/>babičku.
+            Od té doby vítr na hladinu nefouká.
+            Takže je klidná jako velké zrcadlo.
+            Sluníčko tam svítí vždycky rádo.
+            Protože v něm vidí Františkovu babičku.
         </section>
         <section>
-            / G / C / Emi7 / G / Ami7 / Hmi7 / Ami7/ D / G /
+            / <chord value="G"/> / <chord value="C"/> / <chord value="Emi7"/> / <chord value="G"/> / <chord value="Ami7"/> / <chord value="Hmi7"/> / <chord value="Ami7"/>/ <chord value="D"/> / <chord value="G"/> /
         </section>
     </sections>
 </song>
