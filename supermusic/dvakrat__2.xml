@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Dvakrát - 2</title>
+    <title>Dvakrát</title>
     <artist>Vlasta Redl</artist>
     <url>https://supermusic.cz/skupina.php?idpiesne=781937&sid=</url>
     
@@ -26,7 +26,7 @@
             Všechny si naráz dávají hádat z dlaně
             ta, co je nejblíž, vypadá odhodlaně
         </section>
-        <section name="Ref">
+        <section name="R:">
             :<chord value="G"/>A tak provlékám <chord value="G/F#"/>skrz to hlu<chord value="C/E"/>ché
             <chord value="A"/>velblouda i jehly u<chord value="D"/>chem
             To jsem <chord value="G"/>netušil <chord value="G/F#"/>že je to tak
@@ -47,7 +47,7 @@
             Ať ještě chvíli je všechno tak hezky sudé
             Ať se smím loudat pár kroků za osudem
         </section>
-        <section name="Ref">
+        <section name="R:">
             :A ona ať oči klopí
             Ať se v těch hlubinách neutopím
             Kéž bych tak neviděl a neslyšel
