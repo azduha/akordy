@@ -16,7 +16,7 @@
             A i když se vleče a je schůdná jen v kleče,
             donutí přestat se zbytečně ptát,
         </section>
-        <section name="R">
+        <section name="R:">
             jestli se <chord value="C"/>blížím k cíli, kolik <chord value="G"/>zbývá víry,
             kam <chord value="Emi"/>zvou svodidla, co po tmě mi <chord value="F"/>lžou? <chord value="G"/>
             Zda <chord value="C"/>couvám zpátky a <chord value="G"/>plýtvám řádky,
@@ -32,7 +32,7 @@
             Na křídlech všech slavíků, a vlastně už ze zvyku
             přestat se zbytečně ptát,
         </section>
-        <section name="R">
+        <section name="R:">
             jestli se blížím k cíli... 2x
         </section>
     </sections>
