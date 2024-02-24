@@ -15,7 +15,7 @@
             Na pláži Beach Boys čekají, banány z palem padají,
             na ranvej Boeing dosedá a slunce pálí, to se má.
         </section>
-        <section name="®">
+        <section name="R:">
             <chord value="E"/>Honolulu, <chord value="D"/>ukululu, <chord value="A"/>tohle mám rád,
             <chord value="E"/>whisku na ex, mu<chord value="D"/>latek sex si mů<chord value="A"/>žu přát,
             reagge, reagge, reagge, <chord value="E"/>Honolulu, <chord value="D"/>ukululu.<chord value="A"/>
@@ -26,11 +26,15 @@
             Černoch, co dělá zmrzlinu, zdarma ji dává každýmu,
             vše už je v ceně letenky, co neplatí pro manželky.
         </section>
+        <section name="R:">
+        </section>
         <section name="4">
             Všichni tu tančí reagge styl, ani jsem kolu nedopil,
             tři holky plavky stáhly mi, třely mě ňadry velkými.
             Tu náhle signál budíku, vytáh' mě z pláže rovníku,
             šalinou jako v hororu, jedu si zas pro podporu.
+        </section>
+        <section name="R:">
         </section>
     </sections>
 </song>
