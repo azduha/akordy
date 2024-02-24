@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Holubí dům - 100% správně</title>
+    <title>Holubí dům</title>
     <artist>Jiří Schelinger</artist>
     <url>https://supermusic.cz/skupina.php?idpiesne=591401&sid=</url>
     
@@ -17,7 +17,7 @@
             Ptáci krouží a neznají strach,
             měl jsem rád starý dům, jeho práh.
         </section>
-        <section name="Ref">
+        <section name="R:">
             : Hledám <chord value="Ami7"/>dům holu<chord value="D"/>bí,
             kdopak z <chord value="G"/>vás cestu <chord value="Emi"/>ví?
             Míval <chord value="C"/>stáj roube<chord value="D"/>nou,
@@ -38,12 +38,12 @@
             Můžeš mít třeba zrak sokolí,
             nespatříš ztracené údolí.
         </section>
-        <section name="Ref">
+        <section name="R:">
             : Hledám dům ...
         </section>
         <section name="3">
-            <chord value="Emi"/>Zpí<chord value="D"/>vám <chord value="Cmaj7"/>ptákům a <chord value="Hmi7"/>zvlášť holu<chord value="Emi"/>bům,
-            <chord value="Emi"/>stá<chord value="D"/>val v ú<chord value="Cmaj7"/>dolí <chord value="Hmi7"/>mém starý <chord value="Emi"/>dům.
+            Zpívám ptákům a zvlášť holubům.
+            Stával v údolí mém starý dům.
         </section>
     </sections>
 </song>
