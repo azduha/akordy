@@ -1,44 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
     <title>Ho ho Watanay</title>
-    <artist>Pavel Lohonka Žalman</artist>
+    <artist>Žalman</artist>
     <url>https://supermusic.cz/skupina.php?idpiesne=2080&sid=</url>
     
     <sections>
         <section>
-            <chord value="D"/>Spinkej můj maličký
-        </section>
-        <section>
-            <chord value="C"/>máš v očích <chord value="D"/>hvězdičky
-        </section>
-        <section>
+            <chord value="D"/>Spinkej můj maličký <chord value="C"/>máš v očích <chord value="D"/>hvězdičky
             dám ti je <chord value="C"/>do vlasů tak <chord value="G"/>usínej tak <chord value="D"/>usínej
         </section>
         <section>
-            [
-        </section>
-        <section>
             D]Ho ho Watanay <chord value="C"/>ho ho <chord value="D"/>Watanay
-        </section>
-        <section>
             ho ho <chord value="C"/>Watanay <chord value="G"/>kiokena <chord value="D"/>kiokena
         </section>
         <section>
             Sladkou vůňi nese ti noční motýl z paseky
-        </section>
-        <section>
             vánek ho políbá už usíná už usíná
         </section>
         <section>
             V lukách cosi zavoní rád jezdíš na koni
-        </section>
-        <section>
             má barvu havraní jak uhání jak uhání
         </section>
         <section>
             V dlani motýl usína hvězdička už zhasíná
-        </section>
-        <section>
             vánek co ji k tobě nes až do léta ti odlétá
         </section>
     </sections>
