@@ -9,15 +9,15 @@
             <chord value="|D|G|A|A|"/><chord value="2x"/>
         </section>
         <section name="1">
-            <chord value="D"/>Andělům o<chord value="G"/>trhalo ráno <chord value="A"/>křídla,
-            <chord value="D"/>a v koutech us<chord value="G"/>ínají moje s<chord value="A"/>ny.
-            <chord value="D"/>Za oknem dé<chord value="G"/>šť tiše zp<chord value="A"/>ívá,
-            <chord value="D"/>naše srdce j<chord value="G"/>sou vyh<chord value="A"/>aslý, zavírám oči
+            <chord value="D"/>Andělům <chord value="G"/>otrhalo ráno <chord value="A"/>křídla,
+            <chord value="D"/>a v koutech <chord value="G"/>usínají moje <chord value="A"/>sny.
+            <chord value="D"/>Za oknem <chord value="G"/>déšť tiše <chord value="A"/>zpívá,
+            <chord value="D"/>naše srdce <chord value="G"/>jsou vyha<chord value="A"/>slý, zavírám oči
         </section>
         <section name="R">
-            <chord value="D"/>Tu noc ho<chord value="G"/>řely padaly <chord value="A"/>hvězdy,
+            <chord value="D"/>Tu noc <chord value="G"/>hořely padaly <chord value="A"/>hvězdy,
             <chord value="D"/>Ty si se bála,<chord value="G"/> že nepřijde<chord value="A"/> den,
-            <chord value="D"/>já věděl, ž<chord value="G"/>e je to na<chord value="A"/>vždy, a Ty...
+            <chord value="D"/>já věděl, <chord value="G"/>že je to na<chord value="A"/>vždy, a Ty...
             <chord value="D"/>...že <chord value="G"/>vedle Tebe <chord value="A"/>jsem.
         </section>
         <section name="2">
@@ -35,10 +35,10 @@
         <section name="R">
         </section>
         <section name="Solo">
-            <chord value="|D|G|A|A|"/><chord value="4x"/>
+            <chord value="|D|G|A|A|"/>4x
         </section>
         <section name="R">
-            2x fade out
+            2x
         </section>
     </sections>
 </song>
