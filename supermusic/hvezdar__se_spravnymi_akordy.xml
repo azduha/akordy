@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
-    <title>Hvězdář - se správnými akordy</title>
-    <artist>Udg</artist>
+    <title>Hvězdář</title>
+    <artist>UDG</artist>
     <url>https://supermusic.cz/skupina.php?idpiesne=75513&sid=</url>
     
     <sections>
@@ -15,7 +15,7 @@
             Ve vínu dávno nic nehledám, (dávno nic) nehledám.
             Ve vínu dávno nic nehledám, (dávno nic) nehledám.
         </section>
-        <section name="Refren">
+        <section name="R:">
             Jak luna mizíš s nocí v bělostných šatech pro nemocné,
             prosit je zvláštní pocit, jen ať je den noc ne.
             Jak luna mizíš s nocí v bělostných šatech pro nemocné,
@@ -37,6 +37,8 @@
         <section name="5">
             Ve vínu dávno nic nehledám (dávno nic) nehledám.
             Ve vínu dávno nic nehledám (dávno nic) nehledám.
+        </section>
+        <section name="R:">
         </section>
         <section name="6">
             Obzor neklesne níž, je ráno a ty spíš.
