@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <song>
     <title>Hrobař</title>
-    <artist>Premiěr</artist>
+    <artist>Premiér</artist>
     <url>https://supermusic.cz/skupina.php?idpiesne=1658&sid=</url>
     
     <sections>
         <section name="1">
             V <chord value="G"/>mládí jsem se učil hrobařem
-            <chord value="emi"/>jezdit s hlínou, jezdit s trakařem
-            <chord value="C"/>kopat hroby byl můj ide<chord value="D7"/>ál <chord value="C, D7"/>
+            <chord value="Emi"/>jezdit s hlínou, jezdit s trakařem
+            <chord value="C"/>kopat hroby byl můj ide<chord value="D"/>ál
         </section>
         <section name="2">
-            Jezdit s hlínou, jezdit s vozíkem
-            s černou rakví, bílým pomníkem
+            Jezdit s hlínou, jezdit s vozíkem,
+            s černou rakví, bílým pomníkem,
             toho bych se nikdy nenadál.
         </section>
         <section name="3">
-            Že do módy příjde kremace
-            černej hrobař bude bez práce
+            Že do módy příjde kremace,
+            černej hrobař bude bez práce,
             toho bych se nikdy nenadál nenadál.
         </section>
         <section name="4">
-            Kolem projel vůz milionáře
+            Kolem projel vůz milionáře,
             záblesk světel pad mi do tváře,
             marně skřípěj kola brzdící.
         </section>
         <section name="5">
-            Stoupám vzhůru stoupám ke hvězdám
+            Stoupám vzhůru stoupám ke hvězdám,
             tam se s černou rakví neshledám,
             sbohem bílé město zářící.
         </section>
         <section name="6">
-            Sbohem moje mesto
-            vzpominat budu presto
+            Sbohem moje mesto,
+            vzpominat budu presto,
             jak jsem poznal tvůj smich a tvůj pláč Na na na .......
         </section>
     </sections>
