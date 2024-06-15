@@ -5,9 +5,6 @@
     <url>https://pisnicky-akordy.cz/traband/saro</url>
     
     <sections>
-        <section name="1">
-            <chord value="Ami"/><chord value="Emi"/><chord value="F"/><chord value="C"/>
-            <chord value="F"/><chord value="C"/><chord value="F"/><chord value="G"/>
         </section>
         <section name="R1">
             <chord value="Ami"/>Sáro, <chord value="Emi"/>Sáro, <chord value="F"/>v noci se mi <chord value="C"/>zdálo,
@@ -23,11 +20,7 @@
             Však <chord value="F"/>zbraně stále <chord value="C"/>burácí
             a <chord value="F"/>bitva zuří v <chord value="G"/>nich
         </section>
-        <section name="R2">
-            <chord value="Ami"/>Sáro, <chord value="Emi"/>Sáro, <chord value="F"/>v noci se mi <chord value="C"/>zdálo,
-            <chord value="F"/>že andělé k <chord value="C"/>nám <chord value="F"/>přišli na o<chord value="G"/>běd
-            <chord value="Ami"/>Sáro, <chord value="Emi"/>Sáro, jak <chord value="F"/>moc a nebo <chord value="C"/>málo
-            mi <chord value="F"/>chybí, abych <chord value="C"/>tvojí duši <chord value="F"/>mohl rozu<chord value="G"/>mět?
+        <section name="R1">
         </section>
         <section name="2">
             Vévoda v zámku čeká na balkóně
@@ -37,11 +30,7 @@
             Tak snadno poplést může
             sto urozených hlav
         </section>
-        <section name="R3">
-            <chord value="Ami"/>Sáro, <chord value="Emi"/>Sáro, <chord value="F"/>v noci se mi <chord value="C"/>zdálo,
-            že <chord value="F"/>tři poslové <chord value="C"/>Boží k nám <chord value="F"/>přišli na o<chord value="G"/>běd
-            <chord value="Ami"/>Sáro, <chord value="Emi"/>Sáro, jak <chord value="F"/>moc a nebo <chord value="C"/>málo
-            mi <chord value="F"/>chybí, abych <chord value="C"/>tvojí duši <chord value="F"/>mohl rozu<chord value="G"/>mět?
+        <section name="R1">
         </section>
         <section name="3">
             Královnin šašek s pusou od povidel
@@ -51,11 +40,7 @@
             už objevili jistě
             proti povinnosti lék
         </section>
-        <section name="R4">
-            <chord value="Ami"/>Sáro, <chord value="Emi"/>Sáro, <chord value="F"/>v noci se mi <chord value="C"/>zdálo,
-            <chord value="F"/>že andělé k <chord value="C"/>nám <chord value="F"/>přišli na o<chord value="G"/>běd
-            <chord value="Ami"/>Sáro, <chord value="Emi"/>Sáro, jak <chord value="F"/>moc a nebo <chord value="C"/>málo
-            ti <chord value="F"/>chybí abys <chord value="C"/>mojí duši <chord value="F"/>mohla rozu<chord value="G"/>mět?
+        <section name="R1">
         </section>
         <section name="4">
             Páv pod tvým oknem zpívá, sotva procit'
@@ -65,7 +50,7 @@
             teď hraju o tvé srdce
             a chci mít tě na dosah
         </section>
-        <section name="R5">
+        <section name="R2">
             Sáro, Sáro, pomalu a líně
             s hlavou na tvém klíně chci se probouzet
             Sáro, Sáro, Sáro, Sáro, rosa padá ráno
