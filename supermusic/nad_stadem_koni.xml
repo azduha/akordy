@@ -6,11 +6,8 @@
     
     <sections>
         <section name="1">
-            <chord value="D"/>Nad stádem <chord value="A4,A"/>koní
-            <chord value="Emi"/>podkovy <chord value="G"/>zvoní, zvoní[D
-            ]černý vůz <chord value="A"/>vlečou [Emi
-            ]a slzy <chord value="G"/>tečou
-            a já vo<chord value="D"/>lám:
+            <chord value="D"/>Nad stádem <chord value="A"/>koní <chord value="Emi"/>podkovy <chord value="G"/>zvoní, zvoní<chord value="D"/>
+            černý vůz <chord value="A"/>vlečou <chord value="Emi"/> a slzy <chord value="G"/>tečou a já vo<chord value="D"/>lám:
         </section>
         <section name="2">
             Tak neplač můj kamaráde
