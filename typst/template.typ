@@ -60,6 +60,13 @@
 
   set par(justify: false)
 
+  outline(target: heading.where(level: 1), title: [
+    Obsah
+    #v(0.5em)
+  ])
+
+  pagebreak()
+
   body
 }
 
