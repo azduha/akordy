@@ -15,7 +15,7 @@
             Ve vínu dávno nic nehledám, (dávno nic) nehledám.
             Ve vínu dávno nic nehledám, (dávno nic) nehledám.
         </section>
-        <section name="R:">
+        <section name="Ref">
             Jak luna mizíš s nocí v bělostných šatech pro nemocné,
             prosit je zvláštní pocit, jen ať je den noc ne.
             Jak luna mizíš s nocí v bělostných šatech pro nemocné,
@@ -25,7 +25,7 @@
             Od proseb dávno nic nečekám (dávno nic) nečekám.
             Od proseb dávno nic nečekám (dávno nic) nečekám.
         </section>
-        <section name="Mezihra">
+        <section>
             <chord value="D"/> <chord value="A"/> <chord value="Emi"/> <chord value="Cmaj7"/>
         </section>
         <section name="4">
@@ -38,7 +38,7 @@
             Ve vínu dávno nic nehledám (dávno nic) nehledám.
             Ve vínu dávno nic nehledám (dávno nic) nehledám.
         </section>
-        <section name="R:">
+        <section name="Ref">
         </section>
         <section name="6">
             Obzor neklesne níž, je ráno a ty spíš.

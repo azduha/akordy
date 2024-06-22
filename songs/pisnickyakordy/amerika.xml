@@ -5,7 +5,6 @@
     <url>https://pisnicky-akordy.cz/lucie/amerika</url>
     
     <sections>
-        </section>
         <section name="1">
             <chord value="G"/>Nandej mi <chord value="D"/>do hlavy tvý <chord value="Ami"/>brouky
             A Bůh nám seber bezna<chord value="G"/>děj
@@ -18,7 +17,7 @@
             Zbejvaj roky asi ne moc dlouhý
             Do vlasů mi zabrouk<chord value="C"/>ej... pa <chord value="D/F#"/>pa pa <chord value="G"/>pá
         </section>
-        <section name="R:">
+        <section name="Ref">
             <chord value="G"/>pa p<chord value="D/F#"/>a pa <chord value="Emi"/>pá, pá pa pa p<chord value="G"/>á jejé
             <chord value="G"/>pa p<chord value="D/F#"/>a pa <chord value="Emi"/>pá, pá pa pa p<chord value="G"/>á
         </section>
@@ -28,7 +27,7 @@
             Horkej vítr rozezní mý zvony
             Do vlasů ti zabroukám ... pá pa pá pá
         </section>
-        <section name="R:">
+        <section name="Ref">
         </section>
         <section name="5">
             Na obloze křídla tažnejch ptáků
@@ -42,7 +41,7 @@
             Poslední dny hodiny a roky
             Do vlasů ti zabroukám... pá pa pá pá
         </section>
-        <section name="R:">
+        <section name="Ref">
         </section>
     </sections>
 </song>

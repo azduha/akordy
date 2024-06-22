@@ -11,7 +11,7 @@
             Místo křídel nohy <chord value="Emi"/> mám,<chord value="A"/> v srdci naději a cíl <chord value="D"/>
             jen si marně vzpomínám <chord value="F#mi"/> <chord value="Emi"/> kde jsem s <chord value="A"/> tebou holka byl <chord value="D"/>
         </section>
-        <section name="R:">
+        <section name="Ref">
             To nám bylo sedmnáct <chord value="F#mi"/>, jen <chord value="Emi"/> sedmnáct <chord value="A"/> a půl roku <chord value="D"/>
             život tančil kolem nás <chord value="Emi"/> <chord value="A"/> a zdál se bez nároků <chord value="D"/>
         </section>
@@ -21,13 +21,13 @@
             Když se nebe usmívá to se mi jde mnohem líp,
             jen si člověk vzpomíná jak si přál svět obejít.
         </section>
-        <section name="R:">
+        <section name="Ref">
         </section>
         <section name="3">
             Časně ráno mrholí na dálnici číslo pět
             já mít křídla sokolí obletěl bych celej svět.
         </section>
-        <section name="R:">
+        <section name="Ref">
         </section>
     </sections>
 </song>

@@ -42,24 +42,25 @@
 #let chord(value) = {
   context({
     let res = query(selector(heading).before(here()))
-    box(width: 0em, height: 1.6em,
+
+    let lastHeading = res.at(-1)
+
+    let shift = 0pt
+
+    if (
+      lastHeading.level == 10 and
+      here().position().y == lastHeading.location().position().y
+    ) {
+      let lastX = lastHeading.location().position().x + measure(lastHeading).width + 0.5em
+      let currentX = here().position().x
+
+      shift = calc.max(0em.to-absolute(), (lastX - currentX).to-absolute())
+    }
+
+    box(width: shift, height: 1.6em,
       text(
         weight: "bold", size: 0.9em, {
           heading(level:10, {
-            let lastHeading = res.at(-1)
-
-            let shift = 0pt
-
-            if (
-              lastHeading.level == 10 and
-              here().position().y == lastHeading.location().position().y
-            ) {
-              let lastX = lastHeading.location().position().x + measure(lastHeading).width + 0.5em
-              let currentX = here().position().x
-
-              shift = calc.max(0em.to-absolute(), (lastX - currentX).to-absolute())
-            }
-
             table(
               columns: (shift, 20pt),
               gutter: 0pt,
@@ -178,7 +179,7 @@
             if ("tag" in child and child.tag == "chord") {
               chord(child.attrs.value)
             } else {
-              child.split("\n").map(row => row.trim()).join("\n")
+              child.split("\n").map(row => row.trim(regex("\s\s"))).join("\n")
             }
           })
 

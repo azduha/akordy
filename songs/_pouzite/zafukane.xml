@@ -5,12 +5,6 @@
     <url>https://supermusic.cz/skupina.php?idpiesne=168516</url>
     
     <sections>
-        <section>
-            ZAFÚKANÉ
-        </section>
-        <section>
-            <chord value="Ami"/> <chord value="A2"/> <chord value="Ami"/> <chord value="A2"/> <chord value="Ami"/> <chord value="A2"/> <chord value="Ami"/> <chord value="A2"/> <chord value="Ami"/> <chord value="A2"/> <chord value="Ami"/> <chord value="A2"/> <chord value="Ami"/> <chord value="A2"/> <chord value="Ami"/> <chord value="A2"/> <chord value="F"/> <chord value="F"/> <chord value="F"/> <chord value="F"/> <chord value="Ami"/> <chord value="A2"/> <chord value="Ami"/> <chord value="A2"/>
-        </section>
         <section name="1">
             <chord value="Ami"/> Větr sněh <chord value="A2"/> zanésl z <chord value="Ami"/> hor do <chord value="A2"/> polí,
             <chord value="Ami"/> já idu <chord value="C"/> přes kopce, <chord value="G"/> přes údolí <chord value="Ami"/> ,
@@ -18,7 +12,7 @@
             <chord value="F"/> cestičky sně <chord value="c"/> hem sú <chord value="E"/> zafúkané.<chord value="Ami"/> <chord value="F7maj"/> <chord value="Ami"/> <chord value="E4sus"/>
         </section>
         <section name="Ref">
-            : <chord value="Ami"/> Zafúkané<chord value="C"/> , <chord value="G"/> zafúkané <chord value="C"/>
+            <chord value="Ami"/> Zafúkané<chord value="C"/> , <chord value="G"/> zafúkané <chord value="C"/>
             <chord value="F"/> kolem mňa vše <chord value="C"/> cko je <chord value="Dmi"/> zafúkané <chord value="E"/>
             <chord value="Ami"/> Zafúkané <chord value="C"/> , <chord value="G"/> zafúkané <chord value="C"/> ,
             <chord value="F"/> kolem mňa <chord value=" C"/> fšecko je <chord value="E"/> zafúkané <chord value="Ami"/> <chord value="Emi"/> <chord value="D"/> <chord value="G"/> <chord value="H7"/> <chord value="Emi"/> <chord value="D"/> <chord value="G"/> <chord value="H7"/> <chord value="Emi"/>
@@ -29,7 +23,7 @@
             snáď enom pár kroků mi zostává,
             a budu u tvého okénka stát.
         </section>
-        <section name="R">
+        <section name="Ref">
             /: Ale zafúkané, zafúkané,
             okénko k tobě je zafúkané. :/
         </section>
@@ -39,13 +33,9 @@
             spadl sněh na srdce zatúlané,
             aj na mé stopy - sú zafúkané.
         </section>
-        <section name="R">
-            : /: Zafúkané, zafúkané,
+        <section name="Ref">
+            /: Zafúkané, zafúkané,
             mé stopy k tobě sú zafúkané. :/
-        </section>
-        <section name="4">
-            <chord value="Emi"/> <chord value="D"/> <chord value="G"/> <chord value="H7"/> <chord value="Emi"/> <chord value="D"/> <chord value="G"/> <chord value="H7"/> <chord value="Emi"/>
-            <chord value="Emi"/> <chord value="D"/> <chord value="G"/> <chord value="H7"/> <chord value="Emi"/> <chord value="D"/> <chord value="G"/> <chord value="Emi"/> <chord value="H7"/> <chord value="Emi"/> <chord value="D"/> <chord value="G"/> <chord value="H7"/> <chord value="Emi"/> <chord value="D"/> <chord value="G"/> <chord value="H7"/> <chord value="Emi"/> <chord value="Emi"/> <chord value="D"/> <chord value="Emi"/> <chord value="H7"/> <chord value="Emi"/> <chord value="D"/> <chord value="G"/> <chord value="H7"/> <chord value="Emi"/>
         </section>
     </sections>
 </song>

@@ -11,13 +11,13 @@
             <chord value="G"/>až jednou vyrosteš, <chord value="A7"/>budeš doktorem <chord value="D"/>práv.
             Takový doktor sedí pěkně v suchu,
             bere velký peníze a škrábe se v uchu,"
-            <chord value="G"/>já jim ale na to řek':"<chord value="A7"/>Chci být hlídačem <chord value="D"/>krav."
+            <chord value="G"/>já jim ale na to řek': "<chord value="A7"/>Chci být hlídačem <chord value="D"/>krav."
         </section>
-        <section name="R:">
+        <section name="Ref">
             Já chci <chord value="D"/>mít čapku s bambulí nahoře,
             jíst kaštany a mýt se v lavoře,
             <chord value="G"/>od rána po celý <chord value="A7"/>den zpívat si <chord value="D"/>jen,
-            zpívat si: pam pam pam<chord value="D"/>, <chord value="G"/>, <chord value="A7"/> ...
+            zpívat si: pam pam pam<chord value="D"/> ...<chord value="G"/><chord value="A7"/>
         </section>
         <section name="2">
             K vánocům mi kupovali hromady knih,
@@ -27,7 +27,7 @@
             každý na mě hleděl jako na pytel blech,
             každý se mě opatrně tázal na moje zdraví.
         </section>
-        <section name="R:">
+        <section name="Ref">
         </section>
         <section name="3">
             Dnes už jsem starší a vím, co vím,
@@ -37,9 +37,8 @@
             koukám nahoru na oblohu modravou,
             kde se mezi mraky honí moje strakaté krávy.
         </section>
-        <section name="R:">
-        </section>
-        <section name="R:">
+        <section name="Ref">
+            <chord value="D"/><chord value="G"/><chord value="A7"/><chord value="D"/>
             <chord value="E"/><chord value="A"/><chord value="H7"/><chord value="E"/>
             <chord value="F#"/><chord value="H"/><chord value="C7"/><chord value="F#"/>
             <chord value="G#"/><chord value="C#"/><chord value="D#7"/><chord value="G#"/>

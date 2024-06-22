@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Všech vandráků múza</title>
+    <artist>Pavel Lohonka Žalman</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=1718</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="G"/>Přišla k nám znenadání<chord value="Fmaj7"/> hubená až<chord value="G"/> hrůza a
+            <chord value="Fmaj7"/>řekla že je<chord value="G"/> múza <chord value="Fmaj7"/>všech vandráků <chord value="C"/>z Čech
+
+            To nebyl <chord value="G"/>hřích po nocích než <chord value="Fmaj7"/>po kytaře <chord value="G"/>sáhla
+            <chord value="Fmaj7"/>tak nám chleba <chord value="G"/>kradla a <chord value="Fmaj7"/>čmárala po <chord value="Emi"/>zdech
+        </section>
+        <section name="Ref">
+            <chord value="Emi"/>Ha<chord value="D"/>lle<chord value="G"/>luja <chord value="C"/>zavírá se <chord value="G"/>brána
+            my <chord value="C"/>zpívat chcem do <chord value="G"/>rána
+            <chord value="C"/>než napadá<chord value="G"/>sníh
+            Halleluja kteroupak si dáme
+            než skončíme s pánem na hřbitově obutých
+        </section>
+        <section name="2">
+            Na Moravě z demižónu dibré víno pila
+            tak mezi námi žila spousty hezkejch dní
+
+            Až jeden pán v limuzíně začal po ní toužit
+            budeš mi holka slúžit a oženil se s ní
+        </section>
+        <section name="Ref">
+            Halleluja zavírá se brána...
+        </section>
+        <section name="3">
+            Každou noc po milování skládala mu hity
+            a kašlala na city na obyčejnej lid
+
+            Za pár let tahle múza dneska služka
+            mici skončila na ulici a pod mostem má byt
+        </section>
+        <section name="Ref">
+            Halleluja zavírá se brána...
+        </section>
+        <section name="4">
+            Vraťte nám, vraťte nám tu všech vandráků múzu
+            Má roztrhanou blůzu ...
+        </section>
+    </sections>
+</song>

@@ -6,7 +6,7 @@
     
     <sections>
         <section>
-            <chord value="intro:"/><chord value="Dmi"/><chord value="Ami"/><chord value="E7"/><chord value="Ami,"/><chord value="Dmi"/><chord value="Ami"/><chord value="E7"/><chord value="Ami"/>
+            <chord value="Dmi"/><chord value="Ami"/><chord value="E7"/><chord value="Ami,"/><chord value="Dmi"/><chord value="Ami"/><chord value="E7"/><chord value="Ami"/>
         </section>
         <section name="1">
             N<chord value="Ami"/>ebe je modrý a zl<chord value="E7"/>atý, bílá sluneční <chord value="Ami"/>záře,
@@ -14,7 +14,7 @@
             vím, co se bude d<chord value="E7"/>ít, býk už se v ohradě <chord value="Ami"/>vzpíná,
             kdo chce, ten může <chord value="E7"/>jít, já si dám sklenici <chord value="Ami"/>vína.<chord value="A"/>
         </section>
-        <section name="R">
+        <section name="Ref">
             <chord value="Dmi"/>Žízeň je veliká, <chord value="Ami"/>život mi utíká,
             n<chord value="E7"/>echte mě příjemně <chord value="Ami"/>snít,
             <chord value="Dmi"/>ve stínu pod fíky,<chord value="Ami"/> poslouchat slavíky,
@@ -26,7 +26,7 @@
             <chord value="Ami"/>dobře vím, co znamená, <chord value="E7"/>pád do nástrah dívčího <chord value="Ami"/>klína,
             <chord value="Ami"/>někdo má pletky rád<chord value="E7"/>, já si dám sklenici ví<chord value="Ami"/>na.
         </section>
-        <section name="R">
+        <section name="Ref">
             Žízeň je veliká...
         </section>
         <section name="3">
@@ -35,10 +35,10 @@
             <chord value="Ami"/>zmoudřel jsem stranou od li<chord value="E7"/>dí, jsem jak ta zahrada <chord value="Ami"/>stinná,
             <chord value="Ami"/>kdo chce, ať mi závi<chord value="E7"/>dí, já si dám sklenici <chord value="Ami"/>vína.
         </section>
-        <section name="R">
+        <section name="Ref">
             Žízeň je veliká...
         </section>
-        <section name="R">
+        <section name="Ref">
             Žízeň je veliká...
         </section>
     </sections>

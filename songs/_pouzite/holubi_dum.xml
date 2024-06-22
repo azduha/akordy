@@ -17,8 +17,8 @@
             Ptáci krouží a neznají strach,
             měl jsem rád starý dům, jeho práh.
         </section>
-        <section name="R:">
-            : Hledám <chord value="Ami7"/>dům holu<chord value="D"/>bí,
+        <section name="Ref">
+            Hledám <chord value="Ami7"/>dům holu<chord value="D"/>bí,
             kdopak z <chord value="G"/>vás cestu <chord value="Emi"/>ví?
             Míval <chord value="C"/>stáj roube<chord value="D"/>nou,
             bílý <chord value="G"/>štít.
@@ -28,7 +28,7 @@
             pro ni <chord value="Emi"/>žít.<chord value="A"/><chord value="Emi"/>
         </section>
         <section name="2">
-            bláhový kdo hledá tenhle dům.
+            Bláhový kdo hledá tenhle dům.
             Odrůstáš chlapeckým střevícům,
             měl jsem rád holubích křídel šum.
         </section>
@@ -38,8 +38,8 @@
             Můžeš mít třeba zrak sokolí,
             nespatříš ztracené údolí.
         </section>
-        <section name="R:">
-            : Hledám dům ...
+        <section name="Ref">
+            Hledám dům ...
         </section>
         <section name="3">
             Zpívám ptákům a zvlášť holubům.
