@@ -2,37 +2,34 @@
 <song>
     <title>Ještě jedno kafe</title>
     <artist>Druhá Tráva</artist>
-    <url>https://supermusic.cz/skupina.php?idpiesne=593&sid=</url>
+    <url>https://supermusic.cz/skupina.php?idpiesne=593</url>
     
     <sections>
         <section name="1">
-            Druhá tráva
-            Ještě jedno kafe
-        </section>
-        <section name="2">
             Máš <chord value="Gmi"/>sladkej dech a oči, kterým <chord value="F"/>patří svatozář,
             a <chord value="Es"/>vlasy máš jak hedvábí, když je <chord value="D7"/>vhodíš na polštář,
             ale <chord value="Gmi"/>já se o tvou lásku ani <chord value="F"/>vděčnost neprosím,
             ty <chord value="Es"/>děkuješ jen hvězdám a jseš <chord value="D7"/>věrná jenom jim.
         </section>
-        <section name="3">
-            ®: <chord value="Es"/>Ještě jedno kafe bych si <chord value="D7"/>dal,
+        <section name="Ref">
+            <chord value="Es"/>Ještě jedno kafe bych si <chord value="D7"/>dal,
             <chord value="Es"/>ještě jedno kafe, kruci<chord value="D7"/>nál, než pojedu <chord value="Gmi"/>dál.
         </section>
-        <section name="4">
+        <section name="2">
             Tvůj táta, to je vandrák a od přírody zběh
             a místo písmen učí tě jen dorovnávat dech,
             a taky házet nožem a držet pospolu
-            a brada se mu třese, když se nosí ke stolu.&nbsp; ®:
+            a brada se mu třese, když se nosí ke stolu.
         </section>
-        <section name="5">
+        <section name="Ref">
+        </section>
+        <section name="3">
             Tvá sestra hádá z ruky a tvá máti jakbysmet
             a ty sama umíš všechno, co je mimo tenhle svět,
             a tvá rozkoš nezná hranic, děvče s hlasem skřivana.,
-            jen tvý srdce je jak moře - samý tajemství a tma.&nbsp; ®:
+            jen tvý srdce je jak moře - samý tajemství a tma.
         </section>
-        <section>
-            &nbsp;
+        <section name="Ref">
         </section>
     </sections>
 </song>

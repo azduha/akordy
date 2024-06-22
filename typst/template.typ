@@ -165,7 +165,10 @@
       artist: contents.artist,
       {
         contents.sections.map(section => {
-          let name = section.attrs.name
+          let name = ""
+          if ("name" in section.attrs) {
+            name = section.attrs.name
+          }
 
           let first = section.children.remove(0)
           first = first.slice(1)

@@ -2,7 +2,7 @@
 <song>
     <title>Hlídač krav</title>
     <artist>Jaromír Nohavica</artist>
-    <url>https://supermusic.cz/skupina.php?idpiesne=203698&sid=</url>
+    <url>https://supermusic.cz/skupina.php?idpiesne=203698</url>
     
     <sections>
         <section name="1">
@@ -39,9 +39,10 @@
         </section>
         <section name="R:">
         </section>
-        <section name="R: TRANSPOZICE">
-            <chord value="E"/>, <chord value="A"/>, <chord value="H7"/>, <chord value="E"/>
-            <chord value="F#"/>, <chord value="H"/>, <chord value="C7"/>, <chord value="F#"/>
-            <chord value="G#"/>, <chord value="C#"/>, <chord value="D#7"/>, <chord value="G#"/>
+        <section name="R:">
+            <chord value="E"/><chord value="A"/><chord value="H7"/><chord value="E"/>
+            <chord value="F#"/><chord value="H"/><chord value="C7"/><chord value="F#"/>
+            <chord value="G#"/><chord value="C#"/><chord value="D#7"/><chord value="G#"/>
+        </section>
     </sections>
 </song>
