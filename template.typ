@@ -242,23 +242,18 @@
     header: {
       place(top + right, dy: 4em, text(fill: rgb("#999") , weight: "bold", upper(title)))
     },
-    footer: {
-      align(center, [
-        --
-        #counter(page).display()
-        --
-      ])
-    }
+    numbering: "1"
   )
 
   set par(justify: false)
 
-  outline(target: heading.where(level: 1), title: [
-    Obsah
-    #v(0.5em)
-  ])
-
   context({
+    outline(target: heading.where(level: 1), title: [
+      Obsah
+      #v(0.5em)
+    ])
+
+
     let remPages = calc.rem(here().page() - 1, 4)
     remPages = 2 - remPages
 
@@ -284,6 +279,7 @@
       sections: find-child(xml, "sections").children.filter(e => "tag" in e and e.tag == "section")
     )
   }).sorted(key: object => { object.noDiacriticsTitle }).map(contents => {
+    pagebreak()
     song(
       title: contents.title,
       artist: contents.artist,
@@ -313,23 +309,6 @@
   })
 
   for s in songs {
-    pagebreak()
     s
   }
-
-  // set page(
-  //   header: {},
-  //   footer: {}
-  // )
-
-  // pagebreak()
-
-  // context({
-  //   let remPages = calc.rem(here().page(), 4)
-  //   remPages = 4 - remPages
-
-  //   for i in range(0, remPages) {
-  //     pagebreak()
-  //   }
-  // })
 }
