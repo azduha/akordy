@@ -23,7 +23,8 @@
   body,
 ) = {
   table(
-    columns: (8%, 92%),
+    columns: (7%, 93%),
+    inset: 0em,
     align: top,
     stroke: none,
     text(name, weight: "bold"), {
@@ -37,6 +38,7 @@
       }
     }
   )
+  v(0.7em)
 }
 
 #let chord(value) = {
@@ -144,7 +146,6 @@
     #v(0.5em)
   ])
 
-  pagebreak()
 
   let find-child(elem, tag) = {
     elem.children
@@ -190,7 +191,7 @@
   })
 
   for s in songs {
-    s
     pagebreak()
+    s
   }
 }
