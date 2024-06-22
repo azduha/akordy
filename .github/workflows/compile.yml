@@ -19,7 +19,7 @@ jobs:
         uses: lvignoli/typst-action@main
         with:
           source_file: |
-            typst/zpevnik.typ
+            zpevnik.typ
 
       - name: Upload PDF file
         uses: actions/upload-artifact@v3

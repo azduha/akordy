@@ -1,0 +1,35 @@
+#import "template.typ": *
+
+#songbook(
+  title:"Duhový Zpěvník",
+  subtitle: "2024",
+  author: "Duha AZ",
+  songs: (
+    "songs/_pouzite/andel.xml",
+    "songs/_pouzite/baroko.xml",
+    "songs/_pouzite/batalion.xml",
+    "songs/_pouzite/bedna_vod_whisky.xml",
+    "songs/_pouzite/blaznova_ukolebavka.xml",
+    "songs/_pouzite/carodejnice_z_amesbury.xml",
+    "songs/_pouzite/dej_mi_vic_sve_lasky.xml",
+    "songs/_pouzite/dokud_sa_zpiva.xml",
+    "songs/_pouzite/hlidac_krav.xml",
+    "songs/_pouzite/ho_ho_watanay.xml",
+    "songs/_pouzite/holubi_dum.xml",
+    "songs/_pouzite/hvezdar.xml",
+    "songs/_pouzite/jeste_jedno_kafe.xml",
+    "songs/_pouzite/kozel.xml",
+    "songs/_pouzite/lokomotiva.xml",
+    "songs/_pouzite/magdalena.xml",
+    "songs/_pouzite/maracaibo.xml",
+    "songs/_pouzite/morituri_te_salutant.xml",
+    "songs/_pouzite/nad_stadem_koni.xml",
+    "songs/_pouzite/rada_se_miluje.xml",
+    "songs/_pouzite/saro.xml",
+    "songs/_pouzite/severni_vitr.xml",
+    "songs/_pouzite/slavici_z_madridu.xml",
+    "songs/_pouzite/tri_krize.xml",
+    "songs/_pouzite/vsech_vandraku_muza.xml",
+    "songs/_pouzite/zafukane.xml",
+  )
+)
