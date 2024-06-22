@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Proměny</title>
+    <artist>Čechomor</artist>
+    <url>https://pisnicky-akordy.cz/cechomor/promeny</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="Ami"/>Darmo sa ty trápíš <chord value="G"/>můj milý sy<chord value="C"/>nečku nenosím ja tebe <chord value="E"/>nenosím v sr<chord value="Ami"/>déčku
+            A já tvo<chord value="G"/>ja <chord value="C"/>ne <chord value="G"/>bu <chord value="C"/>du <chord value="Dmi"/>ani jednu <chord value="E"/>hodi<chord value="Ami"/>nu
+        </section>
+        <section name="2">
+            <chord value="Ami"/>Copak sobě myslíš <chord value="G"/>má milá p<chord value="C"/>anenko vždyť ty si to moje <chord value="E"/>rozmilé sr<chord value="Ami"/>dénko
+            A ty mus<chord value="G"/>íš <chord value="C"/>bý<chord value="G"/>ti <chord value="C"/>má <chord value="Dmi"/>lebo mi tě <chord value="E"/>Pán Bůh <chord value="Ami"/>dá
+        </section>
+        <section name="3">
+            <chord value="Ami"/>A já sa udělám <chord value="G"/>malú veve<chord value="C"/>rečkú a uskočím tobě <chord value="E"/>z dubu na jed<chord value="Ami"/>ličku
+            Přece tvoj<chord value="G"/>a <chord value="C"/>ne<chord value="G"/>bu<chord value="C"/>du <chord value="Dmi"/>ani jednu <chord value="E"/>hodi<chord value="Ami"/>nu
+        </section>
+        <section name="4">
+            <chord value="Ami"/>A já chovám doma <chord value="G"/>takú seké<chord value="C"/>rečku ona mi podetne <chord value="E"/>dúbek i jedl<chord value="Ami"/>ičku
+            A ty musí<chord value="G"/>š <chord value="C"/>bý<chord value="G"/>ti <chord value="C"/>má <chord value="Dmi"/>lebo mi tě <chord value="E"/>Pán Bůh <chord value="Ami"/>dá
+        </section>
+        <section name="5">
+            <chord value="Ami"/>A já sa udělám <chord value="G"/>tú malú ry<chord value="C"/>bičkú a já ti uplynu <chord value="E"/>preč po Duna<chord value="Ami"/>jíčku
+            Přece tvoj<chord value="G"/>a <chord value="C"/>ne<chord value="G"/>bu<chord value="C"/>du <chord value="Dmi"/>ani jednu <chord value="E"/>hodi<chord value="Ami"/>nu
+        </section>
+        <section name="6">
+            <chord value="Ami"/>A já chovám doma <chord value="G"/>takovú ud<chord value="C"/>ičku co na ni ulovím <chord value="E"/>kdejakú ry<chord value="Ami"/>bičku
+            A ty pře<chord value="G"/>ce <chord value="C"/>bud<chord value="G"/>eš <chord value="C"/>má <chord value="Dmi"/>lebo mi tě <chord value="E"/>Pán Bůh <chord value="Ami"/>dá
+        </section>
+        <section name="7">
+            <chord value="Ami"/>A já sa udělám <chord value="G"/>tú velikú <chord value="C"/>vranú a já ti uletím <chord value="E"/>na uherskú <chord value="Ami"/>stranu
+            Přece tvo<chord value="G"/>ja <chord value="C"/>ne<chord value="G"/>bu<chord value="C"/>du <chord value="Dmi"/>ani jednu <chord value="E"/>hodi<chord value="Ami"/>nu
+        </section>
+        <section name="8">
+            <chord value="Ami"/>A já chovám doma <chord value="G"/>starodávnú <chord value="C"/>kušu co ona vystřelí <chord value="E"/>všeckým vranám <chord value="Ami"/>dušu
+            A ty mus<chord value="G"/>íš <chord value="C"/>být<chord value="G"/>i <chord value="C"/>má <chord value="Dmi"/>lebo mi tě <chord value="E"/>Pán Bůh <chord value="Ami"/>dá
+        </section>
+        <section name="9">
+            <chord value="Ami"/>A já sa udělám <chord value="G"/>hvězdičkú na <chord value="C"/>nebi a já budu lidem <chord value="E"/>svítiti na <chord value="Ami"/>zemi
+            Přece tvo<chord value="G"/>ja <chord value="C"/>ne<chord value="G"/>bu<chord value="C"/>du <chord value="Dmi"/>ani jednu <chord value="E"/>hodi<chord value="Ami"/>nu
+        </section>
+        <section name="10">
+            <chord value="Ami"/> A sú u nás doma<chord value="G"/> takoví hvě<chord value="C"/>zdáři co vypočítajú <chord value="E"/>hvězdičky na <chord value="Ami"/>nebi
+            /: <chord value="Ami"/>A ty mus<chord value="G"/>íš <chord value="C"/>bý<chord value="G"/>ti <chord value="C"/>má <chord value="Dmi"/>lebo mi tě <chord value="E"/>Pán Bůh :/ <chord value="Ami"/>dá
+        </section>
+    </sections>
+</song>

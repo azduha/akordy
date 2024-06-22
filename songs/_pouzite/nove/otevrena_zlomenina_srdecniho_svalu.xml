@@ -9,8 +9,7 @@
             Jsem jako <chord value="G"/>vítr kterej zfoukne pírko ze tvejch dlaní,
             <chord value="D"/>špínu jedný noci, jako hygiena ranní
             <chord value="Ami"/>velká voda slzí, který spláchnou noční hříchy,
-            C Es
-            tamburíny zvoní k operaci míchy
+            <chord value="C"/>tamburíny zvoní k <chord value="Es"/>operaci míchy
         </section>
         <section name="2">
             Narovnám ti páteř, poškrábu ti záda,
@@ -18,7 +17,7 @@
             lásky účel světí prostředky a smetí,
             špínu jedný noci, který neuletíš...
         </section>
-        <section name="3">
+        <section name="*">
             Otevřená zlomenina srdečního svalu,
             trápení a kocovina, vůně tvýho žalu
             vypustíš svou hříšnou duši do slanýho moře,
@@ -42,14 +41,10 @@
             Tvůj pramínek vlasů zaliju včelím voskem,
             koukám na tu krásu a nechápu to mozkem
             <chord value="Ami"/>to, co jsi mi dala, já <chord value="Ami"/>nikomu už nedám,
-            C Es
-            tak mi řekni, má opičko, proč tě marně hledám
+            <chord value="C"/>tak mi řekni, má opičko, <chord value="Es"/>proč tě marně hledám
         </section>
-        <section name="6">
-            Otevřená zlomenina srdečního svalu,
-            trápení a kocovina, vůně tvýho žalu
-            vypustíš svou hříšnou duši do slanýno moře,
-            neumírej děvče moje, chci ti říct, že
+        <section name="*">
+            Otevřená zlomenina srdečního svalu...
         </section>
         <section name="Ref">
             Ohořelou károu...

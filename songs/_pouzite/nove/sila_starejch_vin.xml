@@ -6,19 +6,16 @@
     
     <sections>
         <section name="1">
-            <chord value="C,"/><chord value="G,"/><chord value="Ami,"/><chord value="F,"/><chord value="Ami,"/><chord value="F,"/><chord value="Ami,"/><chord value="G,"/><chord value="C"/>
-            <chord value="Ami"/>Podle nepsanejch z<chord value="F"/>ákonů hledáme n<chord value="G"/>ěco,
-        </section>
-        <section name="2">
-            co nám nejspíš schází
+            <chord value="Ami"/>Podle nepsanejch z<chord value="F"/>ákonů hledáme
+            n<chord value="G"/>ěco, co nám nejspíš schází
             <chord value="Ami"/>Podle prastarejch <chord value="F"/>pudů,
             který nás <chord value="G"/>nutěj furt za něčim jít
             <chord value="Ami"/>Do stejný řeky nikdy <chord value="F"/>nevstoupíš,
             klacky s<chord value="G"/>ám sobě pod nohy házíš
             <chord value="Ami"/>Cos chtěl, máš, stejně d<chord value="F"/>ojdeš k <chord value="G"/>poznání
         </section>
-        <section name="3">
-            <chord value="R|:"/>Že věci něk<chord value="C"/>terý jsou <chord value="G"/>neměnný, jak <chord value="Ami"/>síla starejch <chord value="F"/>vín
+        <section name="Ref">
+            Že věci něk<chord value="C"/>terý jsou <chord value="G"/>neměnný, jak <chord value="Ami"/>síla starejch <chord value="F"/>vín
             A někdy je<chord value="Ami"/> tma kolem <chord value="F"/>nás
             To když <chord value="Ami"/>zrovna nejsme <chord value="G"/>stálí
             Najednou bl<chord value="C"/>ízký jsou si vzd<chord value="G"/>álený
@@ -26,7 +23,7 @@
             Tak na chvílí<chord value="Ami"/> stůj, vz<chord value="F"/>pomínej
             No a<chord value="Ami"/> přiznej, taky jsme se b<chord value="G"/>áli, co bude d<chord value="C"/>ál
         </section>
-        <section name="4">
+        <section name="2">
             Každej ctí asi jinej zákon a kdo ví,
             co nám odvahu dává
             Každej má asi jinej kód a ty sám zřejmě všechno víš líp
@@ -34,8 +31,7 @@
             taky to nebude velká sláva
             Cos chtěl máš, stejně dojdeš k poznání
         </section>
-        <section name="R">
-            2X
+        <section name="Ref 2×">
         </section>
     </sections>
 </song>

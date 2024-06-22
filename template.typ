@@ -223,7 +223,7 @@
       align(center, text(size: 4em, weight: "bold", upper(title)))
       v(-2em)
       align(center, text(size: 3em, weight: "bold", upper(subtitle)))
-      v(18em)
+      v(16em)
       align(left, image(fit: "contain", width: 200%, height: 6em, "media/titlebar.png"))
     })
   )
@@ -233,7 +233,7 @@
   // Set styles
   set page(
     margin: (
-      top: 2cm,
+      top: 2.5cm,
       bottom: 2cm,
       left: 2cm,
       right: 2cm
@@ -247,67 +247,69 @@
 
   set par(justify: false)
 
-  context({
-    outline(target: heading.where(level: 1), title: [
-      Obsah
-      #v(0.5em)
-    ])
+  v(-0.5em)
+  
+  outline(target: heading.where(level: 1), title: [
+    Obsah
+    #v(0.5em)
+  ])
+
+  set page(
+    margin: (
+      top: 2cm,
+      bottom: 2cm,
+      left: 2cm,
+      right: 2cm
+    )
+  )
 
 
-    let remPages = calc.rem(here().page() - 1, 4)
-    remPages = 2 - remPages
+  let find-child(elem, tag) = {
+    elem.children
+      .find(e => "tag" in e and e.tag == tag)
+  }
 
-    for i in range(0, remPages) {
-      pagebreak()
-    }
+  // Load songs and render them.
+  let songs = songs.map(file => {
+    xml(file).first()
+  }).map(xml => {
+    (
+      title: find-child(xml, "title").children.first(),
+      noDiacriticsTitle: removeDiacritics(find-child(xml, "title").children.first()),
+      artist: find-child(xml, "artist").children.first(),
+      sections: find-child(xml, "sections").children.filter(e => "tag" in e and e.tag == "section")
+    )
+  }).sorted(key: object => { object.noDiacriticsTitle }).map(contents => {
+    pagebreak()
+    song(
+      title: contents.title,
+      artist: contents.artist,
+      {
+        contents.sections.map(section => {
+          let name = ""
+          if ("name" in section.attrs) {
+            name = section.attrs.name
+          }
 
-    let find-child(elem, tag) = {
-      elem.children
-        .find(e => "tag" in e and e.tag == tag)
-    }
+          let first = section.children.remove(0)
+          first = first.slice(1)
+          section.children.insert(0, first)
 
-    // Load songs and render them.
-    let songs = songs.map(file => {
-      xml(file).first()
-    }).map(xml => {
-      (
-        title: find-child(xml, "title").children.first(),
-        noDiacriticsTitle: removeDiacritics(find-child(xml, "title").children.first()),
-        artist: find-child(xml, "artist").children.first(),
-        sections: find-child(xml, "sections").children.filter(e => "tag" in e and e.tag == "section")
-      )
-    }).sorted(key: object => { object.noDiacriticsTitle }).map(contents => {
-      pagebreak()
-      song(
-        title: contents.title,
-        artist: contents.artist,
-        {
-          contents.sections.map(section => {
-            let name = ""
-            if ("name" in section.attrs) {
-              name = section.attrs.name
+          let body = section.children.map(child => {
+            if ("tag" in child and child.tag == "chord") {
+              chord(child.attrs.value)
+            } else {
+              child.split("\n").map(row => row.trim(regex("\s\s"))).join("\n")
             }
-
-            let first = section.children.remove(0)
-            first = first.slice(1)
-            section.children.insert(0, first)
-
-            let body = section.children.map(child => {
-              if ("tag" in child and child.tag == "chord") {
-                chord(child.attrs.value)
-              } else {
-                child.split("\n").map(row => row.trim(regex("\s\s"))).join("\n")
-              }
-            })
-
-            songSection(name: name, body)
           })
-        }
-      )
-    })
 
-    for s in songs {
-      s
-    }
+          songSection(name: name, body)
+        })
+      }
+    )
   })
+
+  for s in songs {
+    s
+  }
 }

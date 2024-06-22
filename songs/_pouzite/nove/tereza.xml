@@ -11,7 +11,7 @@
             že <chord value="C"/>asfaltový <chord value="D"/>moře odliv <chord value="G"/>má
             a <chord value="C"/>stáj, že svýho <chord value="D"/>koně <chord value="E7"/>nepozná.
         </section>
-        <section name="®">
+        <section name="Ref">
             <chord value="G"/>Řekni kolik je na světě kolik je takovejch <chord value="D"/>měst
             řekni <chord value="Ami"/>kdo by se vracel všude je tisíce <chord value="Emi"/>cest.
             Tenkrát <chord value="G"/>když jsi mi Terezo řekla že ráda mě <chord value="D"/>máš
@@ -24,17 +24,23 @@
             Proč vítr mlátí spoustou okenic?
             Proč jsou v ulici auta, jinak nic?
         </section>
+        <section name="Ref">
+        </section>
         <section name="3">
             Do prázdnejch beden zotvíranejch aut
             zaznívá odněkud něžný tón Flaut
             a v závěji starýho papíru
             válej se černý klapky z klavírů.
         </section>
+        <section name="Ref">
+        </section>
         <section name="4">
             Tak loudám se tím hrozným městem sám
             a vím že Terezu už nepotkám.
             Jen já tu zůstal s prázdnou ulicí
             a vosamělý město mlčící.
+        </section>
+        <section name="Ref">
         </section>
     </sections>
 </song>

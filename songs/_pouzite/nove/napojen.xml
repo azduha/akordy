@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Napojen</title>
+    <artist>Tomáš Klus</artist>
+    <url>https://pisnicky-akordy.cz/tomas-klus/napojen</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="E"/>Vzpomeň, jak's očima dítě<chord value="A"/>te <chord value="E"/>hleděl na letící ptá<chord value="H"/>ky,
+            <chord value="E"/>jak krásné bylo být na svě<chord value="A"/>tě <chord value="E"/>s vědomím, že umíš to <chord value="H"/>taky.
+            <chord value="F#"/>Dnes už nelétáš, neboť <chord value="A"/>okolí <chord value="F#"/>zmátlo Tě strachem, že pády <chord value="A"/>bolí.
+        </section>
+        <section name="2">
+            Zastav se, čas nikam nespěchá, jen rozum nutí ho k běhu.
+            věř však Ty, synu člověka, že's nedílná součást příběhu.
+            Ty jsi já, jako já Tebou jsem, společná je nám planeta Zem.
+        </section>
+        <section name="Ref">
+            <chord value="E"/>Ničeho nelituj, <chord value="A"/>Život, co máš, je Tvůj,
+            <chord value="E"/>žij a měj rád, co <chord value="H"/>je.
+            <chord value="E"/>Nechť srdce se rozbijí <chord value="A"/>láskou, tak přijmi ji.
+            <chord value="E"/>cítíš, jak jsi napoj<chord value="H"/>en,
+            jak jsi <chord value="E"/>napoj<chord value="A"/>en.
+            Přes všechny <chord value="E"/>pochyby život je <chord value="H"/>krásný.
+            Jsi <chord value="E"/>napoje<chord value="A"/>n
+            a svět je Tvá <chord value="E"/>továrna na <chord value="H"/>sny.
+            
+            <chord value="E"/><chord value="A"/><chord value="E"/><chord value="H"/><chord value="E"/><chord value="A"/><chord value="E"/><chord value="H"/>
+        </section>
+        <section name="3">
+            Nebe až najde jas ve vodní hladině, až měsíc opře se o břeh
+            a padne hvězda, zkus si přát jediné, to aby dopadla dobře.
+            Ztiš se a poprvé k sobě se obrať, bez zbraní a krve porazíš obra.
+        </section>
+        <section name="4">
+            Obra, co založil duhy stín, když před léty zotročil Zem.
+            A člověka Bůh ví proč znejistil v otázce, kdo vlastně jsem.
+            Poznej, že být je jednoduché, ucítíš klid, že vše jedno je duchem.
+        </section>
+        <section name="Ref">
+        </section>
+    </sections>
+</song>

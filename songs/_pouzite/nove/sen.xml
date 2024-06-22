@@ -17,7 +17,7 @@
             Ve v<chord value="Dmi"/>lnách opouští, po hodinách<chord value="C"/> mizí
             A mě<chord value="Dmi"/>síc nový st<chord value="F2"/>íny vypla<chord value="G"/>ší
         </section>
-        <section name="R">
+        <section name="Ref">
             Proud motý<chord value="C"/>lů unáší strach
             Na listy <chord value="F2"/>sedá hvězdnej prach
             Proletí <chord value="Ami"/>ohněm a mizí stále d<chord value="G"/>ál
@@ -31,10 +31,10 @@
             Všechno<chord value="Dmi"/> ví z povzdálí vedou naše <chord value="C"/>kroky
             A mě<chord value="Dmi"/>síc nový st<chord value="F2"/>íny vypl<chord value="G"/>aší
         </section>
-        <section name="R">
+        <section name="Ref">
             ...
         </section>
-        <section name="R">
+        <section name="Ref">
             Proud motý<chord value="C"/>lů unáší strach
             Na listy <chord value="F"/>sedá hvězdnej prach
             A nový s<chord value="Ami"/>tíny, a nový stíny<chord value="G"/> vyplaší

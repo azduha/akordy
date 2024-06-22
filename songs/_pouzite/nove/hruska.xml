@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Hruška</title>
+    <artist>Čechomor</artist>
+    <url>https://pisnicky-akordy.cz/cechomor/hruska</url>
+    
+    <sections>
+        <section name="1">
+            Sto<chord value="D"/>jí hruška v š<chord value="A"/>irém poli vrš<chord value="D"/>ek se jí <chord value="G"/>zele<chord value="A"/>ná
+            /: Pod <chord value="D"/>ní se <chord value="G"/>pase k<chord value="A"/>ůň vra<chord value="D"/>ný pase ho <chord value="A"/>má mil<chord value="D"/>á :/
+        </section>
+        <section name="2">
+            Proč <chord value="D"/>má milá dnes <chord value="A"/>pásete z ve<chord value="D"/>čera <chord value="G"/>do rá<chord value="A"/>na
+            /: Kam <chord value="D"/>můj mi<chord value="G"/>lý po<chord value="A"/>jede<chord value="D"/>te já poje<chord value="A"/>du s v<chord value="D"/>áma :/
+        </section>
+        <section name="3">
+            O <chord value="D"/>já pojedu <chord value="A"/>daleko přes <chord value="D"/>vody <chord value="G"/>hlubok<chord value="A"/>é
+            /: Kéž <chord value="D"/>bych byl <chord value="G"/>nikdy <chord value="A"/>nepoz<chord value="D"/>nal panny <chord value="A"/>černoo<chord value="D"/>ké :/
+        </section>
+    </sections>
+</song>

@@ -5,8 +5,8 @@
     <url>https://supermusic.cz/skupina.php?idpiesne=3641</url>
     
     <sections>
-        <section name="®">
-            <chord value="G"/>Vap tap tap ...<chord value="Cmi, F G#, G, Cmi, G, Cmi, F, G#, G Cmi, G"/>
+        <section name="Ref">
+            <chord value="G"/>Vap tap tap ...<chord value="Cmi"/><chord value="F"/><chord value="G#"/><chord value="G"/><chord value="Cmi"/><chord value="G"/><chord value="Cmi"/><chord value="F"/><chord value="G#"/><chord value="G"/><chord value="Cmi"/><chord value="G"/>
         </section>
         <section name="1">
             V <chord value="Cmi"/>devět hodin dvacet pět <chord value="F"/>mě opustilo štěstí,
@@ -14,6 +14,7 @@
             v <chord value="Cmi"/>devět hodin dvacet pět <chord value="F"/>jako bych dostal pěstí,
             já <chord value="G#"/>za hodinu na náměstí měl jsem <chord value="G"/>stát,
             ale v <chord value="G7"/>jiným městě.
+
             Tvá zp<chord value="C7"/>ráva zněla prostě a byla tak krátká,
             že <chord value="Fmi"/>stavíš se jen na skok, že nechalas' mi vrátka
             <chord value="B"/>zadní otevřená, <chord value="G"/>zadní otevřená,
@@ -21,17 +22,22 @@
             <chord value="Fmi"/>to jsi tenkrát řekla, že se nechceš vracet,
             <chord value="B"/>že jsi unavená, <chord value="G"/>ze mě unavená.
         </section>
+        <section name="Ref">
+        </section>
         <section name="2">
             Já čekala jsem, hlavu jako střep, a zdálo se, že dlouho,
             může za to vinný sklep, že člověk často sleví,
             já čekala jsem, hlavu jako střep, s podvědomou touhou,
             já čekala jsem dobu dlouhou, víc než dost, kolik přesně, nevím.
+
             Pak jedenáctá byla a už to bylo passé,
             já dřív jsem měla vědět, že vidět chci tě zase,
             láska nerezaví, láska nerezaví,
             ten list, co jsem ti psala, byl dozajista hloupý,
             byl odměřený moc, na vlídný slovo skoupý,
             už to nenapravím, už to nenapravím.
+        </section>
+        <section name="Ref">
         </section>
     </sections>
 </song>

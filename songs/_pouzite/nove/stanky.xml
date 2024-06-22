@@ -15,7 +15,7 @@
             <chord value="D"/>uteče den jak <chord value="Gmi"/>večerní zprávy,
             <chord value="D"/>neuměj žít a <chord value="A7"/>bouřej se a neposlou<chord value="D"/>chaj.<chord value="D7"/>
         </section>
-        <section name="R">
+        <section name="Ref">
             Jen <chord value="G"/>zahlídli svět maj <chord value="A7"/>na duši vrásky
             tak málo <chord value="D"/>je, <chord value="Gmi"/>málo je lásky
             <chord value="D"/>ztracená víra, <chord value="A7"/>hrozny z vinic neposbír<chord value="D"/>á.
@@ -25,8 +25,8 @@
             <chord value="D"/>postávaj a <chord value="Gm"/>ze slov a hlasů
             <chord value="D"/>poznávám, jak <chord value="A7"/>málo jsme jim stačili <chord value="D"/>dát.<chord value="D7"/>
         </section>
-        <section name="R">
-            Jen <chord value="G"/>zahlídli svět maj <chord value="A7"/>na duši vrásky ... 2X
+        <section name="Ref 2×">
+            Jen <chord value="G"/>zahlídli svět maj <chord value="A7"/>na duši vrásky ...
         </section>
     </sections>
 </song>

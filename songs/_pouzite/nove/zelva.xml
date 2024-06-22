@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Želva</title>
+    <artist>Olympic</artist>
+    <url>https://pisnicky-akordy.cz/olympic/zelva</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="G"/>Ne moc s<chord value="C"/>nadno se <chord value="G"/>želva <chord value="C"/>po dně h<chord value="G"/>oní<chord value="C"/><chord value="G"/><chord value="C"/>
+            <chord value="G"/>velmi <chord value="C"/>radno je p<chord value="G"/>lavat <chord value="C"/>na dno za<chord value="G"/> ní<chord value="C"/><chord value="G"/>, potom
+            <chord value="D"/>počkej, až se zeptá na to, <chord value="Emi"/>co tě v mozku lechtá,
+            <chord value="G"/>nic se <chord value="C"/>neboj a <chord value="G"/>vem si <chord value="C"/>něco od<chord value="G"/> ní.<chord value="C"/><chord value="G"/><chord value="C"/>
+        </section>
+        <section name="2">
+            Abych zabil dvě mouchy jednou ranou,
+            želví nervy od želvy schovám stranou,
+            jednu káď tam dám pro tebe a pak aspoň pět pro sebe,
+            víš, má drahá, a zbytek je pod vanou.
+        </section>
+        <section name="Ref">
+            <chord value="G"/>Když si <chord value="D"/>někdo <chord value="C"/>pozor ne<chord value="G"/>dá, jak se v<chord value="D"/>lastně <chord value="C"/>želva hle<chord value="G"/>dá,
+            <chord value="C"/>ona ho na něco nachyt<chord value="D"/>á-<chord value="D7"/>á, <chord value="C"/>i když si to později vyčít<chord value="D"/>á-á<chord value="D7"/>
+        </section>
+        <section name="3">
+            Ne moc lehce se želva po dně honí,
+            ten, kdo nechce, tak brzy slzy roní,
+            jeho úsměv se vytratí, a to se mu nevyplatí,
+            má se nebát želev a spousty vodní.
+        </section>
+        <section name="Ref">
+        </section>
+    </sections>
+</song>

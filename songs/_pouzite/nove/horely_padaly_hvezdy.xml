@@ -5,16 +5,13 @@
     <url>https://pisnicky-akordy.cz/michal-sindelar/horely-padaly-hvezdy</url>
     
     <sections>
-        <section name="Předehra">
-            <chord value="|D|G|A|A|"/><chord value="2x"/>
-        </section>
         <section name="1">
             <chord value="D"/>Andělům <chord value="G"/>otrhalo ráno <chord value="A"/>křídla,
             <chord value="D"/>a v koutech <chord value="G"/>usínají moje <chord value="A"/>sny.
             <chord value="D"/>Za oknem <chord value="G"/>déšť tiše <chord value="A"/>zpívá,
             <chord value="D"/>naše srdce <chord value="G"/>jsou vyha<chord value="A"/>slý, zavírám oči
         </section>
-        <section name="R">
+        <section name="Ref">
             <chord value="D"/>Tu noc <chord value="G"/>hořely padaly <chord value="A"/>hvězdy,
             <chord value="D"/>Ty si se bála,<chord value="G"/> že nepřijde<chord value="A"/> den,
             <chord value="D"/>já věděl, <chord value="G"/>že je to na<chord value="A"/>vždy, a Ty...
@@ -32,13 +29,7 @@
             A věřím, že ty stíny v sebe splynou
             a všechno začne znovu zas, přicházím do tmy
         </section>
-        <section name="R">
-        </section>
-        <section name="Solo">
-            <chord value="|D|G|A|A|"/>4x
-        </section>
-        <section name="R">
-            2x
+        <section name="Ref 2×">
         </section>
     </sections>
 </song>

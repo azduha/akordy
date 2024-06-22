@@ -5,22 +5,19 @@
     <url>https://pisnicky-akordy.cz/kabat/colorado</url>
     
     <sections>
-        <section>
-            Intro riff...
-        </section>
         <section name="1">
             <chord value="G"/>Táta vždycky říkal: hochu, žádný stra<chord value="C"/>chy,
             seš kovboj, v <chord value="G"/>Coloradu můžeš krávy <chord value="D"/>pást,
             já radši <chord value="G"/>utratil jsem psa a všechny pra<chord value="C"/>chy,
             do srdce <chord value="G"/>Evropy já <chord value="D"/>odjel v klidu kr<chord value="G"/>ást.
         </section>
-        <section name="1">
+        <section name="2">
             Narvaný kapsy, prsteny, řetězy zlatý 
             tam kolem krku místní Indiáni maj',
             a ty, co nemakaj', tak jsou nejvíc bohatý,
             musím si pohnout, dokaváď tam rozdávaj'.
         </section>
-        <section name="R">
+        <section name="Ref">
             Z Billa n<chord value="G"/>a Nováka změním si svý jm<chord value="C"/>éno,
             a až tu m<chord value="G"/>alou zemi celou rozkrad<chord value="D"/>em, rozkradem!,
             tak se vr<chord value="G"/>átím ve svý rodný Color<chord value="Emi"/>ado,<chord value="C"/>

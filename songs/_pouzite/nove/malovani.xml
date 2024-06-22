@@ -6,19 +6,15 @@
     
     <sections>
         <section name="1">
-            <chord value="Emi"/><chord value="C"/><chord value="D"/><chord value="Emi"/><chord value="C"/><chord value="D"/><chord value="Emi"/><chord value="C"/><chord value="D"/>
-            <chord value="Ami"/><chord value="Hmi"/>
-        </section>
-        <section name="2">
             <chord value="Emi"/>Nesnaž se, znáš se,<chord value="C"/> řekni mi <chord value="D"/>co je jiný,<chord value="Emi"/>
             jak v kleci máš s<chord value="C"/>e <chord value="D"/>pro nevinný<chord value="Emi"/>
             noci dlouhý <chord value="C"/>jsou plný <chord value="D"/>touhy a <chord value="Emi"/>lásky nás dvou<chord value="C"/>
         </section>
-        <section name="3">
+        <section name="*">
             <chord value="D"/>Všechno hezký <chord value="Emi"/>za sebou mám, <chord value="C"/>můžu si <chord value="D"/>za to <chord value="Emi"/>sám, <chord value="C"/>v hlavě <chord value="D"/>hlavolam,
             <chord value="Emi"/>jen táta a máma <chord value="C"/>jsou s <chord value="D"/>náma, <chord value="Emi"/>napořád s náma
         </section>
-        <section name="R">
+        <section name="Ref">
             <chord value="C"/>To <chord value="D"/>je to tvoje <chord value="Emi"/>malování <chord value="C"/>vzdušnejch <chord value="D"/>zámků,
             <chord value="Emi"/>malování po <chord value="C"/>zdech holejma <chord value="D"/>rukama
             tě <chord value="Emi"/>nezachrání, už <chord value="C"/>máš na ka<chord value="D"/>hánku,
@@ -27,9 +23,7 @@
             <chord value="Emi"/>za náma,<chord value="C"/> na <chord value="D"/>zádech, <chord value="Emi"/>za náma,
             už <chord value="C"/>máš na ka<chord value="D"/>hánku, me<chord value="Emi"/>zi náma, <chord value="C"/>mi taky <chord value="Ami"/>došel <chord value="Hmi"/>dech......
         </section>
-        <section name="R">
-        </section>
-        <section name="4">
+        <section name="2">
             <chord value="Emi"/>Znáš se, <chord value="C"/>řekni mi <chord value="D"/>co je ji<chord value="Emi"/>ný,
             jak v kleci máš se<chord value="C"/>, <chord value="D"/>pro nevinný<chord value="Emi"/>
             noci dlouhý <chord value="C"/>jsou plný <chord value="D"/>touhy a <chord value="Emi"/>lásky nás tří.

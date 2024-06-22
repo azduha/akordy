@@ -15,7 +15,7 @@
             <chord value="D"/>Tam zapadli trampi, hladoví a sešlí ,
             <chord value="A"/>začli sobě noto<chord value="D"/>vat.
         </section>
-        <section name="R">
+        <section name="Ref">
             <chord value="D"/>Na hradě Okoři <chord value="A"/>světla už nehoří,
             <chord value="D"/>bílá paní <chord value="A"/>šla už dávno <chord value="D"/>spát.
             Ta měla ve zvyku, <chord value="A"/>podle svého budíku,
@@ -35,7 +35,7 @@
             Místo aby hlídal, zuřivě ji líbal,
             dostal z toho zimnici.
         </section>
-        <section name="R">
+        <section name="Ref">
         </section>
     </sections>
 </song>

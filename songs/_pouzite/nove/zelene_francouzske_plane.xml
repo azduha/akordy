@@ -10,6 +10,7 @@
             <chord value="A"/>dovolíš, jen si sednu do <chord value="G"/>stínu na hrob <chord value="A"/>tvůj.
             <chord value="D"/>Horkým letním sluncem jsem <chord value="G"/>rozpále<chord value="Emi"/>ná,
             <chord value="A"/>chodím celý den a jsem <chord value="G"/>unave<chord value="D"/>ná.
+            
             Podle náhrobku vidím - slavils <chord value="Emi"/>osmnáct let,
             když jsi v <chord value="A"/>zbytečné válce o<chord value="D"/>pustil tenhle <chord value="A"/>svět.
             <chord value="D"/>Doufám, že zemřel jsi <chord value="Emi"/>čistý a hned,
@@ -22,32 +23,26 @@
             začly <chord value="G"/>dudy zvolna <chord value="Emi"/>hrát tesknou <chord value="A"/>pí<chord value="D"/>seň.
         </section>
         <section name="2">
-            Zanechal jsi tu dívku nebo snad ženu svou,
-            vzpomínky v jejím srdci nikdy nevyblednou,
-            i když zemřel jsi dávno, před mnoha lety,
-            v jejích očích jsi zůstal osmnáctiletý.
-            Nebo jsi pouhý cizinec beze jména
-            v dlouhém seznamu padlých, jehož připomíná
-            zažloutlá fotka chlapce s hnědýma očima,
-            která nikoho dávno už nezajímá.
+            Zanechal jsi tu dívku nebo snad ženu svou, vzpomínky v jejím srdci nikdy nevyblednou,
+            i když zemřel jsi dávno, před mnoha lety, v jejích očích jsi zůstal osmnáctiletý.
+            
+            Nebo jsi pouhý cizinec beze jména v dlouhém seznamu padlých, jehož připomíná
+            zažloutlá fotka chlapce s hnědýma očima, která nikoho dávno už nezajímá.
         </section>
         <section name="Ref">
             Hrály píšťaly...
         </section>
         <section name="3">
-            Na francouzských pláních vlčí máky kvetou,
-            barvy ze strání svítí pestrou paletou,
-            horký letní vítr začal od moře vát,
-            žádné pušky a plyn, žádný ostnatý drát.
-            Jenom tisíce křížů tady v písku stojí
-            a svým tichým hlasem k oblakům žalují,
-            že z touhy člověka vládnout vzešlo utrpení,
-            že zničil a proklel celá pokolení.
+            Na francouzských pláních vlčí máky kvetou, barvy ze strání svítí pestrou paletou,
+            horký letní vítr začal od moře vát, žádné pušky a plyn, žádný ostnatý drát.
+            
+            Jenom tisíce křížů tady v písku stojí a svým tichým hlasem k oblakům žalují,
+            že z touhy člověka vládnout vzešlo utrpení, že zničil a proklel celá pokolení.
         </section>
         <section name="Ref">
             Hrály píšťaly...
             + A když <chord value="G"/>kněz dělal kříž nad tvým <chord value="A"/>tělem,
-            začly {G]dudy zvolna <chord value="Emi"/>hrát tesknou <chord value="A"/>pí<chord value="D"/>seň...
+            začly <chord value="G"/>dudy zvolna <chord value="Emi"/>hrát tesknou <chord value="A"/>pí<chord value="D"/>seň...
         </section>
     </sections>
 </song>
