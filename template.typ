@@ -68,6 +68,10 @@
   context({
     let letter = removeDiacritics(title).at(0)
     let letterId = (letter.to-unicode() - "A".to-unicode());
+    if letterId < 0 {
+      letterId = -1
+      letter = "#"
+    }
 
     let isR = calc.rem(here().page(), 2)
 
