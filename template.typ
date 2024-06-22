@@ -260,55 +260,54 @@
     for i in range(0, remPages) {
       pagebreak()
     }
-  })
 
+    let find-child(elem, tag) = {
+      elem.children
+        .find(e => "tag" in e and e.tag == tag)
+    }
 
-  let find-child(elem, tag) = {
-    elem.children
-      .find(e => "tag" in e and e.tag == tag)
-  }
-
-  // Load songs and render them.
-  let songs = songs.map(file => {
-    xml(file).first()
-  }).map(xml => {
-    (
-      title: find-child(xml, "title").children.first(),
-      noDiacriticsTitle: removeDiacritics(find-child(xml, "title").children.first()),
-      artist: find-child(xml, "artist").children.first(),
-      sections: find-child(xml, "sections").children.filter(e => "tag" in e and e.tag == "section")
-    )
-  }).sorted(key: object => { object.noDiacriticsTitle }).map(contents => {
-    pagebreak()
-    song(
-      title: contents.title,
-      artist: contents.artist,
-      {
-        contents.sections.map(section => {
-          let name = ""
-          if ("name" in section.attrs) {
-            name = section.attrs.name
-          }
-
-          let first = section.children.remove(0)
-          first = first.slice(1)
-          section.children.insert(0, first)
-
-          let body = section.children.map(child => {
-            if ("tag" in child and child.tag == "chord") {
-              chord(child.attrs.value)
-            } else {
-              child.split("\n").map(row => row.trim(regex("\s\s"))).join("\n")
+    // Load songs and render them.
+    let songs = songs.map(file => {
+      xml(file).first()
+    }).map(xml => {
+      (
+        title: find-child(xml, "title").children.first(),
+        noDiacriticsTitle: removeDiacritics(find-child(xml, "title").children.first()),
+        artist: find-child(xml, "artist").children.first(),
+        sections: find-child(xml, "sections").children.filter(e => "tag" in e and e.tag == "section")
+      )
+    }).sorted(key: object => { object.noDiacriticsTitle }).map(contents => {
+      pagebreak()
+      song(
+        title: contents.title,
+        artist: contents.artist,
+        {
+          contents.sections.map(section => {
+            let name = ""
+            if ("name" in section.attrs) {
+              name = section.attrs.name
             }
+
+            let first = section.children.remove(0)
+            first = first.slice(1)
+            section.children.insert(0, first)
+
+            let body = section.children.map(child => {
+              if ("tag" in child and child.tag == "chord") {
+                chord(child.attrs.value)
+              } else {
+                child.split("\n").map(row => row.trim(regex("\s\s"))).join("\n")
+              }
+            })
+
+            songSection(name: name, body)
           })
+        }
+      )
+    })
 
-          songSection(name: name, body)
-        })
-      }
-    )
+    for s in songs {
+      s
+    }
   })
-
-  for s in songs {
-    s
-  }
 }
