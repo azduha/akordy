@@ -128,7 +128,7 @@
     ),
     paper: "a4",
     header: {
-      place(top + right, dy: 4em, text(fill: rgb("#999") , weight: "bold", upper("Duhový zpěvník")))
+      place(top + right, dy: 4em, text(fill: rgb("#999") , weight: "bold", upper(title)))
     },
     footer: {
       align(center, [
