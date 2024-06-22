@@ -51,9 +51,9 @@
 
     if (
       lastHeading.level == 10 and
-      here().position().y == lastHeading.location().position().y
+      calc.abs(here().position().y - lastHeading.location().position().y) < 1em.to-absolute()
     ) {
-      let lastX = lastHeading.location().position().x + measure(lastHeading).width + 0.5em
+      let lastX = lastHeading.location().position().x + measure(lastHeading).width + 0.3em
       let currentX = here().position().x
 
       shift = calc.max(0em.to-absolute(), (lastX - currentX).to-absolute())
@@ -62,16 +62,16 @@
     box(width: shift, height: 1.6em,
       text(
         weight: "bold", size: 0.9em, {
-          heading(level:10, {
             table(
               columns: (shift, 20pt),
               gutter: 0pt,
               inset: 0pt,
               stroke: none,
               "",
-              value
+              heading(level:10, {
+                text(value)
+              })
             )
-          })
         }
       )
     )
