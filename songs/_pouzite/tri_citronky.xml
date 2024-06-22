@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Tři citrónky</title>
+    <artist>Umělá</artist>
+    <url>https://pisnicky-akordy.cz/maxim-turbulenc/tri-citronky</url>
+    
+    <sections>
+        <section name="1">
+            V <chord value="C"/>jedné <chord value="Ami"/>mořské <chord value="Dmi"/>pusti<chord value="G7"/>ně
+            <chord value="C"/>ztroskotal <chord value="Ami"/>parník <chord value="Dmi"/>v hlubi<chord value="G7"/>ně.
+            <chord value="C"/>Jenom tři m<chord value="Ami"/>alé <chord value="Dmi"/>citron<chord value="G7"/>ky,
+            zůstaly na hladi<chord value="C"/>ně.
+        </section>
+        <section name="Ref">
+            /: <chord value="C"/>rýbaroba, <chord value="Ami"/>rýbaroba, <chord value="Dmi"/>rýbaroba <chord value="G7"/>ču ču,:/ 3×
+            zůstaly na hladi<chord value="C"/>ně.
+        </section>
+        <section name="2">
+            A tak se citrónky plavily dál,
+            jeden jim k tomu na kytaru hrál.
+            A tak se plavily do dáli,
+            až na ostrov korálový
+        </section>
+        <section name="Ref">
+        </section>
+        <section name="3">
+            Tam je však stihla nehoda zlá,
+            Byla to mořská příšera.
+            Sežrala citrónky i s kůrou,
+            zakončila tak baladu mou.
+        </section>
+        <section name="Ref">
+        </section>
+    </sections>
+</song>

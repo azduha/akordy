@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Až...</title>
+    <artist>Tomáš Klus</artist>
+    <url>https://pisnicky-akordy.cz/tomas-klus/az</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="Ami"/>Až rozpustím <chord value="D"/>dým a k tomu sko<chord value="G"/>nčí další d<chord value="C"/>en,
+            tak půjdem<chord value="Ami"/> oba d<chord value="D"/>omů za tím s<chord value="G"/>vým <chord value="C"/>štěstím. <chord value="Ami"/>
+            Jsem kolemjd<chord value="D"/>oucí z davu, sou<chord value="G"/>část osudu<chord value="C"/>
+            a budu<chord value="Ami"/> tebou z<chord value="D"/>novu osln<chord value="G"/>ěn.
+        </section>
+        <section name="2">
+            <chord value="Ami"/>Až rozpustíš <chord value="D"/>si vlasy, zít<chord value="G"/>řek bude tmo<chord value="C"/>u, asi.<chord value="Ami"/>
+            Jednou je bu<chord value="D"/>du česat j<chord value="G"/>á. Jsou <chord value="C"/>plný krásy. <chord value="Ami"/>
+            Otevřu <chord value="D"/>okno, aby v<chord value="G"/>šechno bylo b<chord value="C"/>íž, tady. <chord value="Ami"/><chord value="D"/>
+            Vždyť víš<chord value="G"/>.
+        </section>
+        <section name="Ref">
+            <chord value="Emi"/>Zatím mi nikdo nevě<chord value="Ami"/>ří
+            mý vzdušný zámky u dve<chord value="F"/>ří.
+            Jen ty jsi na oko smut<chord value="C"/>ná.
+            <chord value="Emi"/>A co mám dělat, když jsme t<chord value="Ami"/>ři?
+            Ty jsi ta, co s láskou nešetří<chord value="F"/>.
+            Ty jsi ta na oko smut<chord value="C"/>ná. <chord value="G"/>
+        </section>
+        <section name="3">
+            Láhev vína dohasíná a ty jsi zas tak jiná.
+            Jsi moje, vím to jenom já.
+            Jsi srdcevrah mých snění. Na stěnách fotky mění
+            slzy v hrách.
+        </section>
+        <section name="Ref">
+        </section>
+        <section name="4">
+            Jsme dva různý světy, dvě míjející se planety,
+            jsme dvě kosmický lodě.
+            Starý fráze v křoví, poví ti je on, tvůj přítel,
+            plyšový seladón.
+        </section>
+        <section name="Ref">
+        </section>
+    </sections>
+</song>

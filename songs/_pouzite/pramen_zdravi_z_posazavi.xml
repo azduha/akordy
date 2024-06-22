@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Pramen zdraví z Posázaví</title>
+    <artist>Zdeněk Svěrák, Jaroslav Uhlíř</artist>
+    <url>https://pisnicky-akordy.cz/sverak-uhlir/pramen-zdravi-z-posazavi</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="C"/>Každý den, každý den,
+            k svači<chord value="Ami"/>ně jedině,
+            <chord value="F"/>jedině <chord value="G"/>pramen zdraví <chord value="C"/>z Posázaví.<chord value="G"/>
+        </section>
+        <section name="2">
+            Chcete-li prospěti
+            dítěti zdravému,
+            kupte mu pramen zdraví z Posázaví.
+        </section>
+        <section name="Ref 3x">
+            <chord value="G"/>Výrobky <chord value="C"/>mléčné,
+            to je <chord value="Am"/>marné,
+            jsou blaho<chord value="F"/>dárné
+            <chord value="G"/>a <chord value="C"/>věčné.
+        </section>
+    </sections>
+</song>

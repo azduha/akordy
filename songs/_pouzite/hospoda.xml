@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Hospoda</title>
+    <artist>Sysel z Flambergu</artist>
+    <url></url>
+    
+    <sections>
+        <section name="Ref">
+            <chord value="G"/>Hospodo <chord value="D"/> nalej a <chord value="G"/>naplň <chord value="A"/>džány,
+            <chord value="C"/>my zítra <chord value="G"/>do boje <chord value="A"/>odtá<chord value="D"/>hnem,
+            <chord value="G"/>bijem se <chord value="D"/>za boha, <chord value="G"/>za krále <chord value="A"/>slávy,
+            <chord value="C"/>předtím se <chord value="G"/>na oba <chord value="A"/>napi<chord value="G"/>jem!
+        </section>
+        <section name="1">
+            Krčmářka veselá, mladá a krásná
+            nektarem lahodným plní džbán.
+            Hlava už přestává býti jasná,
+            na její lásku dost zlaťáků mám.
+        </section>
+        <section name="Ref">
+        </section>
+        <section name="2">
+            Možná se vrátíme, olížem rány,
+            do další bitvy zas dál se hnem,
+            možná, že budeme počítat vrány
+            na poli, kde zítra ulehnem.
+        </section>
+        <section name="Ref">
+        </section>
+        <section name="3">
+            Svou marnost ve víně utopil,
+            když vypil krčmářky lásky džbán,
+            druhý den na hradbách hrdě se bil,
+            pod jejími zdmi byl pochován.
+        </section>
+        <section name="Ref">
+        </section>
+    </sections>
+</song>

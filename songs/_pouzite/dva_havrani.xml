@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Dva havrani</title>
+    <artist>Asonance</artist>
+    <url>https://supermusic.cz/skupina.php?idpiesne=2210</url>
+    
+    <sections>
+        <section name="1">
+            Když jsem se z <chord value="Dmi"/>pole <chord value="C"/>vr<chord value="Dmi"/>acela,
+            dva havrany jsem <chord value="C"/>sly<chord value="Dmi"/>šela,
+            jak jeden d<chord value="F"/>ru<chord value="C"/>hého se ptá:
+            kdo dneska v<chord value="Dmi"/>eče<chord value="C"/>ři <chord value="Dmi"/>nám dá?
+            kdo dneska v<chord value="Dmi"/>eče<chord value="C"/>ři <chord value="Dmi"/>nám dá?
+        </section>
+        <section name="2">
+            Ten první k druhému se otočil
+            a černým křídlem cestu naznačil,
+            krhavým zrakem k lesu hleděl
+            a takto jemu odpověděl
+            a takto jemu odpověděl:
+        </section>
+        <section name="3">
+            "Za starým náspem, v trávě schoulený
+            tam leží rytíř v boji raněný,
+            a nikdo neví, že umírá,
+            jen jeho kůň a jeho milá.
+            Jen jeho kůň a jeho milá."
+        </section>
+        <section name="4">
+            "Jeho kůň dávno po lesích běhá
+            a jeho milá uŽ jiného má,
+            už pro nás bude dosti místa,
+            hostina naše už se chystá.
+            Hostina naše už se chystá."
+        </section>
+        <section name="5">
+            "Na jeho bílé tváře usednem
+            a jeho modré oči vyklovem,
+            a až se masa nasytíme,
+            z vlasů si hnízdo postavíme.
+            Z vlasů si hnízdo postavíme."
+        </section>
+    </sections>
+</song>

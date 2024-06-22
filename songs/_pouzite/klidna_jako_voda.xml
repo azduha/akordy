@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<song>
+    <title>Klidná jako voda</title>
+    <artist>Jelen</artist>
+    <url>https://pisnicky-akordy.cz/jelen/klidna-jako-voda</url>
+    
+    <sections>
+        <section name="1">
+            <chord value="C"/>Chodím světem už <chord value="F"/>pěknejch pár <chord value="C"/>let,
+            <chord value="C"/>parným létem i <chord value="F"/>zrmzlej jak <chord value="C"/>led.
+            <chord value="Ami"/>Zjistil jsem, že <chord value="F"/>lásku smím <chord value="G"/>dávat i <chord value="C"/>vzít,
+            nikdy jsem <chord value="F"/>nešel tou <chord value="C"/>cestou, kudy <chord value="G"/>ty musíš <chord value="C"/>jít.
+        </section>
+        <section name="2">
+            Viděl jsem i místa, lepší zapomenout.
+            Kulky vzduchem hvízdat, těla po vodě plout.
+            Někdy si až říkám, jestli mám právo žít,
+            a to jsem nešel tou cestou, kudy ty musíš jít.
+        </section>
+        <section name="Ref">
+            Buď <chord value="F"/>klidná jako <chord value="C"/>voda, ale <chord value="G"/>silná jako <chord value="C"/>proud,
+            <chord value="F"/>skála se ti <chord value="C"/>poddá a <chord value="G"/>zbavíš se všech pout.
+            <chord value="F"/>Svěží jako ranní ro<chord value="C"/>sa a č<chord value="E7"/>istá jako s<chord value="Ami"/>níh.
+            Když tan<chord value="F"/>číš po kamení b<chord value="C"/>osá, svět m<chord value="G"/>áš na dlaní<chord value="C"/>ch.
+        </section>
+        <section name="3">
+            Život někdy umí lidem naložit kříž,
+            ale ničeho se neboj, jsem tu s tebou, vždyť víš.
+            A i kdyby nás ďábel chtěl na rohy vzít,
+            spolu půjdem tou cestou, kudy ty musíš jít.
+        </section>
+        <section name="Ref 2×">
+            ...
+            Svěží jako ranní rosa a čistá jako sníh.
+            Když tančíš po kamení bosá, svět máš na dlaních.
+        </section>
+    </sections>
+</song>

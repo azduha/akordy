@@ -17,10 +17,10 @@
             zbitej a <chord value="C"/>špinavej, tancuju <chord value="Am"/>sám,
             váš pohled <chord value="Dm"/>káravej už dávno<chord value="G"/> znám.
         </section>
-        <section name="R">
-            Pořád jen [: <chord value="F"/>na kolena, na kolena, :] <chord value="C"/>jé jé jé,
-            pořád jen [: <chord value="F"/>na kolena, na kolena, :] <chord value="C"/>jé jé jé,
-            pořád jen [: <chord value="F"/>na kolena, na kolena, :] <chord value="C"/> je to <chord value="Am"/>tak,
+        <section name="Ref">
+            Pořád jen /: <chord value="F"/>na kolena, na kolena, :/ <chord value="C"/>jé jé jé,
+            pořád jen /: <chord value="F"/>na kolena, na kolena, :/ <chord value="C"/>jé jé jé,
+            pořád jen /: <chord value="F"/>na kolena, na kolena, :/ <chord value="C"/> je to <chord value="Am"/>tak,
             a vaše <chord value="F"/>saka vám posere <chord value="G"/>pták.
         </section>
         <section name="3">
@@ -29,17 +29,9 @@
             kašlu vám na bonton, vejmysly chytrejch hlav,
             sere mě Tichej Don a ten váš tupej dav.
         </section>
-        <section name="1">
-            <chord value="|C|C|Ami|Ami|"/><chord value="3x"/>
-            <chord value="|F|F|G|G|"/>
-        </section>
-        <section name="R">
+        <section name="Ref">
             Pořád jen na kolena, na kolena, ...
             a tenhle barák vám posere pták.
-        </section>
-        <section name="2">
-            <chord value="|C|C|Ami|Ami|"/><chord value="Xx"/>
-            <chord value="|F|F|G|G|C|"/>
         </section>
     </sections>
 </song>

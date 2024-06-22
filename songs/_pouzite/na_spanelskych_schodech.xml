@@ -11,38 +11,36 @@
             jsi nenápad<chord value="B"/>ná a nepůvab<chord value="F"/>ná,
             ale <chord value="B"/>chtivá jak <chord value="F"/>Napole<chord value="Es"/>on.
         </section>
-        <section name="2">
+        <section name="Ref">
             <chord value="Es"/>Prá<chord value="B"/>vě se <chord value="F"/>protrhly <chord value="Gmi"/>hráze.
             <chord value="Es"/>Prá<chord value="B"/>vě teď <chord value="F"/>nevím co s<chord value="Gmi"/> tím.
             <chord value="Es"/>Prá<chord value="B"/>vě jsem <chord value="F"/>zaplatil d<chord value="Gmi"/>raze.
-            Es B F Es
-            Právě jsem zapálil Řím.
+            <chord value="Es"/>Prá<chord value="B"/>vě jsem <chord value="F"/>zapálil <chord value="Es"/>Řím.
         </section>
-        <section name="3">
+        <section name="2">
             Vždycky jsem chtěl stavět lodě,
             a po mořích plout, s větrem snít:
             ta neodbytná a nenasytná
             touha se nepotopit.
         </section>
-        <section name="4">
+        <section name="Ref">
             Právě jsem objevil Zemi.
             Právě jsem překročil Don.
             Právě jsem hýčkaný všemi.
             Právě já historión.
         </section>
-        <section name="5">
+        <section name="3">
             V sedanských blindážích sládne
             i náš hořký a ztracený svět:
             ta nedůtklivá a věčně živá
             nevůle odpovědět.
         </section>
-        <section name="6">
+        <section name="Ref">
             Právě vzdal jsem se zlému.
             Právě tak vzdám se i vám.
             Právě jsem uvěřil všemu.
             Právě se připozdívá,
-        </section>
-        <section name="připozdívá">
+            připozdívá...
         </section>
     </sections>
 </song>

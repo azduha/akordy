@@ -6,7 +6,7 @@
     
     <sections>
         <section name="1">
-            <chord value="G"/>No tak mi <chord value="Emi"/>zatancuj, a<chord value="D"/>ť náladu<chord value="G"/> mám,
+            <chord value="D"/>No tak mi <chord value="Hmi"/>zatancuj, a<chord value="A"/>ť náladu<chord value="D"/> mám,
             a dej mi celou noc já nechci bejt sám,
             hlavní je neuhnout, dobře zvolit svůj směr,
             a teď holka musím jít až tam na sever.
@@ -21,8 +21,8 @@
             já ji jenom políbil a šel na sever.
         </section>
         <section name="R">
-            <chord value="G"/>Cestu znám a <chord value="C"/>neměním <chord value="G"/>směr,
-            <chord value="G"/>dojdu k řece <chord value="Em"/>plný ryb až <chord value="D"/>tam na se<chord value="G"/>ver. 2x
+            <chord value="D"/>Cestu znám a <chord value="G"/>neměním <chord value="D"/>směr,
+            <chord value="D"/>dojdu k řece <chord value="Hmi"/>plný ryb až <chord value="A"/>tam na se<chord value="D"/>ver. 2x
         </section>
         <section name="3">
             Mám nohy bolavý, už nechtěj se hnout,
@@ -33,14 +33,14 @@
         <section name="R">
         </section>
         <section name="1">
-            <chord value="D"/>Ta cesta byla rovná, místy rozbitá,
-            <chord value="C"/>číše vína plná, jindy celá vylitá,
-            <chord value="D"/>už nevrátím se zpátky, ubejvá mi sil,
-            <chord value="C"/>tak řekněte jí, prosím, že <chord value="D"/>jsem tady byl.
+            <chord value="A"/>Ta cesta byla rovná, místy rozbitá,
+            <chord value="G"/>číše vína plná, jindy celá vylitá,
+            <chord value="A"/>už nevrátím se zpátky, ubejvá mi sil,
+            <chord value="G"/>tak řekněte jí, prosím, že <chord value="A"/>jsem tady byl.
         </section>
         <section name="R">
-            <chord value="A"/>Cestu znám <chord value="D"/>a neměním <chord value="A"/>směr,
-            <chord value="A"/>dojdu k řece <chord value="F#mi"/>plný ryb až <chord value="E"/>tam na se<chord value="A"/>ver. 4x
+            <chord value="E"/>Cestu znám <chord value="A"/>a neměním <chord value="E"/>směr,
+            <chord value="E"/>dojdu k řece <chord value="C#mi"/>plný ryb až <chord value="H"/>tam na se<chord value="E"/>ver. 4x
         </section>
     </sections>
 </song>
