@@ -214,13 +214,19 @@
     ),
     paper: "a4",
   )
-
-  v(18em)
-  align(center, image(fit: "contain", width: 100%, height: 5em, "media/logo.png"))
-  v(2em)
-  align(center, text(size: 3em, weight: "bold", upper(title)))
-  v(-2em)
-  align(center, text(size: 3em, weight: "bold", upper(subtitle)))
+  
+  place(
+    dx: -100%,
+    box(width: 300%, {
+      align(right, image(fit: "contain", width: 200%, height: 6em, "media/titlebar.png"))
+      v(16em)
+      align(center, text(size: 4em, weight: "bold", upper(title)))
+      v(-2em)
+      align(center, text(size: 3em, weight: "bold", upper(subtitle)))
+      v(18em)
+      align(left, image(fit: "contain", width: 200%, height: 6em, "media/titlebar.png"))
+    })
+  )
 
   pagebreak()
 
@@ -251,6 +257,15 @@
     Obsah
     #v(0.5em)
   ])
+
+  context({
+    let remPages = calc.rem(here().page() - 1, 4)
+    remPages = 2 - remPages
+
+    for i in range(0, remPages) {
+      pagebreak()
+    }
+  })
 
 
   let find-child(elem, tag) = {
