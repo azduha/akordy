@@ -6,10 +6,10 @@
     
     <sections>
         <section name="1">
-            [: <chord value="C"/>Čí že ste, husličky, <chord value="F"/>či<chord value="C"/>e,
-            <chord value="Dmi"/>kdo vás tu <chord value="Ami"/>zanecha<chord value="G"/>l :]
-            <chord value="Dmi7"/>na trávě <chord value="G"/>pová<chord value="C"/>lané<chord value="F"/>, <chord value="Dmi"/>na trávě <chord value="G"/>pová<chord value="C"/>lan<chord value="F"/>é
-            <chord value="Dmi"/>u paty <chord value="Ami"/>ořec<chord value="G"/>ha?<chord value="Dmi"/><chord value="Ami"/><chord value="G"/>
+            [: <chord value="G"/>Čí že ste, husličky, <chord value="C"/>či<chord value="G"/>e,
+            <chord value="Ami"/>kdo vás tu <chord value="Emi"/>zanecha<chord value="D"/>l :]
+            <chord value="Ami7"/>na trávě <chord value="D"/>pová<chord value="G"/>lané<chord value="C"/>, <chord value="Ami"/>na trávě <chord value="D"/>pová<chord value="G"/>lan<chord value="C"/>é
+            <chord value="Ami"/>u paty <chord value="Emi"/>ořec<chord value="D"/>ha?<chord value="Ami"/><chord value="Emi"/><chord value="D"/>
         </section>
         <section name="2">
             [: A kdože tu trávu tak zválal,
